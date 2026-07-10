@@ -79021,6 +79021,7 @@
 89345^Scribed Dragon Scale^0
 89346^Engraved Dragon Scale^0
 89347^Epitaph of Fallen Dragons^1
+89348^Guise of the Kronowick^1
 89350^Small Hammer of Cessation^1
 89351^Hammer of Cessation^1
 89352^Small Hammer of Adjournment^0
@@ -83424,6 +83425,9 @@
 94439^Frosty Fig Pudding^20
 94440^Cheerful Apple Cider^20
 94441^Holiday Hot Chocolate^20
+94442^Terror of Luclin Standard Items Bundle^100
+94443^Terror of Luclin Additional Items Bundle^100
+94444^Terror of Luclin Special Items Bundle^100
 94445^Latent Etheric Bracer of Havok^1
 94446^Latent Etheric Gauntlets of Havok^1
 94447^Latent Etheric Boots of Havok^0
@@ -95189,6 +95193,7 @@
 106878^Trinket of the Center^1
 106879^Visage of the Gnomework^1
 106880^Shadow Step Scepter^1
+106881^Trinket of the Eye^1
 106882^Scorched Magmatic Snail Familiar^1
 106886^Primitive Hammer Ornament^1
 106887^Primitive Dagger Ornament^1
@@ -95419,6 +95424,7 @@
 107389^Employee: Male Barbarian Guard^0
 107390^Employee: Female Barbarian Guard^1
 107391^Contract of the Nihil^1
+107392^Contract of the Phoenix^1
 107393^Trinket of the Frontier Mountains^1
 107394^Token of the Magus^1
 107395^Title: the Valiant^1
@@ -139778,7 +139784,7 @@
 165387^Visage of the Akheva^1
 165388^Umbral Plains Scrying Bowl^1
 165389^Zelniak Saddle^1
-165390^Metamorph Wand - Lightcrawler^1
+165390^Metamorph Wand: Lightcrawler^1
 165393^Tradable: Terror of Luclin Expansion Ticket^1
 165394^Tradable: Zelniak Saddle^1
 165395^Tradable: Owlbear Saddle^1
@@ -144557,6 +144563,7 @@
 170895^Arcana Imbued Laburnum Extract^1000
 170896^Arcana Imbued Privet Extract^1000
 170897^Arcana Imbued Delphinium Extract^1000
+170898^Consigned Bite of the Shissar XXIII^20
 170899^Bite of the Shissar XXIII^20
 170900^Spider's Bite XXIII^20
 170901^Scorpion's Agony XXIII^20
@@ -146008,6 +146015,7 @@
 172486^Cerulean Chalk Stub^100
 172487^Volatile Essence Vial^100
 172488^Sealed Hex Knot^100
+172489^Containment Ring Loop^100
 172490^Warped Arcane Lens^100
 172491^Shar'Drahn's Scale Fragment^100
 172492^Charred Spellbone Sliver^100
