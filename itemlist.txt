@@ -6683,7 +6683,7 @@
 8569^CLASS 4 Steel Silver Tip Arrow^0
 8570^CLASS 5 Steel Silver Tip Arrow^0
 8571^CLASS 6 Steel Silver Tip Arrow^0
-8572^CLASS 1 Wood Point Arrow^0
+8572^CLASS 1 Wood Point Arrow^100
 8573^CLASS 2 Wood Point Arrow^100
 8574^CLASS 3 Wood Point Arrow^0
 8575^CLASS 4 Wood Point Arrow^0
@@ -6903,7 +6903,7 @@
 8798^Discarded Shark Tooth^1000
 8799^Flayed Panther Hide^1
 8800^Rough Hickory Recurve Bow^1
-8801^Rough Hickory Recurve Bow^0
+8801^Rough Hickory Recurve Bow^1
 8802^Rough Hickory Recurve Bow^1
 8803^Rough Elm Recurve Bow^0
 8804^Carved Elm Recurve Bow^1
@@ -10884,7 +10884,7 @@
 13260^Giant Wasp Venom Sac^100
 13261^Giant Wasp Stinger^100
 13262^Giant Scarab Egg Sac^1
-13264^Rat Tooth^0
+13264^Rat Tooth^1
 13265^Giant Rat Tooth^0
 13266^Orc Eye^1
 13267^Goblin Eye^1
@@ -11216,7 +11216,7 @@
 13614^Romar's Gloves of Visions^1
 13615^Purple Sr Apprentice Robe*^0
 13616^Purple Sr Apprentice Robe*^1
-13617^Gayatri's Heart^0
+13617^Gayatri's Heart^1
 13618^Elemental Gloves of the Prime^1
 13619^Magi`Kot's Gloves of Convergence^1
 13620^Glowing Box of Protection^1
@@ -24766,13 +24766,13 @@
 28667^Bracer of Precision^1
 28668^Wristguard of Keen Vision^1
 28670^Droga Jail Key^1
-28672^Royal Crest^0
+28672^Royal Crest^1
 28673^Royal Emblem^1
 28674^Griffon Treat^1
 28675^Griffon Treat^1
-28676^Griffon Treat^0
-28677^Griffon Treat^0
-28678^Royal Trinket^0
+28676^Griffon Treat^1
+28677^Griffon Treat^1
+28678^Royal Trinket^1
 28688^Thontik's Blade^1
 28689^Aerigin's Cloak^1
 28690^Firgant's Copper Ring^1
@@ -31358,10 +31358,10 @@
 36183^Icefall Mammoth Meat^20
 36184^Cave Bear Heart^20
 36185^Coldeye Orc Charm^20
-36186^Verkorn's Bear Totem^0
+36186^Verkorn's Bear Totem^1
 36187^Icefall Bear Meat^20
 36188^Icefall Leopard Meat^20
-36189^Battered Crate^0
+36189^Battered Crate^1
 36190^War Captain Rockfist's Poison^1
 36191^Crate of Poisoned Meat^1
 36192^Striped Jumjum^20
@@ -31370,13 +31370,13 @@
 36195^Klazag's Amulet^1
 36196^One of Lize's Trinkets^0
 36197^Hedge Devil Branch^20
-36198^Orc Shackle Key^0
-36199^Meat for Orgak's Wolves^0
-36200^Note from Togtak^0
+36198^Orc Shackle Key^1
+36199^Meat for Orgak's Wolves^20
+36200^Note from Togtak^1
 36201^Heart from a Snow Leopard Adult^20
-36202^Verkorn's Leopard Totem^0
+36202^Verkorn's Leopard Totem^1
 36203^Chunk of the Sacred Stone^1
-36204^Remains of the Sacred Stone^0
+36204^Remains of the Sacred Stone^1
 36205^Savage Caiman Egg^20
 36206^Chunk of Caiman Meat^20
 36207^Bait from Rhuk L`vere^0
@@ -32917,7 +32917,7 @@
 37819^Round Cut Emerald^100
 37820^Round Cut Opal^100
 37821^Enchanted Dwerium Bar^1000
-37822^Silver Etched Eye Rune^0
+37822^Silver Etched Eye Rune^100
 37823^Silver Etched Spiral Rune^100
 37824^Gold Etched Eye Rune^100
 37825^Gold Etched Spiral Rune^100
@@ -46125,10 +46125,10 @@
 52606^Wooden Bucket^0
 52607^Cleaning Solvent^0
 52608^Advanced Cleaning Solvent^0
-52609^Smoldering Ash^0
-52610^Lava Ooze Gland^0
-52611^Igneous Cairn Stone^0
-52612^Vial of Burning Liquid^0
+52609^Smoldering Ash^100
+52610^Lava Ooze Gland^20
+52611^Igneous Cairn Stone^20
+52612^Vial of Burning Liquid^1
 52613^Dry Scrubbing Brush^0
 52614^Soaked Scrubbing Brush^0
 52615^Drenched Scrubbing Brush^0
@@ -46139,17 +46139,17 @@
 52621^Blank Canvas^0
 52622^Sketch of the Reliquary^0
 52623^Sketch of the Scale of Veeshan^0
-52625^Roughly Hewn Cairn Stone^0
-52626^Acid-Etched Cairn Stone^0
-52627^Small Crude Cairn^0
-52628^Braided Shamblevine^0
-52629^Gloom Blossom^0
+52625^Roughly Hewn Cairn Stone^20
+52626^Acid-Etched Cairn Stone^20
+52627^Small Crude Cairn^1
+52628^Braided Shamblevine^1
+52629^Gloom Blossom^20
 52630^Snapping Drake Blossom^20
-52631^Flower Collector's Box^0
+52631^Flower Collector's Box^1
 52632^Knotted Whip of Coercion^1
-52633^Patchwork Poem^0
-52634^Crystallized Dragon Tear^0
-52635^Wreath for Veldyn^0
+52633^Patchwork Poem^1
+52634^Crystallized Dragon Tear^1
+52635^Wreath for Veldyn^1
 52636^Shelga's Pouch of Ingredients^0
 52637^Tasty Truffles^20
 52638^Fizzy Lemonade^1
@@ -47067,10 +47067,10 @@
 53594^Ring of the Bixie Queen^1
 53595^Pelzia's Golden Bauble^1
 53596^Royal Mantle of Stone Hive^1
-53597^Blackfeather Healthstone^0
+53597^Blackfeather Healthstone^1
 53598^Blackfeather Powerstone^1
 53599^Blackfeather Shockstone^1
-53600^Blackfeather Focus Stone^0
+53600^Blackfeather Focus Stone^1
 53601^Blackfeather Ablestone^1
 53602^Satyr Tooth Necklace^1
 53603^Satin Harpy Waist Wrap^1
@@ -47090,8 +47090,8 @@
 53617^Darkfell Starstone^1
 53618^Stonemight Cupcake^20
 53619^Darkfell Wineshot^20
-53623^Saplift Potion^0
-53628^Healing Mud^0
+53623^Saplift Potion^20
+53628^Healing Mud^20
 53629^Assassin Weave Cape^1
 53630^Plundered Krithgorian Knife^1
 53631^Wanderlust Guild Loadstone^1
@@ -47137,15 +47137,15 @@
 53672^Mask of the Ages^1
 53673^Spore of the Freemind Sporali^1
 53674^Mammoth Sandwich^20
-53675^Mammoth Skin Bag^0
-53676^Clawskin Elixir^0
+53675^Mammoth Skin Bag^1
+53676^Clawskin Elixir^20
 53677^Goreman's Special Brew^20
 53678^Cave Bear Bag^1
 53679^Goreman's Soothing Sludge^20
 53680^Mammoth Meat Pie^20
-53681^Gorbak's Bag^0
-53682^Resistance of the Cave Bear^0
-53683^Kregnad's Concoction^0
+53681^Gorbak's Bag^1
+53682^Resistance of the Cave Bear^20
+53683^Kregnad's Concoction^20
 53684^Kregnad's Knapsack^1
 53685^Catspeed Concoction^20
 53686^Foulbane^1
@@ -47154,11 +47154,11 @@
 53689^Lucky Charm Totem^1
 53690^Totem of the Leopard's Paw^1
 53691^Stonefed Chip^1
-53692^Nightmoon Stone^0
-53693^Togtak's Frozen Shawl^0
+53692^Nightmoon Stone^1
+53693^Togtak's Frozen Shawl^1
 53694^Barrier of Black^1
 53695^Dog Whistle^1
-53696^Aura of the Nightmoon^0
+53696^Aura of the Nightmoon^20
 53697^Draught of Orcish Grace^20
 53698^Wraithguard Bracer^1
 53699^Runelinked Bracer^1
@@ -47191,9 +47191,9 @@
 53727^Anji's Serpentine Ring^1
 53728^Cloak of the Elder Drake^1
 53729^The Truthfinder^1
-53730^Lava-Sealed Marble of Mana^0
-53731^Krithgor Bone Ear Stud^0
-53732^Signet of the Crusade^0
+53730^Lava-Sealed Marble of Mana^1
+53731^Krithgor Bone Ear Stud^1
+53732^Signet of the Crusade^1
 53733^Jenray's Ceremonial Veil^1
 53734^Chipped Fang of the Lost^1
 53735^Shield of the Otherworld^1
@@ -48073,10 +48073,10 @@
 54659^Wyl`ards Cartography Tools^1
 54660^The Bixie Evolution^1
 54661^Imposter Clue^1
-54663^Brown Griffon Feather^0
-54664^Golden Griffon Feather^0
-54665^Black Griffon Feather^0
-54666^White Griffon Feather^0
+54663^Brown Griffon Feather^1
+54664^Golden Griffon Feather^1
+54665^Black Griffon Feather^1
+54666^White Griffon Feather^1
 54667^Ancient Charm^0
 54668^Ancient Giant Book One^1
 54669^Ancient Giant Book Two^1
@@ -50530,7 +50530,7 @@
 57539^Gnomish Lightwave Inhibitor^100
 57540^Lava Lamp^100
 57541^Building Block - Flat Square - Red Brick^0
-57542^Building Block - Long Wall - Red Brick^0
+57542^Building Block - Long Wall - Red Brick^100
 57543^Building Block - Flat Rectangle - Red Brick^0
 57544^Building Block - Cube - Red Brick^0
 57545^Building Block - Column - Red Brick^0
@@ -50926,7 +50926,7 @@
 57971^The Lava with Life^1
 57972^Drakkin for Dummies^1
 57973^The Curse of the Gods^1
-57974^Crescent Reach City Charter^0
+57974^Crescent Reach City Charter^1
 57975^The Ogres Come of Age^1
 57977^Message From Mea^0
 57979^Bent Evantil Twig^100
@@ -51706,7 +51706,7 @@
 58756^Crystalwing Order Apprentice Tunic*^1
 58757^Serpent's Eyes Apprentice Tunic*^1
 58758^Sylvan Moon Apprentice Tunic*^1
-58759^Fangs of the Dragon Apprentice Tunic*^0
+58759^Fangs of the Dragon Apprentice Tunic*^1
 58760^Whisperwalkers Apprentice Tunic*^1
 58761^The Arcane Alliance Apprentice Tunic*^1
 58762^The Dreamseekers Apprentice Tunic*^1
@@ -74908,9 +74908,9 @@
 84198^Scaled Clue Book^0
 84199^Commemorative Copper Coin^1
 84200^Chunk of Blackvein Ore^0
-84201^Sample of Pure Water^0
+84201^Sample of Pure Water^1
 84202^Wind Chime^1
-84203^Jar of Mist^0
+84203^Jar of Mist^1
 84204^Jar of the Windspirit^1
 84205^Torch of the Red Lord^0
 84206^Breath of the Red Lord^0
@@ -74929,13 +74929,13 @@
 84219^Veeshan's Children^0
 84220^Touch of the Six^0
 84221^Seeker's Spiritstaff^0
-84223^Banner Pattern^0
-84224^Shimmering Dye^0
-84225^Bolt of Fine Cloth^0
-84226^Banner Cloth^0
-84227^Drakkin Sewing Kit^0
+84223^Banner Pattern^1
+84224^Shimmering Dye^1
+84225^Bolt of Fine Cloth^1
+84226^Banner Cloth^1
+84227^Drakkin Sewing Kit^1
 84228^Burning Torch of the Red Lord^0
-84230^Banner of the Drakkin^0
+84230^Banner of the Drakkin^1
 84231^Bag of Seeds^0
 84232^Lize's Locket^0
 84233^Shambling Mound Branch^1
@@ -74943,10 +74943,10 @@
 84235^Spirit Wand^0
 84236^Attuned Spirit Wand^1
 84237^Glowing Glass Shard^20
-84238^Lump of Elemental Clay^0
+84238^Lump of Elemental Clay^1
 84239^Living Wood Sample^20
 84240^Darkfell Fang^20
-84241^Stonemight Ear^0
+84241^Stonemight Ear^20
 84242^Vial of Smoldering Blood^0
 84243^Gnoll Rune Trap^1
 84244^Fellwinter^1
@@ -75673,7 +75673,7 @@
 85085^Chalice of Life^1
 85086^Puma Fang^20
 85087^Pristine Bear Hide^0
-85088^Crescent Citizen's Declaration^0
+85088^Crescent Citizen's Declaration^1
 85089^Wild Crescent Rose^24
 85090^Amulet of Desire^0
 85091^Sweetheart's Cake^0
@@ -76071,7 +76071,7 @@
 85522^Fleshy Quickspore^0
 85523^Ripe Quickspore^0
 85524^Succulent Quickspore^1
-85525^Glowing Quickspore^0
+85525^Glowing Quickspore^1
 85526^Gemstone of Emperor Illsalin^1
 85527^Gemstone of Emperor Bloodfin^1
 85528^Gemstone of The Faceless Emperor^0
@@ -76199,10 +76199,10 @@
 85668^Lance of Ravenglass' Victim^1
 85669^Ashtail Dagger of Lingering Embers^1
 85670^The Chalice of Life^1
-85671^Koda's Paw^0
+85671^Koda's Paw^1
 85672^Shadowpaw's Claw^0
 85673^Ghostfeather's Talon^0
-85674^Ezak's Fang^0
+85674^Ezak's Fang^1
 85676^Balloondabloop's Bile^0
 85677^Roil's Seething Ember^0
 85678^First Fragment of the Warriors' Disk^0
@@ -76215,7 +76215,7 @@
 85685^Second Fragment of the Heroes' Disk^1
 85686^Third Fragment of the Heroes' Disk^1
 85687^Fourth Fragment of the Heroes' Disk^1
-85688^Fifth Fragment of the Heroes' Disk^0
+85688^Fifth Fragment of the Heroes' Disk^1
 85689^Sixth Fragment of the Heroes' Disk^1
 85690^First Fragment of the Kings' Disk^0
 85691^Second Fragment of the Kings' Disk^1
@@ -76223,17 +76223,17 @@
 85693^Fourth Fragment of the Kings' Disk^0
 85694^Fifth Fragment of the Kings' Disk^0
 85695^Sixth Fragment of the Kings' Disk^0
-85696^Gangii's Poisoned Roots^0
+85696^Gangii's Poisoned Roots^1
 85697^Oblivion's Dark Bile^1
 85698^The Ashengate Orders^1
 85699^Insignia of Ashengate's Elite^20
 85703^Seal of Outpost One^1
 85704^Seal of Outpost Two^1
-85705^Seal of Outpost Three^0
-85706^Seal of Outpost Four^0
-85707^Diseased Bear Heart^0
-85708^Diseased Griffon Heart^0
-85709^Diseased Wolf Heart^0
+85705^Seal of Outpost Three^1
+85706^Seal of Outpost Four^1
+85707^Diseased Bear Heart^20
+85708^Diseased Griffon Heart^20
+85709^Diseased Wolf Heart^20
 85710^Trideath's Mane^0
 85711^Skyrake's Horn^0
 85712^Komodokin's Claw^0
@@ -76251,15 +76251,15 @@
 85725^Sandstorm's Fin^0
 85726^Darkenfin's Spine^0
 85727^Rock Breaker Hammer^1
-85728^Vahna's Tear^0
-85729^Darkroot Plaguespore^0
-85730^Clan Direwind Golem Stitching^0
-85731^Blight Pyre Ember^0
-85733^Dyn`leth's Battle Plans^0
+85728^Vahna's Tear^1
+85729^Darkroot Plaguespore^20
+85730^Clan Direwind Golem Stitching^20
+85731^Blight Pyre Ember^1
+85733^Dyn`leth's Battle Plans^1
 85734^Rat Skull Totem^20
 85735^Shattered Direwind Staff^1
 85736^Orzhok's Shattered Shield^1
-85741^Zryan's Report from the Front Lines^0
+85741^Zryan's Report from the Front Lines^1
 85742^The Ashengate Seal^1
 85743^Rock Breaker Hammer^1
 85744^Scar's Shattered Shield^1
@@ -76270,7 +76270,7 @@
 85749^Pristine Slashclaw Pelt^20
 85750^Etheral Ghostwolf Pelt^0
 85751^Denlord Darkmoon's Tooth^0
-85752^Rotwood Spore^0
+85752^Rotwood Spore^20
 85753^Slashclaw Cub Trap^0
 85754^Witchlamp Lightstone^20
 85755^Ratwork Power Core^1
@@ -76305,7 +76305,7 @@
 85793^Derein's Shattered Shield^1
 85794^Gothar's Shattered Shield^1
 85795^Shadow Ward Rune^0
-85796^Sayrook's Head^0
+85796^Sayrook's Head^1
 85797^Blightfire Bivouac Supplies^0
 85799^Sanguine Mind Crystal^0
 85800^Azure Mind Crystal^0
@@ -77296,12 +77296,12 @@
 87173^Scroll of Tul`Nartek^0
 87174^Hak`Leth's Ancient Tablet^1
 87175^Potent Antidote^0
-87177^Mountain Recluse Venom Sac^0
+87177^Mountain Recluse Venom Sac^1
 87180^Fresh Water Sample^0
 87181^Note from Captain Vonsolu^1
 87182^Letter to Kluno Orenbrew^0
 87185^Ashen Incubator^1
-87187^Captured Baby Drake^0
+87187^Captured Baby Drake^1
 87188^Solusek Diamond^1
 87191^Box of Everburning Flame^0
 87192^Adamantium Drakkin Polearm^1
@@ -77310,7 +77310,7 @@
 87195^Ashen Powder^1
 87196^Worker's Pouch^1
 87197^Magma Infused Crystal^1
-87198^Zhubis' Collectors Satchel^0
+87198^Zhubis' Collectors Satchel^1
 87199^Satchel of High-Powered Explosives^1
 87200^Encrusted Magnesium Deposit^0
 87201^Sulphuric Mineral Compound^0
@@ -78039,10 +78039,10 @@
 88134^Oread Hair^20
 88135^Polished Lake Stone^0
 88136^Tarnished Nose Ring^1
-88137^Ancient Parchment^0
+88137^Ancient Parchment^1
 88138^Ancient Parchment^1
 88139^Ancient Parchment^1
-88140^Copy of Druidic Rune^0
+88140^Copy of Druidic Rune^1
 88141^Drakkin Trail Mix^1
 88142^Fresh Glacier Water^1
 88143^Razor-Sharp Obsidian Blade^1
@@ -78061,15 +78061,15 @@
 88156^Orcskull Cup^1
 88160^Scratched Blood Ruby^0
 88162^Gold-Flecked Ore^1
-88163^Fertilizing Spores^0
+88163^Fertilizing Spores^1
 88164^Lineage of Lesser Giants^1
 88165^Sliver of Dark Essence^1
 88167^Handful of Dry Earth^0
 88168^Sleep Spore Draught^1
-88170^Obsidian Cup^0
+88170^Obsidian Cup^1
 88171^Cup of Lava^0
 88172^Darksphere^0
-88173^Reliquary Fragment^0
+88173^Reliquary Fragment^1
 88174^Ore-coated Reliquary Stone^0
 88175^Pouch of Goldfire Ore Dust^0
 88176^Goldfire Ore^0
@@ -83644,6 +83644,9 @@
 94660^Buckler of the Turncoat's Anguish^1
 94661^Silken Trillium^1
 94662^Blood Drinker's Coating^1
+94663^Night of Shadows Standard Items Bundle^100
+94664^Night of Shadows Additional Items Bundle^100
+94665^Night of Shadows Special Items Bundle^100
 94700^Corroded Ear-Hoop^1
 94701^Shrunken Skull Charm^1
 94702^Tarnished Garnet Earring^1
@@ -86209,7 +86212,7 @@
 97297^Stringy Banshee Hair^20
 97298^Ripped Banshee Silk Scrap^20
 97299^Withered Banshee Heart^20
-97300^Barbarian Blood^0
+97300^Barbarian Blood^20
 97301^Intact Bat Wing Membrane^20
 97302^Small Bear Tooth^20
 97303^Shiny Bear Tooth^20
@@ -95713,10 +95716,10 @@
 108142^Flawed Consigned Silk Sleeves^0
 108143^Flawed Consigned Silk Pantaloons^0
 108144^Flawed Consigned Silk Robe^0
-108145^Intricate Consigned Plate Bracer^0
-108146^Intricate Consigned Plate Wristguard^0
+108145^Intricate Consigned Plate Bracer^1
+108146^Intricate Consigned Plate Wristguard^1
 108147^Intricate Consigned Plate Wristband^1
-108148^Intricate Consigned Plate Gauntlets^0
+108148^Intricate Consigned Plate Gauntlets^1
 108149^Intricate Consigned Plate Boots^0
 108150^Intricate Consigned Plate Helm^0
 108151^Intricate Consigned Plate Vambraces^0
@@ -95961,16 +95964,16 @@
 108398^Flawed Scryer's Band^0
 108399^Flawed Scryer's Belt^0
 108400^Flawed Conjurer's Ear Loop^1
-108401^Intricate Soldier's Earring^0
+108401^Intricate Soldier's Earring^1
 108402^Intricate Soldier's Ear Stud^1
 108403^Intricate Soldier's Facemask^0
-108404^Intricate Soldier's Gorget^0
+108404^Intricate Soldier's Gorget^1
 108405^Intricate Soldier's Pauldrons^1
-108406^Intricate Soldier's Cloak^0
+108406^Intricate Soldier's Cloak^1
 108407^Intricate Soldier's Orb^1
 108408^Intricate Soldier's Ring^1
 108409^Intricate Soldier's Band^1
-108410^Intricate Soldier's Belt^0
+108410^Intricate Soldier's Belt^1
 108411^Intricate Scryer's Earring^0
 108412^Intricate Scryer's Ear Stud^1
 108413^Intricate Scryer's Facemask^0
@@ -96125,18 +96128,18 @@
 108585^Flawed Consigned Charm^0
 108586^Intricate Consigned Spotstone^0
 108587^Intricate Consigned Crystal Shard^0
-108588^Intricate Consigned Hammer^0
+108588^Intricate Consigned Hammer^1
 108589^Intricate Consigned Mace^0
-108590^Intricate Consigned Katana^0
-108591^Intricate Consigned Scimitar^0
-108592^Intricate Consigned Sacrificial Dagger^0
+108590^Intricate Consigned Katana^1
+108591^Intricate Consigned Scimitar^1
+108592^Intricate Consigned Sacrificial Dagger^1
 108593^Intricate Consigned Partisan Spear^0
 108594^Intricate Consigned Handwraps^0
 108595^Intricate Consigned Spiked Warhammer^0
 108596^Intricate Consigned Trident^0
 108597^Intricate Consigned Greatsword^0
 108598^Intricate Consigned Bow^0
-108599^Intricate Consigned Hammered Buckler^0
+108599^Intricate Consigned Hammered Buckler^1
 108600^Intricate Consigned Targ Shield^0
 108601^Intricate Consigned Charm^0
 108602^Elaborate Consigned Fire Bauble^0
@@ -104533,7 +104536,7 @@
 119970^Contract of the Fungal Fiend^1
 119971^Painting: Night of Shadows^20
 119972^Satchel of Perpetual Twilight^1
-119973^Metamorph Wand - Shrieker^1
+119973^Metamorph Wand: Shrieker^1
 119974^Sonic Wolf Saddle^1
 119975^Visage of the Grimling^1
 119976^Shadow Haven Teleport Pad^1
@@ -133321,6 +133324,7 @@
 158309^Greater Spellbound Ring^1
 158310^Glowing Spellbound Ring^1
 158311^Smoke-Filled Lamp^1
+158320^Cat Ears^1
 158350^Tome: Relax^1
 158351^Tome: Armor of Relentless Runes^1
 158352^Tome: Kragek's Roar^1
