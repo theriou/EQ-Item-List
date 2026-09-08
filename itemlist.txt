@@ -47123,7 +47123,7 @@
 53658^Mace of the Gray Sky^1
 53659^Mantle of Spirits^1
 53660^Cloak of the Winterwinds^1
-53661^Bronzefire Earring^0
+53661^Bronzefire Earring^1
 53662^Distilled Rootvein Potion^20
 53663^Killing Pick^1
 53664^Transcripts of the Lost Tablet^1
@@ -74907,7 +74907,7 @@
 84197^Coldain Clue Book^0
 84198^Scaled Clue Book^0
 84199^Commemorative Copper Coin^1
-84200^Chunk of Blackvein Ore^0
+84200^Chunk of Blackvein Ore^1
 84201^Sample of Pure Water^1
 84202^Wind Chime^1
 84203^Jar of Mist^1
@@ -76205,11 +76205,11 @@
 85674^Ezak's Fang^1
 85676^Balloondabloop's Bile^0
 85677^Roil's Seething Ember^0
-85678^First Fragment of the Warriors' Disk^0
+85678^First Fragment of the Warriors' Disk^1
 85679^Second Fragment of the Warriors' Disk^1
-85680^Third Fragment of the Warriors' Disk^0
+85680^Third Fragment of the Warriors' Disk^1
 85681^Fourth Fragment of the Warriors' Disk^1
-85682^Fifth Fragment of the Warriors' Disk^0
+85682^Fifth Fragment of the Warriors' Disk^1
 85683^Sixth Fragment of the Warriors' Disk^1
 85684^First Fragment of the Heroes' Disk^1
 85685^Second Fragment of the Heroes' Disk^1
@@ -77299,7 +77299,7 @@
 87177^Mountain Recluse Venom Sac^1
 87180^Fresh Water Sample^0
 87181^Note from Captain Vonsolu^1
-87182^Letter to Kluno Orenbrew^0
+87182^Letter to Kluno Orenbrew^1
 87185^Ashen Incubator^1
 87187^Captured Baby Drake^1
 87188^Solusek Diamond^1
@@ -77312,9 +77312,9 @@
 87197^Magma Infused Crystal^1
 87198^Zhubis' Collectors Satchel^1
 87199^Satchel of High-Powered Explosives^1
-87200^Encrusted Magnesium Deposit^0
-87201^Sulphuric Mineral Compound^0
-87202^Direwind Soil Sample^0
+87200^Encrusted Magnesium Deposit^1
+87201^Sulphuric Mineral Compound^1
+87202^Direwind Soil Sample^1
 87203^Darksoot Mushroom^1
 87204^Torn Garment^1
 87205^Torch of the Wraithguard^1
@@ -78072,7 +78072,7 @@
 88173^Reliquary Fragment^1
 88174^Ore-coated Reliquary Stone^0
 88175^Pouch of Goldfire Ore Dust^0
-88176^Goldfire Ore^0
+88176^Goldfire Ore^1
 88177^Obsidian of Shade Bane^0
 88178^Incriminating Note^0
 88179^Sealed Letter^0
@@ -79191,9 +79191,11 @@
 89536^Spiced Payala Latte^1000
 89537^Spiced Grimroot Loaf^1000
 89538^Yellow Starfruit Muffin^1000
+89539^Lethar's Lockbox^1
 89540^Oizyn, Ring of the Woebegone^1
 89541^Oizyn, Ring of the Woebegone^0
 89542^Oizyn, Ring of the Woebegone^1
+89549^Stone Hive Stinger^1
 89550^Nogglegrop Fendlebar the Unwilling^1
 89551^Nogglegrop Fendlebar the Abiding^1
 89552^Nogglegrop the Steadfast^1
@@ -86274,7 +86276,7 @@
 97362^Pristine Spiderling Carapace^20
 97363^Spider Mandible^20
 97364^Intricately Patterned Spider Carapace^20
-97365^Section of Stonemite Pancreas^0
+97365^Section of Stonemite Pancreas^20
 97366^Treant Bark^20
 97367^Troll Blood^20
 97368^Cracked Reptile Shell^20
@@ -86320,7 +86322,7 @@
 97410^Pearlescent Snake Fang^20
 97411^Pearlescent Spider Fang^20
 97412^Cracked Statue Gemstone^20
-97413^Shiny Stonemite Leg^0
+97413^Shiny Stonemite Leg^20
 97414^Crystallized Lotus Sap^20
 97415^Treant Amber^20
 97416^Pearlescent Reptile Claw^20
@@ -96568,6 +96570,7 @@
 109279^Deepwater Freeze^1
 109280^Cracked Crystalkin Heart^1
 109281^Frostreaver Sabre-Tooth Cat Mount^1
+109282^Lethar Penguin Mount^1
 109283^Frostreaver's Strongbox^1
 109285^Loop of Hardened Magma^1
 109286^Whispering Hoop^1
@@ -131189,6 +131192,20 @@
 154818^Serene Soda Water^20
 154819^Serene Fruit Seltzer^20
 154820^Serene Sunset Sparkler^20
+154821^Broken String Toy^100
+154822^Fuzzy Whisker Ball^100
+154823^Vah Shir Spice^100
+154824^Vah Shir Claw File^100
+154825^Squeaky Spider Toy^100
+154826^Festival Vah Shir Tree^100
+154827^Fancy Feather Toy^100
+154828^Vah Shir Teething Star^100
+154829^Star Catcher Gauntlets^1
+154830^Blessed Star Catcher Gauntlets^1
+154831^Moonlight Kissed Ice^1
+154832^Moonlight Kissed Water^1
+154833^Stone Carved Norrath Globe^1
+154835^Fallen Star^1
 154839^Leggings of Wrathfulness^1
 154840^Wilderness Lord's Trousers^1
 154841^Kly Skinned Pantaloons^1
@@ -131336,6 +131353,13 @@
 154985^Suit of Wiska's Ogre Cloth^20
 154987^Fungal Shrieker Spore^1
 154988^Spirit of the Lost^1
+154989^Shard of Luclinite^1
+154990^Shard of Luclinite^1
+154991^Shard of Luclinite^1
+154992^Luclin's Favor^1
+154993^First Note to Basia^1
+154994^Second Note to Basia^1
+154995^Third Note to Basia^1
 155000^Tome: Hiatus^1
 155001^Tome: Hiatus Rk. II^1
 155002^Tome: Hiatus Rk. III^1
@@ -133325,6 +133349,11 @@
 158310^Glowing Spellbound Ring^1
 158311^Smoke-Filled Lamp^1
 158320^Cat Ears^1
+158321^Cat Ears Ornamentation^1
+158326^Lunar Cake^20
+158334^Ball of Violet Yarn^100
+158336^Fancy Pet Pillow^100
+158337^Potted Catnip^100
 158350^Tome: Relax^1
 158351^Tome: Armor of Relentless Runes^1
 158352^Tome: Kragek's Roar^1
