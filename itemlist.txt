@@ -133351,9 +133351,17 @@
 158320^Cat Ears^1
 158321^Cat Ears Ornamentation^1
 158326^Lunar Cake^20
+158333^Lunar Fountain^100
 158334^Ball of Violet Yarn^100
+158335^Royal Pet Pillow^100
 158336^Fancy Pet Pillow^100
 158337^Potted Catnip^100
+158338^Wild Fern^100
+158339^Wild Tulips^100
+158340^Wild Puffball^100
+158341^Plant Stalk^100
+158342^Painting: Festival of Shadows^100
+158343^Festival of Shadows Banner^100
 158350^Tome: Relax^1
 158351^Tome: Armor of Relentless Runes^1
 158352^Tome: Kragek's Roar^1
