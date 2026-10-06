@@ -100035,6 +100035,14 @@
 113607^Trade-In Gem: Glorious Vindication Rk. II^20
 113610^Trade-In Gem: Storm of Arrows Rk. II^20
 113613^Trade-In Gem: Swarm of Bees Rk. II^20
+113614^Blue Beanie^1
+113615^Blue Beanie Ornamentation^1
+113616^Gold Beanie^1
+113617^Gold Beanie Ornamentation^1
+113618^Metamorph: Cerulean Veilwing^1
+113619^Cobalt Riding Dog^1
+113620^Contract of the Ursarachnid^1
+113621^Gold Beanie Bundle^1
 113622^Trade-In Gem: Vigorous Dagger-Throw Rk. II^20
 113625^Trade-In Gem: Desperate Escape Rk. II^20
 113634^Trade-In Gem: Malarian Mantle Rk. II^20
@@ -125907,6 +125915,18 @@
 148584^Sorcerer's Extravagant Necklace^1
 148585^Sorcerer's Extravagant Pauldrons^1
 148586^Sorcerer's Extravagant Belt^1
+148587^Demiplanar Delight: Spiritual Alchemy^1
+148588^Demiplanar Delight: Serving Mortals^1
+148589^Demiplanar Delight: Divine Beverages^1
+148590^Demiplanar Delight: Scaling Heights^1
+148591^Demiplanar Delight: Modern Woodcarving^1
+148592^Demiplanar Delight: Adorning Excellence^1
+148593^Demiplanar Delight: Noxious Remedies^1
+148594^Demiplanar Delight: The Art of Throwing Clay^1
+148595^Demiplanar Delight: Glorious Augmentations^1
+148596^Demiplanar Delight: Mastering Metallurgy^1
+148597^Demiplanar Delight: Tapestry of Life^1
+148598^Demiplanar Delight: Building a Better Belt Buckle^1
 148601^Velazul's Legionnaire Bracer^1
 148602^Velazul's Legionnaire Gauntlets^1
 148603^Velazul's Legionnaire Boots^1
@@ -144695,6 +144715,7 @@
 170988^Shattered Buckler Ornament^1
 170989^Shattered Shield Ornament^1
 170990^Shattered Tower Shield Ornament^1
+170991^Overseer Agent Pack x15^1
 170992^Opulent Earring of the Contracted^1
 170993^Opulent Necklace of the Contracted^1
 170994^Opulent Pauldrons of the Contracted^1
@@ -146121,6 +146142,36 @@
 172584^Jellyfish Goo^5
 172585^Magic Crystal^5
 172586^Magic Orb^1
+172749^Kismet Stabilizing Medium^20
+172750^Kismet Bolstering Medium^20
+172751^Fossilized Kismet Ore^1000
+172752^Fossilized Kismet Crystal^1000
+172753^Fossilized Kismet Imbued Hide^1000
+172754^Fossilized Kismet Imbued Silk^1000
+172755^Fossilized Kismet Imbued Timber^1000
+172757^Glinting Summer Flounder^1000
+172758^Glinting Yellowfin Tuna^1000
+172759^Glinting Cut of Fish^1000
+172760^Glinting Game Meat^1000
+172761^Glinting Gilded Pear^1000
+172762^Glinting Jade Lime^1000
+172763^Glinting Canter Wheat^1000
+172764^Glinting Peppermint Dew^1000
+172799^Kismet Imbued Potion Vial^1000
+172800^Kismet Imbued Poison Vial^1000
+172801^Kismet Imbued Sealed Poison Vial^1000
+172808^Kismet Imbued Nigriventer Venom^1000
+172809^Kismet Imbued Mamba Venom^1000
+172810^Kismet Imbued Gormar Venom^1000
+172811^Kismet Imbued Taipan Venom^1000
+172812^Kismet Imbued Choresine Sample^1000
+172813^Kismet Imbued Muscimol^1000
+172814^Kismet Imbued Oleander^1000
+172815^Kismet Imbued Larkspur^1000
+172816^Kismet Imbued Caladium^1000
+172817^Kismet Imbued Laburnum^1000
+172818^Kismet Imbued Privet^1000
+172819^Kismet Imbued Delphinium^1000
 172873^Entrusted Helm^1
 172874^Entrusted Breastplate^1
 172875^Entrusted Vambraces^1
@@ -147536,6 +147587,8 @@
 174813^Black Wolf Head^100
 174814^Black Wolf Meat^100
 174815^Black Wolf^100
+174816^Drained Rusted Cloak of Fortune's Fool^1
+174830^Glinting Cloak of Fortune's Fool^1
 175001^Legionnaire Bracer of Broken Accord^1
 175002^Legionnaire Gauntlets of Broken Accord^1
 175003^Legionnaire Boots of Broken Accord^1
@@ -147911,6 +147964,9 @@
 175378^Gem of Sly Wind^1
 175379^Stone of Shame^1
 175380^Obsidian Orb of Scrykin Suffering^1
+175381^Beta Fish of FoF Group T1^1
+175382^Beta Fish of FoF Group T2^1
+175383^Beta Fish of FoF Group TS^1
 175401^Legionnaire Bracer of Unraveling Order^1
 175402^Legionnaire Gauntlets of Unraveling Order^1
 175403^Legionnaire Boots of Unraveling Order^1
@@ -148458,6 +148514,35 @@
 176006^Faded Manashard Pouch^1
 176007^Crate of Waning Order^1
 176008^Riftwoven Satchel^1
+176137^Lucky Plate Helm Ornament^1
+176138^Lucky Plate Chest Ornament^1
+176139^Lucky Plate Arms Ornament^1
+176140^Lucky Plate Wrist Ornament^1
+176141^Lucky Plate Hands Ornament^1
+176142^Lucky Plate Legs Ornament^1
+176143^Lucky Plate Feet Ornament^1
+176144^Lucky Chain Helm Ornament^1
+176145^Lucky Chain Chest Ornament^1
+176146^Lucky Chain Arms Ornament^1
+176147^Lucky Chain Wrist Ornament^1
+176148^Lucky Chain Hands Ornament^1
+176149^Lucky Chain Legs Ornament^1
+176150^Lucky Chain Feet Ornament^1
+176151^Lucky Leather Helm Ornament^1
+176152^Lucky Leather Chest Ornament^1
+176153^Lucky Leather Arms Ornament^1
+176154^Lucky Leather Wrist Ornament^1
+176155^Lucky Leather Hands Ornament^1
+176156^Lucky Leather Legs Ornament^1
+176157^Lucky Leather Feet Ornament^1
+176158^Lucky Cloth Helm Ornament^1
+176159^Lucky Cloth Chest Ornament^1
+176160^Lucky Cloth Arms Ornament^1
+176161^Lucky Cloth Wrist Ornament^1
+176162^Lucky Cloth Hands Ornament^1
+176163^Lucky Cloth Legs Ornament^1
+176164^Lucky Cloth Feet Ornament^1
+176165^Lucky Cloth Robe Ornament^1
 177000^Tome: Hiatus V^1
 177001^Tome: Final Stand Discipline VI^1
 177002^Tome: Cyclone Blades XIV^1
@@ -149028,3 +149113,883 @@
 177693^Summoned: Arcane Rageblade^1
 177694^Summoned: Arcane Mindblade^1
 177695^Rod of Shattered Modulation^1
+178001^Legionnaire Bracer of Sworn Devotion^1
+178002^Legionnaire Gauntlets of Sworn Devotion^1
+178003^Legionnaire Boots of Sworn Devotion^1
+178004^Legionnaire Helm of Sworn Devotion^1
+178005^Legionnaire Vambraces of Sworn Devotion^1
+178006^Legionnaire Greaves of Sworn Devotion^1
+178007^Legionnaire Breastplate of Sworn Devotion^1
+178008^Illuminator Bracer of Sworn Devotion^1
+178009^Illuminator Gauntlets of Sworn Devotion^1
+178010^Illuminator Boots of Sworn Devotion^1
+178011^Illuminator Helm of Sworn Devotion^1
+178012^Illuminator Vambraces of Sworn Devotion^1
+178013^Illuminator Greaves of Sworn Devotion^1
+178014^Illuminator Breastplate of Sworn Devotion^1
+178015^Exarch Bracer of Sworn Devotion^1
+178016^Exarch Gauntlets of Sworn Devotion^1
+178017^Exarch Boots of Sworn Devotion^1
+178018^Exarch Helm of Sworn Devotion^1
+178019^Exarch Vambraces of Sworn Devotion^1
+178020^Exarch Greaves of Sworn Devotion^1
+178021^Exarch Breastplate of Sworn Devotion^1
+178022^Natureward Wristguard of Sworn Devotion^1
+178023^Natureward Guantlets of Sworn Devotion^1
+178024^Natureward Boots of Sworn Devotion^1
+178025^Natureward Coif of Sworn Devotion^1
+178026^Natureward Sleeves of Sworn Devotion^1
+178027^Natureward Leggings of Sworn Devotion^1
+178028^Natureward Coat of Sworn Devotion^1
+178029^Soulrender Bracer of Sworn Devotion^1
+178030^Soulrender Gauntlets of Sworn Devotion^1
+178031^Soulrender Boots of Sworn Devotion^1
+178032^Soulrender Helm of Sworn Devotion^1
+178033^Soulrender Vambraces of Sworn Devotion^1
+178034^Soulrender Greaves of Sworn Devotion^1
+178035^Soulrender Breastplate of Sworn Devotion^1
+178036^Lifewalker Wristguard of Sworn Devotion^1
+178037^Lifewalker Gloves of Sworn Devotion^1
+178038^Lifewalker Boots of Sworn Devotion^1
+178039^Lifewalker Cowl of Sworn Devotion^1
+178040^Lifewalker Armwraps of Sworn Devotion^1
+178041^Lifewalker Leggings of Sworn Devotion^1
+178042^Lifewalker Tunic of Sworn Devotion^1
+178043^Soulforge Wristguard of Sworn Devotion^1
+178044^Soulforge Gloves of Sworn Devotion^1
+178045^Soulforge Boots of Sworn Devotion^1
+178046^Soulforge Cowl of Sworn Devotion^1
+178047^Soulforge Armwraps of Sworn Devotion^1
+178048^Soulforge Leggings of Sworn Devotion^1
+178049^Soulforge Tunic of Sworn Devotion^1
+178050^Loremaster Bracer of Sworn Devotion^1
+178051^Loremaster Gauntlets of Sworn Devotion^1
+178052^Loremaster Boots of Sworn Devotion^1
+178053^Loremaster Helm of Sworn Devotion^1
+178054^Loremaster Vambraces of Sworn Devotion^1
+178055^Loremaster Greaves of Sworn Devotion^1
+178056^Loremaster Breastplate of Sworn Devotion^1
+178057^Shadowscale Wristguard of Sworn Devotion^1
+178058^Shadowscale Guantlets of Sworn Devotion^1
+178059^Shadowscale Boots of Sworn Devotion^1
+178060^Shadowscale Coif of Sworn Devotion^1
+178061^Shadowscale Sleeves of Sworn Devotion^1
+178062^Shadowscale Leggings of Sworn Devotion^1
+178063^Shadowscale Coat of Sworn Devotion^1
+178064^Spiritwalker Wristguard of Sworn Devotion^1
+178065^Spiritwalker Guantlets of Sworn Devotion^1
+178066^Spiritwalker Boots of Sworn Devotion^1
+178067^Spiritwalker Coif of Sworn Devotion^1
+178068^Spiritwalker Sleeves of Sworn Devotion^1
+178069^Spiritwalker Leggings of Sworn Devotion^1
+178070^Spiritwalker Coat of Sworn Devotion^1
+178071^Soulslayer Wristguard of Sworn Devotion^1
+178072^Soulslayer Gloves of Sworn Devotion^1
+178073^Soulslayer Sandals of Sworn Devotion^1
+178074^Soulslayer Cap of Sworn Devotion^1
+178075^Soulslayer Sleeves of Sworn Devotion^1
+178076^Soulslayer Pants of Sworn Devotion^1
+178077^Soulslayer Robe of Sworn Devotion^1
+178078^Frostfire Wristguard of Sworn Devotion^1
+178079^Frostfire Gloves of Sworn Devotion^1
+178080^Frostfire Sandals of Sworn Devotion^1
+178081^Frostfire Cap of Sworn Devotion^1
+178082^Frostfire Sleeves of Sworn Devotion^1
+178083^Frostfire Pants of Sworn Devotion^1
+178084^Frostfire Robe of Sworn Devotion^1
+178085^Flameweaver Wristguard of Sworn Devotion^1
+178086^Flameweaver Gloves of Sworn Devotion^1
+178087^Flameweaver Sandals of Sworn Devotion^1
+178088^Flameweaver Cap of Sworn Devotion^1
+178089^Flameweaver Sleeves of Sworn Devotion^1
+178090^Flameweaver Pants of Sworn Devotion^1
+178091^Flameweaver Robe of Sworn Devotion^1
+178092^Mindlock Wristguard of Sworn Devotion^1
+178093^Mindlock Gloves of Sworn Devotion^1
+178094^Mindlock Sandals of Sworn Devotion^1
+178095^Mindlock Cap of Sworn Devotion^1
+178096^Mindlock Sleeves of Sworn Devotion^1
+178097^Mindlock Pants of Sworn Devotion^1
+178098^Mindlock Robe of Sworn Devotion^1
+178099^Dragonbrood Wristguard of Sworn Devotion^1
+178100^Dragonbrood Gloves of Sworn Devotion^1
+178101^Dragonbrood Boots of Sworn Devotion^1
+178102^Dragonbrood Cowl of Sworn Devotion^1
+178103^Dragonbrood Armwraps of Sworn Devotion^1
+178104^Dragonbrood Leggings of Sworn Devotion^1
+178105^Dragonbrood Tunic of Sworn Devotion^1
+178106^Warmonger Wristguard of Sworn Devotion^1
+178107^Warmonger Guantlets of Sworn Devotion^1
+178108^Warmonger Boots of Sworn Devotion^1
+178109^Warmonger Coif of Sworn Devotion^1
+178110^Warmonger Sleeves of Sworn Devotion^1
+178111^Warmonger Leggings of Sworn Devotion^1
+178112^Warmonger Coat of Sworn Devotion^1
+178113^petclasses ear //GT1^1
+178114^all ear //GT1 strsta^1
+178115^all ear //GT1 intwis^1
+178116^all ear //GT1 agidex^1
+178117^tank mask //GT1 strsta^1
+178118^all mask //GT1 intwis^1
+178119^all mask //GT1 agidex^1
+178120^all neck //GT1 strsta^1
+178121^all neck //GT1 ACintwis^1
+178122^all neck //GT1 agidex^1
+178123^all shoulders //GT1 ACstrsta^1
+178124^all shoulders //GT1 ACintwis^1
+178125^all shoulders //GT1 ACagidex^1
+178126^all back //GT1 ACstrsta^1
+178127^all back //GT1 intwis^1
+178128^all back //GT1 agidex^1
+178129^all range //GT1 strsta^1
+178130^all range //GT1 intwis^1
+178131^all range //GT1 agidex^1
+178132^all finger //GT1 ACstrsta^1
+178133^all finger //GT1 ACintwis^1
+178134^all finger //GT1 ACagidex^1
+178135^all waist //GT1 strsta Crippling Slicer^1
+178136^all waist //GT1 intwis Threads of Potential^1
+178137^all waist //GT1 agidex Overdrive Boon^1
+178138^all charm //GT1 strsta^1
+178139^all charm //GT1 intwis^1
+178140^all charm //GT1 ACagidex^1
+178141^Tank Shield- //GT1^1
+178142^Meleehybrid Shield- !ber //GT1^1
+178143^Casterpriest Shield- //GT1^1
+178144^primary secondary 1hs //GT1^1
+178145^primary secondary 1hs //GT1^1
+178146^primary secondary 1hb //GT1^1
+178147^primary secondary 1hb //GT1^1
+178148^primary secondary 1hp //GT1^1
+178149^primary secondary 1hp //GT1^1
+178150^war primary secondary 1hs- //GT1^1
+178151^knight primary 1hb- //GT1^1
+178152^primary secondary hth //GT1^1
+178153^mnk bst primary secondary 1hb- //GT1^1
+178154^rog primary secondary 1hp- //GT1^1
+178155^priest primary 1hb- //GT1^1
+178156^caster primary 1hb- //GT1^1
+178157^primary 2hs //GT1^1
+178158^primary 2hb //GT1^1
+178159^primary 2hp //GT1^1
+178160^knight primary 2hs- //GT1^1
+178161^mnk bst primary 2hb- //GT1^1
+178162^priest primary 2hb- //GT1^1
+178163^caster primary 2hb- //GT1^1
+178164^range rng bow- //GT1^1
+178165^range war pal shd rog bow- //GT1^1
+178166^all aug //GT1 strsta^1
+178167^all aug //GT1 agidex^1
+178168^all aug //GT1 intwissta^1
+178169^all aug //GT1 AC^1
+178170^primary secondary all aug //GT1^1
+178171^primary all aug //GT1^1
+178172^all primary secondary range charm aug //GT1 Balanc^1
+178173^all primary secondary range charm aug //GT1 hStr^1
+178174^all primary secondary range charm aug //GT1 hDex^1
+178175^all primary secondary range charm aug //GT1 hAgi^1
+178176^all primary secondary range charm aug //GT1 hSta^1
+178177^all primary secondary range charm aug //GT1 hInt^1
+178178^all primary secondary range charm aug //GT1 hWis^1
+178179^SKU34 PH179^1
+178201^Legionnaire Bracer of the Unraveling Mind^1
+178202^Legionnaire Gauntlets of the Unraveling Mind^1
+178203^Legionnaire Boots of the Unraveling Mind^1
+178204^Legionnaire Helm of the Unraveling Mind^1
+178205^Legionnaire Vambraces of the Unraveling Mind^1
+178206^Legionnaire Greaves of the Unraveling Mind^1
+178207^Legionnaire Breastplate of the Unraveling Mind^1
+178208^Illuminator Bracer of the Unraveling Mind^1
+178209^Illuminator Gauntlets of the Unraveling Mind^1
+178210^Illuminator Boots of the Unraveling Mind^1
+178211^Illuminator Helm of the Unraveling Mind^1
+178212^Illuminator Vambraces of the Unraveling Mind^1
+178213^Illuminator Greaves of the Unraveling Mind^1
+178214^Illuminator Breastplate of the Unraveling Mind^1
+178215^Exarch Bracer of the Unraveling Mind^1
+178216^Exarch Gauntlets of the Unraveling Mind^1
+178217^Exarch Boots of the Unraveling Mind^1
+178218^Exarch Helm of the Unraveling Mind^1
+178219^Exarch Vambraces of the Unraveling Mind^1
+178220^Exarch Greaves of the Unraveling Mind^1
+178221^Exarch Breastplate of the Unraveling Mind^1
+178222^Natureward Wristguard of the Unraveling Mind^1
+178223^Natureward Guantlets of the Unraveling Mind^1
+178224^Natureward Boots of the Unraveling Mind^1
+178225^Natureward Coif of the Unraveling Mind^1
+178226^Natureward Sleeves of the Unraveling Mind^1
+178227^Natureward Leggings of the Unraveling Mind^1
+178228^Natureward Coat of the Unraveling Mind^1
+178229^Soulrender Bracer of the Unraveling Mind^1
+178230^Soulrender Gauntlets of the Unraveling Mind^1
+178231^Soulrender Boots of the Unraveling Mind^1
+178232^Soulrender Helm of the Unraveling Mind^1
+178233^Soulrender Vambraces of the Unraveling Mind^1
+178234^Soulrender Greaves of the Unraveling Mind^1
+178235^Soulrender Breastplate of the Unraveling Mind^1
+178236^Lifewalker Wristguard of the Unraveling Mind^1
+178237^Lifewalker Gloves of the Unraveling Mind^1
+178238^Lifewalker Boots of the Unraveling Mind^1
+178239^Lifewalker Cowl of the Unraveling Mind^1
+178240^Lifewalker Armwraps of the Unraveling Mind^1
+178241^Lifewalker Leggings of the Unraveling Mind^1
+178242^Lifewalker Tunic of the Unraveling Mind^1
+178243^Soulforge Wristguard of the Unraveling Mind^1
+178244^Soulforge Gloves of the Unraveling Mind^1
+178245^Soulforge Boots of the Unraveling Mind^1
+178246^Soulforge Cowl of the Unraveling Mind^1
+178247^Soulforge Armwraps of the Unraveling Mind^1
+178248^Soulforge Leggings of the Unraveling Mind^1
+178249^Soulforge Tunic of the Unraveling Mind^1
+178250^Loremaster Bracer of the Unraveling Mind^1
+178251^Loremaster Gauntlets of the Unraveling Mind^1
+178252^Loremaster Boots of the Unraveling Mind^1
+178253^Loremaster Helm of the Unraveling Mind^1
+178254^Loremaster Vambraces of the Unraveling Mind^1
+178255^Loremaster Greaves of the Unraveling Mind^1
+178256^Loremaster Breastplate of the Unraveling Mind^1
+178257^Shadowscale Wristguard of the Unraveling Mind^1
+178258^Shadowscale Guantlets of the Unraveling Mind^1
+178259^Shadowscale Boots of the Unraveling Mind^1
+178260^Shadowscale Coif of the Unraveling Mind^1
+178261^Shadowscale Sleeves of the Unraveling Mind^1
+178262^Shadowscale Leggings of the Unraveling Mind^1
+178263^Shadowscale Coat of the Unraveling Mind^1
+178264^Spiritwalker Wristguard of the Unraveling Mind^1
+178265^Spiritwalker Guantlets of the Unraveling Mind^1
+178266^Spiritwalker Boots of the Unraveling Mind^1
+178267^Spiritwalker Coif of the Unraveling Mind^1
+178268^Spiritwalker Sleeves of the Unraveling Mind^1
+178269^Spiritwalker Leggings of the Unraveling Mind^1
+178270^Spiritwalker Coat of the Unraveling Mind^1
+178271^Soulslayer Wristguard of the Unraveling Mind^1
+178272^Soulslayer Gloves of the Unraveling Mind^1
+178273^Soulslayer Sandals of the Unraveling Mind^1
+178274^Soulslayer Cap of the Unraveling Mind^1
+178275^Soulslayer Sleeves of the Unraveling Mind^1
+178276^Soulslayer Pants of the Unraveling Mind^1
+178277^Soulslayer Robe of the Unraveling Mind^1
+178278^Frostfire Wristguard of the Unraveling Mind^1
+178279^Frostfire Gloves of the Unraveling Mind^1
+178280^Frostfire Sandals of the Unraveling Mind^1
+178281^Frostfire Cap of the Unraveling Mind^1
+178282^Frostfire Sleeves of the Unraveling Mind^1
+178283^Frostfire Pants of the Unraveling Mind^1
+178284^Frostfire Robe of the Unraveling Mind^1
+178285^Flameweaver Wristguard of the Unraveling Mind^1
+178286^Flameweaver Gloves of the Unraveling Mind^1
+178287^Flameweaver Sandals of the Unraveling Mind^1
+178288^Flameweaver Cap of the Unraveling Mind^1
+178289^Flameweaver Sleeves of the Unraveling Mind^1
+178290^Flameweaver Pants of the Unraveling Mind^1
+178291^Flameweaver Robe of the Unraveling Mind^1
+178292^Mindlock Wristguard of the Unraveling Mind^1
+178293^Mindlock Gloves of the Unraveling Mind^1
+178294^Mindlock Sandals of the Unraveling Mind^1
+178295^Mindlock Cap of the Unraveling Mind^1
+178296^Mindlock Sleeves of the Unraveling Mind^1
+178297^Mindlock Pants of the Unraveling Mind^1
+178298^Mindlock Robe of the Unraveling Mind^1
+178299^Dragonbrood Wristguard of the Unraveling Mind^1
+178300^Dragonbrood Gloves of the Unraveling Mind^1
+178301^Dragonbrood Boots of the Unraveling Mind^1
+178302^Dragonbrood Cowl of the Unraveling Mind^1
+178303^Dragonbrood Armwraps of the Unraveling Mind^1
+178304^Dragonbrood Leggings of the Unraveling Mind^1
+178305^Dragonbrood Tunic of the Unraveling Mind^1
+178306^Warmonger Wristguard of the Unraveling Mind^1
+178307^Warmonger Guantlets of the Unraveling Mind^1
+178308^Warmonger Boots of the Unraveling Mind^1
+178309^Warmonger Coif of the Unraveling Mind^1
+178310^Warmonger Sleeves of the Unraveling Mind^1
+178311^Warmonger Leggings of the Unraveling Mind^1
+178312^Warmonger Coat of the Unraveling Mind^1
+178313^petclasses ear //GT2^1
+178314^all ear //GT2 strsta^1
+178315^all ear //GT2 intwis^1
+178316^all ear //GT2 agidex^1
+178317^tank mask //GT2 strsta^1
+178318^all mask //GT2 intwis^1
+178319^all mask //GT2 agidex^1
+178320^all neck //GT2 strsta^1
+178321^all neck //GT2 ACintwis^1
+178322^all neck //GT2 agidex^1
+178323^all shoulders //GT2 ACstrsta^1
+178324^all shoulders //GT2 ACintwis^1
+178325^all shoulders //GT2 ACagidex^1
+178326^all back //GT2 ACstrsta^1
+178327^all back //GT2 intwis^1
+178328^all back //GT2 agidex^1
+178329^all range //GT2 strsta^1
+178330^all range //GT2 intwis^1
+178331^all range //GT2 agidex^1
+178332^all finger //GT2 ACstrsta^1
+178333^all finger //GT2 ACintwis^1
+178334^all finger //GT2 ACagidex^1
+178335^all waist //GT2 strsta Crippling Slicer^1
+178336^all waist //GT2 intwis Threads of Potential^1
+178337^all waist //GT2 agidex Overdrive Boon^1
+178338^all charm //GT2 strsta^1
+178339^all charm //GT2 intwis^1
+178340^all charm //GT2 ACagidex^1
+178341^Tank Shield- //GT2^1
+178342^Meleehybrid Shield- !ber //GT2^1
+178343^Casterpriest Shield- //GT2^1
+178344^primary secondary 1hs //GT2^1
+178345^primary secondary 1hs //GT2^1
+178346^primary secondary 1hb //GT2^1
+178347^primary secondary 1hb //GT2^1
+178348^primary secondary 1hp //GT2^1
+178349^primary secondary 1hp //GT2^1
+178350^war primary secondary 1hs- //GT2^1
+178351^knight primary 1hb- //GT2^1
+178352^primary secondary hth //GT2^1
+178353^mnk bst primary secondary 1hb- //GT2^1
+178354^rog primary secondary 1hp- //GT2^1
+178355^priest primary 1hb- //GT2^1
+178356^priest primary 1hb- //GT2^1
+178357^caster primary 1hp- //GT2^1
+178358^caster primary 1hb- //GT2^1
+178359^primary 2hs //GT2^1
+178360^primary 2hb //GT2^1
+178361^primary 2hp //GT2^1
+178362^knight primary 2hs- //GT2^1
+178363^mnk bst primary 2hb- //GT2^1
+178364^priest primary 2hb- //GT2^1
+178365^caster primary 2hb- //GT2^1
+178366^range rng bow- //GT2^1
+178367^range war pal shd rog bow- //GT2^1
+178368^all aug //GT2 str^1
+178369^all aug //GT2 agi^1
+178370^all aug //GT2 intwis^1
+178371^all aug //GT2 AC^1
+178372^primary secondary all aug //GT2^1
+178373^primary all aug //GT2^1
+178374^all primary secondary range charm aug //GT2  Balan^1
+178375^all primary secondary range charm aug //GT2  hStr^1
+178376^all primary secondary range charm aug //GT2  hDex^1
+178377^all primary secondary range charm aug //GT2  hAgi^1
+178378^all primary secondary range charm aug //GT2  hSta^1
+178379^all primary secondary range charm aug //GT2  hInt^1
+178380^all primary secondary range charm aug //GT2  hWis^1
+178401^Legionnaire Bracer of Mirrored Coins^1
+178402^Legionnaire Gauntlets of Mirrored Coins^1
+178403^Legionnaire Boots of Mirrored Coins^1
+178404^Legionnaire Helm of Mirrored Coins^1
+178405^Legionnaire Vambraces of Mirrored Coins^1
+178406^Legionnaire Greaves of Mirrored Coins^1
+178407^Legionnaire Breastplate of Mirrored Coins^1
+178408^Illuminator Bracer of Mirrored Coins^1
+178409^Illuminator Gauntlets of Mirrored Coins^1
+178410^Illuminator Boots of Mirrored Coins^1
+178411^Illuminator Helm of Mirrored Coins^1
+178412^Illuminator Vambraces of Mirrored Coins^1
+178413^Illuminator Greaves of Mirrored Coins^1
+178414^Illuminator Breastplate of Mirrored Coins^1
+178415^Exarch Bracer of Mirrored Coins^1
+178416^Exarch Gauntlets of Mirrored Coins^1
+178417^Exarch Boots of Mirrored Coins^1
+178418^Exarch Helm of Mirrored Coins^1
+178419^Exarch Vambraces of Mirrored Coins^1
+178420^Exarch Greaves of Mirrored Coins^1
+178421^Exarch Breastplate of Mirrored Coins^1
+178422^Natureward Wristguard of Mirrored Coins^1
+178423^Natureward Guantlets of Mirrored Coins^1
+178424^Natureward Boots of Mirrored Coins^1
+178425^Natureward Coif of Mirrored Coins^1
+178426^Natureward Sleeves of Mirrored Coins^1
+178427^Natureward Leggings of Mirrored Coins^1
+178428^Natureward Coat of Mirrored Coins^1
+178429^Soulrender Bracer of Mirrored Coins^1
+178430^Soulrender Gauntlets of Mirrored Coins^1
+178431^Soulrender Boots of Mirrored Coins^1
+178432^Soulrender Helm of Mirrored Coins^1
+178433^Soulrender Vambraces of Mirrored Coins^1
+178434^Soulrender Greaves of Mirrored Coins^1
+178435^Soulrender Breastplate of Mirrored Coins^1
+178436^Lifewalker Wristguard of Mirrored Coins^1
+178437^Lifewalker Gloves of Mirrored Coins^1
+178438^Lifewalker Boots of Mirrored Coins^1
+178439^Lifewalker Cowl of Mirrored Coins^1
+178440^Lifewalker Armwraps of Mirrored Coins^1
+178441^Lifewalker Leggings of Mirrored Coins^1
+178442^Lifewalker Tunic of Mirrored Coins^1
+178443^Soulforge Wristguard of Mirrored Coins^1
+178444^Soulforge Gloves of Mirrored Coins^1
+178445^Soulforge Boots of Mirrored Coins^1
+178446^Soulforge Cowl of Mirrored Coins^1
+178447^Soulforge Armwraps of Mirrored Coins^1
+178448^Soulforge Leggings of Mirrored Coins^1
+178449^Soulforge Tunic of Mirrored Coins^1
+178450^Loremaster Bracer of Mirrored Coins^1
+178451^Loremaster Gauntlets of Mirrored Coins^1
+178452^Loremaster Boots of Mirrored Coins^1
+178453^Loremaster Helm of Mirrored Coins^1
+178454^Loremaster Vambraces of Mirrored Coins^1
+178455^Loremaster Greaves of Mirrored Coins^1
+178456^Loremaster Breastplate of Mirrored Coins^1
+178457^Shadowscale Wristguard of Mirrored Coins^1
+178458^Shadowscale Guantlets of Mirrored Coins^1
+178459^Shadowscale Boots of Mirrored Coins^1
+178460^Shadowscale Coif of Mirrored Coins^1
+178461^Shadowscale Sleeves of Mirrored Coins^1
+178462^Shadowscale Leggings of Mirrored Coins^1
+178463^Shadowscale Coat of Mirrored Coins^1
+178464^Spiritwalker Wristguard of Mirrored Coins^1
+178465^Spiritwalker Guantlets of Mirrored Coins^1
+178466^Spiritwalker Boots of Mirrored Coins^1
+178467^Spiritwalker Coif of Mirrored Coins^1
+178468^Spiritwalker Sleeves of Mirrored Coins^1
+178469^Spiritwalker Leggings of Mirrored Coins^1
+178470^Spiritwalker Coat of Mirrored Coins^1
+178471^Soulslayer Wristguard of Mirrored Coins^1
+178472^Soulslayer Gloves of Mirrored Coins^1
+178473^Soulslayer Sandals of Mirrored Coins^1
+178474^Soulslayer Cap of Mirrored Coins^1
+178475^Soulslayer Sleeves of Mirrored Coins^1
+178476^Soulslayer Pants of Mirrored Coins^1
+178477^Soulslayer Robe of Mirrored Coins^1
+178478^Frostfire Wristguard of Mirrored Coins^1
+178479^Frostfire Gloves of Mirrored Coins^1
+178480^Frostfire Sandals of Mirrored Coins^1
+178481^Frostfire Cap of Mirrored Coins^1
+178482^Frostfire Sleeves of Mirrored Coins^1
+178483^Frostfire Pants of Mirrored Coins^1
+178484^Frostfire Robe of Mirrored Coins^1
+178485^Flameweaver Wristguard of Mirrored Coins^1
+178486^Flameweaver Gloves of Mirrored Coins^1
+178487^Flameweaver Sandals of Mirrored Coins^1
+178488^Flameweaver Cap of Mirrored Coins^1
+178489^Flameweaver Sleeves of Mirrored Coins^1
+178490^Flameweaver Pants of Mirrored Coins^1
+178491^Flameweaver Robe of Mirrored Coins^1
+178492^Mindlock Wristguard of Mirrored Coins^1
+178493^Mindlock Gloves of Mirrored Coins^1
+178494^Mindlock Sandals of Mirrored Coins^1
+178495^Mindlock Cap of Mirrored Coins^1
+178496^Mindlock Sleeves of Mirrored Coins^1
+178497^Mindlock Pants of Mirrored Coins^1
+178498^Mindlock Robe of Mirrored Coins^1
+178499^Dragonbrood Wristguard of Mirrored Coins^1
+178500^Dragonbrood Gloves of Mirrored Coins^1
+178501^Dragonbrood Boots of Mirrored Coins^1
+178502^Dragonbrood Cowl of Mirrored Coins^1
+178503^Dragonbrood Armwraps of Mirrored Coins^1
+178504^Dragonbrood Leggings of Mirrored Coins^1
+178505^Dragonbrood Tunic of Mirrored Coins^1
+178506^Warmonger Wristguard of Mirrored Coins^1
+178507^Warmonger Guantlets of Mirrored Coins^1
+178508^Warmonger Boots of Mirrored Coins^1
+178509^Warmonger Coif of Mirrored Coins^1
+178510^Warmonger Sleeves of Mirrored Coins^1
+178511^Warmonger Leggings of Mirrored Coins^1
+178512^Warmonger Coat of Mirrored Coins^1
+178513^petclasses ear //GTS^1
+178514^all ear //GTS strsta^1
+178515^all ear //GTS intwis^1
+178516^all ear //GTS agidex^1
+178517^tank mask //GTS strsta^1
+178518^all mask //GTS intwis^1
+178519^all mask //GTS agidex^1
+178520^all neck //GTS strsta^1
+178521^all neck //GTS ACintwis^1
+178522^all neck //GTS agidex^1
+178523^all shoulders //GTS ACstrsta^1
+178524^all shoulders //GTS ACintwis^1
+178525^all shoulders //GTS ACagidex^1
+178526^all back //GTS ACstrsta^1
+178527^all back //GTS intwis^1
+178528^all back //GTS agidex^1
+178529^all range //GTS strsta^1
+178530^all range //GTS intwis^1
+178531^all range //GTS agidex^1
+178532^all finger //GTS ACstrsta^1
+178533^all finger //GTS ACintwis^1
+178534^all finger //GTS ACagidex^1
+178535^all waist //GTS strsta Crippling Slicer^1
+178536^all waist //GTS intwis Threads of Potential^1
+178537^all waist //GTS agidex Overdrive Boon^1
+178538^all charm //GTS strsta^1
+178539^all charm //GTS intwis^1
+178540^all charm //GTS ACagidex^1
+178541^Tank Shield- //GTS^1
+178542^Meleehybrid Shield- !ber //GTS^1
+178543^Casterpriest Shield- //GTS^1
+178544^primary secondary 1hs //GTS^1
+178545^primary secondary 1hs //GTS^1
+178546^primary secondary 1hb //GTS^1
+178547^primary secondary 1hb //GTS^1
+178548^primary secondary 1hp //GTS^1
+178549^primary secondary 1hp //GTS^1
+178550^war primary secondary 1hs- //GTS^1
+178551^knight primary 1hb- //GTS^1
+178552^primary secondary hth //GTS^1
+178553^mnk bst primary secondary 1hb- //GTS^1
+178554^rog primary secondary 1hp- //GTS^1
+178555^priest primary 1hb- //GTS^1
+178556^priest primary 1hb- //GTS^1
+178557^caster primary 1hp- //GTS^1
+178558^caster primary 1hb- //GTS^1
+178559^dru primary 1hs- //GTS^1
+178560^shm primary 1hp- //GTS^1
+178561^primary 2hs //GTS^1
+178562^primary 2hb //GTS^1
+178563^primary 2hp //GTS^1
+178564^knight primary 2hs- //GTS^1
+178565^mnk bst primary 2hb- //GTS^1
+178566^ber primary 2hs- //GTS^1
+178567^priest primary 2hb- //GTS^1
+178568^caster primary 2hb- //GTS^1
+178569^range rng bow- //GTS^1
+178570^range war pal shd rog bow- //GTS^1
+178571^all aug //GTS str^1
+178572^all aug //GTS agi^1
+178573^all aug //GTS intwis^1
+178574^all aug //GTS AC^1
+178575^primary secondary all aug //GTS^1
+178576^primary all aug //GTS^1
+178577^all primary secondary range charm aug //GTS  Balan^1
+178578^all primary secondary range charm aug //GTS  hStr^1
+178579^all primary secondary range charm aug //GTS  hDex^1
+178580^all primary secondary range charm aug //GTS  hAgi^1
+178581^all primary secondary range charm aug //GTS  hSta^1
+178582^all primary secondary range charm aug //GTS  hInt^1
+178583^all primary secondary range charm aug //GTS  hWis^1
+178601^Legionnaire Bracer of Veiled Whispers^1
+178602^Legionnaire Gauntlets of Veiled Whispers^1
+178603^Legionnaire Boots of Veiled Whispers^1
+178604^Legionnaire Helm of Veiled Whispers^1
+178605^Legionnaire Vambraces of Veiled Whispers^1
+178606^Legionnaire Greaves of Veiled Whispers^1
+178607^Legionnaire Breastplate of Veiled Whispers^1
+178608^Illuminator Bracer of Veiled Whispers^1
+178609^Illuminator Gauntlets of Veiled Whispers^1
+178610^Illuminator Boots of Veiled Whispers^1
+178611^Illuminator Helm of Veiled Whispers^1
+178612^Illuminator Vambraces of Veiled Whispers^1
+178613^Illuminator Greaves of Veiled Whispers^1
+178614^Illuminator Breastplate of Veiled Whispers^1
+178615^Exarch Bracer of Veiled Whispers^1
+178616^Exarch Gauntlets of Veiled Whispers^1
+178617^Exarch Boots of Veiled Whispers^1
+178618^Exarch Helm of Veiled Whispers^1
+178619^Exarch Vambraces of Veiled Whispers^1
+178620^Exarch Greaves of Veiled Whispers^1
+178621^Exarch Breastplate of Veiled Whispers^1
+178622^Natureward Wristguard of Veiled Whispers^1
+178623^Natureward Guantlets of Veiled Whispers^1
+178624^Natureward Boots of Veiled Whispers^1
+178625^Natureward Coif of Veiled Whispers^1
+178626^Natureward Sleeves of Veiled Whispers^1
+178627^Natureward Leggings of Veiled Whispers^1
+178628^Natureward Coat of Veiled Whispers^1
+178629^Soulrender Bracer of Veiled Whispers^1
+178630^Soulrender Gauntlets of Veiled Whispers^1
+178631^Soulrender Boots of Veiled Whispers^1
+178632^Soulrender Helm of Veiled Whispers^1
+178633^Soulrender Vambraces of Veiled Whispers^1
+178634^Soulrender Greaves of Veiled Whispers^1
+178635^Soulrender Breastplate of Veiled Whispers^1
+178636^Lifewalker Wristguard of Veiled Whispers^1
+178637^Lifewalker Gloves of Veiled Whispers^1
+178638^Lifewalker Boots of Veiled Whispers^1
+178639^Lifewalker Cowl of Veiled Whispers^1
+178640^Lifewalker Armwraps of Veiled Whispers^1
+178641^Lifewalker Leggings of Veiled Whispers^1
+178642^Lifewalker Tunic of Veiled Whispers^1
+178643^Soulforge Wristguard of Veiled Whispers^1
+178644^Soulforge Gloves of Veiled Whispers^1
+178645^Soulforge Boots of Veiled Whispers^1
+178646^Soulforge Cowl of Veiled Whispers^1
+178647^Soulforge Armwraps of Veiled Whispers^1
+178648^Soulforge Leggings of Veiled Whispers^1
+178649^Soulforge Tunic of Veiled Whispers^1
+178650^Loremaster Bracer of Veiled Whispers^1
+178651^Loremaster Gauntlets of Veiled Whispers^1
+178652^Loremaster Boots of Veiled Whispers^1
+178653^Loremaster Helm of Veiled Whispers^1
+178654^Loremaster Vambraces of Veiled Whispers^1
+178655^Loremaster Greaves of Veiled Whispers^1
+178656^Loremaster Breastplate of Veiled Whispers^1
+178657^Shadowscale Wristguard of Veiled Whispers^1
+178658^Shadowscale Guantlets of Veiled Whispers^1
+178659^Shadowscale Boots of Veiled Whispers^1
+178660^Shadowscale Coif of Veiled Whispers^1
+178661^Shadowscale Sleeves of Veiled Whispers^1
+178662^Shadowscale Leggings of Veiled Whispers^1
+178663^Shadowscale Coat of Veiled Whispers^1
+178664^Spiritwalker Wristguard of Veiled Whispers^1
+178665^Spiritwalker Guantlets of Veiled Whispers^1
+178666^Spiritwalker Boots of Veiled Whispers^1
+178667^Spiritwalker Coif of Veiled Whispers^1
+178668^Spiritwalker Sleeves of Veiled Whispers^1
+178669^Spiritwalker Leggings of Veiled Whispers^1
+178670^Spiritwalker Coat of Veiled Whispers^1
+178671^Soulslayer Wristguard of Veiled Whispers^1
+178672^Soulslayer Gloves of Veiled Whispers^1
+178673^Soulslayer Sandals of Veiled Whispers^1
+178674^Soulslayer Cap of Veiled Whispers^1
+178675^Soulslayer Sleeves of Veiled Whispers^1
+178676^Soulslayer Pants of Veiled Whispers^1
+178677^Soulslayer Robe of Veiled Whispers^1
+178678^Frostfire Wristguard of Veiled Whispers^1
+178679^Frostfire Gloves of Veiled Whispers^1
+178680^Frostfire Sandals of Veiled Whispers^1
+178681^Frostfire Cap of Veiled Whispers^1
+178682^Frostfire Sleeves of Veiled Whispers^1
+178683^Frostfire Pants of Veiled Whispers^1
+178684^Frostfire Robe of Veiled Whispers^1
+178685^Flameweaver Wristguard of Veiled Whispers^1
+178686^Flameweaver Gloves of Veiled Whispers^1
+178687^Flameweaver Sandals of Veiled Whispers^1
+178688^Flameweaver Cap of Veiled Whispers^1
+178689^Flameweaver Sleeves of Veiled Whispers^1
+178690^Flameweaver Pants of Veiled Whispers^1
+178691^Flameweaver Robe of Veiled Whispers^1
+178692^Mindlock Wristguard of Veiled Whispers^1
+178693^Mindlock Gloves of Veiled Whispers^1
+178694^Mindlock Sandals of Veiled Whispers^1
+178695^Mindlock Cap of Veiled Whispers^1
+178696^Mindlock Sleeves of Veiled Whispers^1
+178697^Mindlock Pants of Veiled Whispers^1
+178698^Mindlock Robe of Veiled Whispers^1
+178699^Dragonbrood Wristguard of Veiled Whispers^1
+178700^Dragonbrood Gloves of Veiled Whispers^1
+178701^Dragonbrood Boots of Veiled Whispers^1
+178702^Dragonbrood Cowl of Veiled Whispers^1
+178703^Dragonbrood Armwraps of Veiled Whispers^1
+178704^Dragonbrood Leggings of Veiled Whispers^1
+178705^Dragonbrood Tunic of Veiled Whispers^1
+178706^Warmonger Wristguard of Veiled Whispers^1
+178707^Warmonger Guantlets of Veiled Whispers^1
+178708^Warmonger Boots of Veiled Whispers^1
+178709^Warmonger Coif of Veiled Whispers^1
+178710^Warmonger Sleeves of Veiled Whispers^1
+178711^Warmonger Leggings of Veiled Whispers^1
+178712^Warmonger Coat of Veiled Whispers^1
+178713^petclasses ear //RT1^1
+178714^all ear //RT1 strsta^1
+178715^all ear //RT1 intwis^1
+178716^all ear //RT1 agidex^1
+178717^tank mask //RT1 strsta^1
+178718^all mask //RT1 intwis^1
+178719^all mask //RT1 agidex^1
+178720^all neck //RT1 strsta^1
+178721^all neck //RT1 ACintwis^1
+178722^all neck //RT1 agidex^1
+178723^all shoulders //RT1 ACstrsta^1
+178724^all shoulders //RT1 ACintwis^1
+178725^all shoulders //RT1 ACagidex^1
+178726^all back //RT1 ACstrsta^1
+178727^all back //RT1 intwis^1
+178728^all back //RT1 agidex^1
+178729^all range //RT1 strsta^1
+178730^all range //RT1 intwis^1
+178731^all range //RT1 agidex^1
+178732^all finger //RT1 ACstrsta^1
+178733^all finger //RT1 ACintwis^1
+178734^all finger //RT1 ACagidex^1
+178735^all waist //RT1 strsta Crippling Slicer^1
+178736^all waist //RT1 intwis Threads of Potential^1
+178737^all waist //RT1 agidex Overdrive Boon^1
+178738^all charm //RT1 strsta^1
+178739^all charm //RT1 intwis^1
+178740^all charm //RT1 ACagidex^1
+178741^Tank Shield- //RT1^1
+178742^Meleehybrid Shield- !ber //RT1^1
+178743^Casterpriest Shield- //RT1^1
+178744^primary secondary 1hs //RT1^1
+178745^primary secondary 1hs //RT1^1
+178746^primary secondary 1hb //RT1^1
+178747^primary secondary 1hb //RT1^1
+178748^primary secondary 1hp //RT1^1
+178749^primary secondary 1hp //RT1^1
+178750^war primary secondary 1hs- //RT1^1
+178751^knight primary 1hb- //RT1^1
+178752^primary secondary hth //RT1^1
+178753^mnk bst primary secondary 1hb- //RT1^1
+178754^rog primary secondary 1hp- //RT1^1
+178755^priest primary 1hb- //RT1^1
+178756^priest primary 1hb- //RT1^1
+178757^caster primary 1hp- //RT1^1
+178758^caster primary 1hb- //RT1^1
+178759^primary 2hs //RT1^1
+178760^primary 2hb //RT1^1
+178761^primary 2hp //RT1^1
+178762^knight primary 2hs- //RT1^1
+178763^mnk bst primary 2hb- //RT1^1
+178764^priest primary 2hb- //RT1^1
+178765^caster primary 2hb- //RT1^1
+178766^range rng bow- //RT1^1
+178767^range war pal shd rog bow- //RT1^1
+178800^Deceiver's Duffle^1
+178801^Legionnaire Bracer of Gilded Thorns^1
+178802^Legionnaire Gauntlets of Gilded Thorns^1
+178803^Legionnaire Boots of Gilded Thorns^1
+178804^Legionnaire Helm of Gilded Thorns^1
+178805^Legionnaire Vambraces of Gilded Thorns^1
+178806^Legionnaire Greaves of Gilded Thorns^1
+178807^Legionnaire Breastplate of Gilded Thorns^1
+178808^Illuminator Bracer of Gilded Thorns^1
+178809^Illuminator Gauntlets of Gilded Thorns^1
+178810^Illuminator Boots of Gilded Thorns^1
+178811^Illuminator Helm of Gilded Thorns^1
+178812^Illuminator Vambraces of Gilded Thorns^1
+178813^Illuminator Greaves of Gilded Thorns^1
+178814^Illuminator Breastplate of Gilded Thorns^1
+178815^Exarch Bracer of Gilded Thorns^1
+178816^Exarch Gauntlets of Gilded Thorns^1
+178817^Exarch Boots of Gilded Thorns^1
+178818^Exarch Helm of Gilded Thorns^1
+178819^Exarch Vambraces of Gilded Thorns^1
+178820^Exarch Greaves of Gilded Thorns^1
+178821^Exarch Breastplate of Gilded Thorns^1
+178822^Natureward Wristguard of Gilded Thorns^1
+178823^Natureward Guantlets of Gilded Thorns^1
+178824^Natureward Boots of Gilded Thorns^1
+178825^Natureward Coif of Gilded Thorns^1
+178826^Natureward Sleeves of Gilded Thorns^1
+178827^Natureward Leggings of Gilded Thorns^1
+178828^Natureward Coat of Gilded Thorns^1
+178829^Soulrender Bracer of Gilded Thorns^1
+178830^Soulrender Gauntlets of Gilded Thorns^1
+178831^Soulrender Boots of Gilded Thorns^1
+178832^Soulrender Helm of Gilded Thorns^1
+178833^Soulrender Vambraces of Gilded Thorns^1
+178834^Soulrender Greaves of Gilded Thorns^1
+178835^Soulrender Breastplate of Gilded Thorns^1
+178836^Lifewalker Wristguard of Gilded Thorns^1
+178837^Lifewalker Gloves of Gilded Thorns^1
+178838^Lifewalker Boots of Gilded Thorns^1
+178839^Lifewalker Cowl of Gilded Thorns^1
+178840^Lifewalker Armwraps of Gilded Thorns^1
+178841^Lifewalker Leggings of Gilded Thorns^1
+178842^Lifewalker Tunic of Gilded Thorns^1
+178843^Soulforge Wristguard of Gilded Thorns^1
+178844^Soulforge Gloves of Gilded Thorns^1
+178845^Soulforge Boots of Gilded Thorns^1
+178846^Soulforge Cowl of Gilded Thorns^1
+178847^Soulforge Armwraps of Gilded Thorns^1
+178848^Soulforge Leggings of Gilded Thorns^1
+178849^Soulforge Tunic of Gilded Thorns^1
+178850^Loremaster Bracer of Gilded Thorns^1
+178851^Loremaster Gauntlets of Gilded Thorns^1
+178852^Loremaster Boots of Gilded Thorns^1
+178853^Loremaster Helm of Gilded Thorns^1
+178854^Loremaster Vambraces of Gilded Thorns^1
+178855^Loremaster Greaves of Gilded Thorns^1
+178856^Loremaster Breastplate of Gilded Thorns^1
+178857^Shadowscale Wristguard of Gilded Thorns^1
+178858^Shadowscale Guantlets of Gilded Thorns^1
+178859^Shadowscale Boots of Gilded Thorns^1
+178860^Shadowscale Coif of Gilded Thorns^1
+178861^Shadowscale Sleeves of Gilded Thorns^1
+178862^Shadowscale Leggings of Gilded Thorns^1
+178863^Shadowscale Coat of Gilded Thorns^1
+178864^Spiritwalker Wristguard of Gilded Thorns^1
+178865^Spiritwalker Guantlets of Gilded Thorns^1
+178866^Spiritwalker Boots of Gilded Thorns^1
+178867^Spiritwalker Coif of Gilded Thorns^1
+178868^Spiritwalker Sleeves of Gilded Thorns^1
+178869^Spiritwalker Leggings of Gilded Thorns^1
+178870^Spiritwalker Coat of Gilded Thorns^1
+178871^Soulslayer Wristguard of Gilded Thorns^1
+178872^Soulslayer Gloves of Gilded Thorns^1
+178873^Soulslayer Sandals of Gilded Thorns^1
+178874^Soulslayer Cap of Gilded Thorns^1
+178875^Soulslayer Sleeves of Gilded Thorns^1
+178876^Soulslayer Pants of Gilded Thorns^1
+178877^Soulslayer Robe of Gilded Thorns^1
+178878^Frostfire Wristguard of Gilded Thorns^1
+178879^Frostfire Gloves of Gilded Thorns^1
+178880^Frostfire Sandals of Gilded Thorns^1
+178881^Frostfire Cap of Gilded Thorns^1
+178882^Frostfire Sleeves of Gilded Thorns^1
+178883^Frostfire Pants of Gilded Thorns^1
+178884^Frostfire Robe of Gilded Thorns^1
+178885^Flameweaver Wristguard of Gilded Thorns^1
+178886^Flameweaver Gloves of Gilded Thorns^1
+178887^Flameweaver Sandals of Gilded Thorns^1
+178888^Flameweaver Cap of Gilded Thorns^1
+178889^Flameweaver Sleeves of Gilded Thorns^1
+178890^Flameweaver Pants of Gilded Thorns^1
+178891^Flameweaver Robe of Gilded Thorns^1
+178892^Mindlock Wristguard of Gilded Thorns^1
+178893^Mindlock Gloves of Gilded Thorns^1
+178894^Mindlock Sandals of Gilded Thorns^1
+178895^Mindlock Cap of Gilded Thorns^1
+178896^Mindlock Sleeves of Gilded Thorns^1
+178897^Mindlock Pants of Gilded Thorns^1
+178898^Mindlock Robe of Gilded Thorns^1
+178899^Dragonbrood Wristguard of Gilded Thorns^1
+178900^Dragonbrood Gloves of Gilded Thorns^1
+178901^Dragonbrood Boots of Gilded Thorns^1
+178902^Dragonbrood Cowl of Gilded Thorns^1
+178903^Dragonbrood Armwraps of Gilded Thorns^1
+178904^Dragonbrood Leggings of Gilded Thorns^1
+178905^Dragonbrood Tunic of Gilded Thorns^1
+178906^Warmonger Wristguard of Gilded Thorns^1
+178907^Warmonger Guantlets of Gilded Thorns^1
+178908^Warmonger Boots of Gilded Thorns^1
+178909^Warmonger Coif of Gilded Thorns^1
+178910^Warmonger Sleeves of Gilded Thorns^1
+178911^Warmonger Leggings of Gilded Thorns^1
+178912^Warmonger Coat of Gilded Thorns^1
+178913^petclasses ear //RTS^1
+178914^all ear //RTS strsta^1
+178915^all ear //RTS intwis^1
+178916^all ear //RTS agidex^1
+178917^tank mask //RTS strsta^1
+178918^all mask //RTS intwis^1
+178919^all mask //RTS agidex^1
+178920^all neck //RTS strsta^1
+178921^all neck //RTS ACintwis^1
+178922^all neck //RTS agidex^1
+178923^all shoulders //RTS ACstrsta^1
+178924^all shoulders //RTS ACintwis^1
+178925^all shoulders //RTS ACagidex^1
+178926^all back //RTS ACstrsta^1
+178927^all back //RTS intwis^1
+178928^all back //RTS agidex^1
+178929^all range //RTS strsta^1
+178930^all range //RTS intwis^1
+178931^all range //RTS agidex^1
+178932^all finger //RTS ACstrsta^1
+178933^all finger //RTS ACintwis^1
+178934^all finger //RTS ACagidex^1
+178935^all waist //RTS strsta Crippling Slicer^1
+178936^all waist //RTS intwis Threads of Potential^1
+178937^all waist //RTS agidex Overdrive Boon^1
+178938^all charm //RTS strsta^1
+178939^all charm //RTS intwis^1
+178940^all charm //RTS ACagidex^1
+178941^Tank Shield- //RTS^1
+178942^Meleehybrid Shield- !ber //RTS^1
+178943^Casterpriest Shield- //RTS^1
+178944^primary secondary 1hs //RTS^1
+178945^primary secondary 1hs //RTS^1
+178946^primary secondary 1hb //RTS^1
+178947^primary secondary 1hb //RTS^1
+178948^primary secondary 1hp //RTS^1
+178949^primary secondary 1hp //RTS^1
+178950^war primary secondary 1hs- //RTS^1
+178951^knight primary 1hb- //RTS^1
+178952^primary secondary hth //RTS^1
+178953^mnk bst primary secondary 1hb- //RTS^1
+178954^rog primary secondary 1hp- //RTS^1
+178955^priest primary 1hb- //RTS^1
+178956^priest primary 1hb- //RTS^1
+178957^caster primary 1hp- //RTS^1
+178958^caster primary 1hb- //RTS^1
+178959^dru primary 1hs- //RTS^1
+178960^shm primary 1hp- //RTS^1
+178961^primary 2hs //RTS^1
+178962^primary 2hb //RTS^1
+178963^primary 2hp //RTS^1
+178964^knight primary 2hs- //RTS^1
+178965^mnk bst primary 2hb- //RTS^1
+178966^ber primary 2hs- //RTS^1
+178967^priest primary 2hb- //RTS^1
+178968^caster primary 2hb- //RTS^1
+178969^range rng bow- //RTS^1
+178970^range war pal shd rog bow- //RTS^1
