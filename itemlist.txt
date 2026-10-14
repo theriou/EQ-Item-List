@@ -617,7 +617,7 @@
 1694^Elbaite Focus^0
 1695^Reddish Crystal^1
 1696^Bent Metallic Crystal^0
-1697^Heavy Metallic Crystal^0
+1697^Heavy Metallic Crystal^1
 1698^Azurite Focus^0
 1699^Holy Symbol of Zek^0
 1700^Phenocryst's Focus^0
@@ -99989,6 +99989,9 @@
 113522^Storm-infused Herbs^1
 113523^Storm Mixing Vessel^1
 113524^Lady Quellious' Plea^1
+113525^Wager Coin^3
+113526^Greed Coin^1
+113527^Beta Orb of Vigor^1
 113528^Trade-In Gem: Glorious Denunciation Rk. II^20
 113532^Trade-In Gem: Sundew Blessing Rk. II^20
 113535^Trade-In Gem: Remote Manaflux Rk. II^20
@@ -133913,6 +133916,17 @@
 158879^Scroll: Rain of Molten Komatiite^1
 158880^Scroll: Monster Summoning XIII^1
 158881^Scroll: Spear of Molten Komatiite^1
+158882^Fresh Fly Pasta^100
+158883^Buttered Fish Stew^100
+158884^Dried Fruit Peels^100
+158885^Salted Fish Fries^100
+158886^Boiled Bogwater Seaweed^100
+158887^Washed Up Tablecloths^100
+158888^Shell Shaped Plates^100
+158889^Bespoke Coral Cups^100
+158890^Bridle of the Wrulon Stalker^1
+158891^Visage of the Wulthan Inquisitor^1
+158892^Metamorph: Clockwork Repair Copter^1
 158900^Tempus Faycite Shard: Relax^1
 158901^Tempus Faycite Shard: Armor of Relentless Runes^1
 158902^Tempus Faycite Shard: Aggravate^1
@@ -134083,6 +134097,19 @@
 159071^Irae Faycite Shard: Vicious Revolution^1
 159072^Tempus Faycite Shard: Axe of Derakor^1
 159073^Tempus Faycite Shard: Heron Stance^1
+159074^Cauldron of Giving^1
+159075^Engorged Leech^10
+159076^Snapping Blood Pudding^1
+159077^Snapping Blood Pudding^1
+159078^Hardwood Charcoal^1
+159079^Vitrik Meat^1
+159080^Succulent Pear^1
+159081^Succulent Pear Sauce^1
+159082^Vitrik Fried Steak^1
+159083^Cockatrice Souffle^1
+159084^Succulent Cockatrice Souffle^1
+159085^Bogble's Smoke Rub^1
+159086^Crispy Smoked Spider Legs^1
 159100^Tome: Shield Splinter^1
 159101^Tome: Composite Shield^1
 159102^Tome: Confluent Expanse^1
@@ -135482,6 +135509,22 @@
 160667^Black Iron Spring^1
 160668^Aluminum Coil Spring^1
 160669^Silver Coil Spring^1
+160670^Xev's Cauldron^1
+160671^Xev's Cauldron II^1
+160672^Xev's Cauldron III^1
+160673^Summoned: Mace of Misfortune^1
+160674^Summoned: Opportune Hand Pie^20
+160675^Summoned: Opportune Pod of Water^20
+160676^Summoned: Lightning Rod^1
+160677^Fortuitous Scapolite Gemstone^1
+160678^Fortuitous Staurolite Gemstone^1
+160679^Fortuitous Morganite Gemstone^1
+160680^Fortuitous Andradite Gemstone^1
+160681^Summoned: Kaleine's Emblem of the Enhanced^1
+160682^Summoned: Arame's Tonic of Healing^1
+160683^Summoned: Nori's Tonic of Clarity^1
+160684^Summoned: Dulse's Tonic of Refreshment^1
+160688^Summoned: Orb of Flame XVIII^1
 160701^Weeping Undefeated Heaven Subsumption^20
 160702^Battleworn Stalwart Moon Subsumption^20
 160703^Adamant Triumphant Cloud Subsumption^20
@@ -142629,7 +142672,7 @@
 168480^Scroll: Ignite Remembrance^1
 168481^Scroll: Instill Ally^1
 168482^Scroll: Bestow Ruin^1
-168483^Scroll: Call Skeleton Thrall^1
+168483^Spell: Ravening Skeleton^1
 168484^Scroll: Dotal's Swift Venom^1
 168485^Scroll: Cascading Runeshield^1
 168486^Scroll: Blevak's Swift Deconstruction^1
@@ -144006,7 +144049,7 @@
 170212^Tome: Poisonous Covariance^1
 170213^Tome: Invidious Puncture^1
 170214^Scroll: Reciprocal Roar^1
-170215^Scroll: Hotarion Pandemic^1
+170215^Scroll: Hotariton Pandemic^1
 170216^Scroll: Mindful Spirit^1
 170217^Scroll: Chaotic Bloodcurse^1
 170218^Scroll: Ancient Covariance^1
@@ -144035,7 +144078,7 @@
 170241^Scroll: Firebound Covariance^1
 170242^Scroll: Summon Molten Dacite Orb^1
 170243^Scroll: Grant Visor of Usira^1
-170244^Scroll: Grant Ring of Perfected Levitation^1
+170244^Scroll: Grant Ring of Improved Levitation^1
 170245^Scroll: Grant Quiver of Drenesh^1
 170246^Scroll: Reciprocal Reinforcement^1
 170247^Scroll: Night's Eternal Terror^1
@@ -146135,6 +146178,19 @@
 172549^Wrapped Frostfell Present (Green Ribbon)^20
 172550^Festive Green-striped Barrel^20
 172551^Festive Red-striped Barrel^20
+172563^Oggokian Turducken^20
+172568^Overstuffed Turkey Feet^1
+172569^Overstuffed Turkey Feet Ornament^1
+172570^Hay Bale^100
+172571^Stacked Hay Bales^100
+172572^Venison on a Spit^100
+172573^Pork on a Spit^100
+172574^Beef on a Spit^100
+172575^Pile of Fall Leaves^100
+172576^Cornucopia^100
+172577^Bountiful Cornucopia^100
+172578^Fungus Patch (Orange)^100
+172579^Fungus Patch (Purple)^100
 172580^Azure Vial^1
 172581^Cloth Scrap^5
 172582^Rainbow Feathers^5
@@ -146142,6 +146198,12 @@
 172584^Jellyfish Goo^5
 172585^Magic Crystal^5
 172586^Magic Orb^1
+172629^Forlorn Wrist Armor^1
+172630^Forlorn Hands Armor^1
+172631^Forlorn Feet Armor^1
+172632^Forlorn Head Armor^1
+172633^Forlorn Arms Armor^1
+172634^Forlorn Legs Armor^1
 172749^Kismet Stabilizing Medium^20
 172750^Kismet Bolstering Medium^20
 172751^Fossilized Kismet Ore^1000
@@ -146149,6 +146211,7 @@
 172753^Fossilized Kismet Imbued Hide^1000
 172754^Fossilized Kismet Imbued Silk^1000
 172755^Fossilized Kismet Imbued Timber^1000
+172756^Fossilized Kismet Transmogrifant Patch^1000
 172757^Glinting Summer Flounder^1000
 172758^Glinting Yellowfin Tuna^1000
 172759^Glinting Cut of Fish^1000
@@ -146157,6 +146220,40 @@
 172762^Glinting Jade Lime^1000
 172763^Glinting Canter Wheat^1000
 172764^Glinting Peppermint Dew^1000
+172765^Fossilized Kismet Sheet^1000
+172766^Fossilized Kismet Chainmail Links^1000
+172767^Fossilized Kismet Leather^1000
+172768^Fossilized Kismet Heavy Fabric^1000
+172769^Fossilized Kismet Lumber^1000
+172770^Fossilized Kismet Powder^1000
+172771^Fossilized Kismet Fish Scales^1000
+172772^Refined Fossilized Kismet^1000
+172773^Enchanted Refined Fossilized Kismet^1000
+172774^Fossilized Kismet Fish Scale Patch^1000
+172775^Fossilized Kismet Fish Scale Swatch^1000
+172776^Fossilized Kismet Fish Scale Sheet^1000
+172777^Duo Fossilized Kismet Earring^1000
+172778^Duo Fossilized Kismet Necklace^1000
+172779^Duo Fossilized Kismet Ring^1000
+172780^Marquise Cut Fossilized Kismet Crystal^1000
+172781^Square Cut Fossilized Kismet Crystal^1000
+172782^Pear Cut Fossilized Kismet Crystal^1000
+172783^Half-Moon Cut Fossilized Kismet Crystal^1000
+172784^Trillion Cut Fossilized Kismet Crystal^1000
+172785^Round Cut Fossilized Kismet Crystal^1000
+172786^Oval Cut Fossilized Kismet Crystal^1000
+172787^Fossilized Kismet Core Mana Battery^1000
+172788^Ability: Enchant Refined Fossilized Kismet (1)^20
+172789^Ability: Enchant Refined Fossilized Kismet (10)^20
+172790^Unfired Forlorn Mask of the Defender^1
+172791^Unfired Forlorn Mask of the Acrobat^1
+172792^Unfired Forlorn Mask of the Mystic^1
+172793^Unfired Forlorn Orb^1
+172794^Unfired Forlorn Talisman^1
+172795^Unfired Forlorn Sigil^1
+172796^Unfired Forlorn Charm of the Defender^1
+172797^Unfired Forlorn Charm of the Mystic^1
+172798^Unfired Forlorn Charm of the Duelist^1
 172799^Kismet Imbued Potion Vial^1000
 172800^Kismet Imbued Poison Vial^1000
 172801^Kismet Imbued Sealed Poison Vial^1000
@@ -146172,6 +146269,47 @@
 172817^Kismet Imbued Laburnum^1000
 172818^Kismet Imbued Privet^1000
 172819^Kismet Imbued Delphinium^1000
+172820^Kismet Imbued Muscimol Extract^1000
+172821^Kismet Imbued Oleander Extract^1000
+172822^Kismet Imbued Larkspur Extract^1000
+172823^Kismet Imbued Caladium Extract^1000
+172825^Kismet Imbued Privet Extract^1000
+172826^Kismet Imbued Delphinium Extract^1000
+172827^Fungus Patch (Green)^100
+172828^Fungus Patch (Gold)^100
+172829^Fungus Patch (Red)^100
+172830^Fungus Patch (Blue)^100
+172831^Tall Corathus Mushroom (Blue)^100
+172832^Tall Corathus Mushroom (Purple)^100
+172833^Wild Corathus Mushroom^100
+172834^Hearty Corathus Mushroom^100
+172835^Wilder Corathus Mushroom^100
+172836^Corathus Fern^100
+172848^Elixir of Forlorn Regeneration^20
+172849^Phial of Forlorn Rejuvenation^20
+172850^Tincture of Forlorn Remedy^20
+172851^Draught of Forlorn Evocations^20
+172852^Tonic of Forlorn Mana Enrichment^20
+172853^Flask of Forlorn Bolstering^20
+172854^Ampoule of Forlorn Restoration^20
+172855^Glinting Lime-Kissed Fish Mousse^20
+172856^Glinting Seared Fish Steak with Pear Relish^20
+172857^Glinting Gilded Feast^20
+172858^Glinting Seafarer's Delight^20
+172859^Glinting Lime Curd^20
+172860^Glinting Pear Hand Pie^20
+172861^Glinting Wheat Flatbread^20
+172862^Glinting Wheat Breakfast Bowl^20
+172863^Glinting Blackened Steak with Pear Glaze^20
+172864^Glinting Grilled Cutlet with Wheat Pilaf^20
+172865^Glinting Nature's Bounty^20
+172866^Glinting Pear Juice Spritzer^20
+172867^Glinting Jade Limeade^20
+172868^Glinting Hot Peppermint Tea^20
+172869^Glinting Ice Peppermint Cooler^20
+172870^Glinting Chilled Pear Nectar^20
+172871^Glinting Salted Lime Freeze^20
+172872^Glinting Peppermint Cocktail^20
 172873^Entrusted Helm^1
 172874^Entrusted Breastplate^1
 172875^Entrusted Vambraces^1
@@ -147000,6 +147138,14 @@
 173765^Scalewrought Manipulator Stave^1
 173766^Scalewrought Trueshot^1
 173767^Intricate Aureate War Bow^1
+173769^Lifelike Drawing of Gold^100
+173771^Profit-Share Agreement^100
+173775^TorvCoin^100
+173776^False Pearl Necklace^100
+173783^Rough-Hewn Guardstone Brooch^100
+173792^Bronze Antonican Coin^100
+173797^Pristine Platinum Coin^100
+173798^Scuffed Draconic Coin^100
 173801^Legionnaire Bracer of Rebellion^1
 173802^Legionnaire Gauntlets of Rebellion^1
 173803^Legionnaire Boots of Rebellion^1
@@ -147270,6 +147416,8 @@
 174211^Leather Nose Band^100
 174212^Metal Curb Bit^100
 174213^Leather Snaffle Bit^100
+174290^Gilded Serpent Crown Ornament^1
+174291^Gilded Serpent Crown^1
 174301^Shackled Scalewrought Plate Helm Ornament^1
 174302^Shackled Scalewrought Plate Chest Ornament^1
 174303^Shackled Scalewrought Plate Arms Ornament^1
@@ -147555,6 +147703,8 @@
 174749^Araneidae Tracheae^100
 174750^Araneidae Spinnerets^100
 174751^Araneidae Venom Sac^100
+174759^Innoruuk Prayer Candle^100
+174767^Mixing Bowl^100
 174768^Shadowed Knife^100
 174769^Throwing Knife^100
 174770^Halfling Knife^100
@@ -147588,7 +147738,14 @@
 174814^Black Wolf Meat^100
 174815^Black Wolf^100
 174816^Drained Rusted Cloak of Fortune's Fool^1
+174817^Rusted Cloak of Fortune's Fool^1
+174818^Drained Tarnished Cloak of Fortune's Fool^1
+174819^Tarnished Cloak of Fortune's Fool^1
+174825^Pristine Cloak of Fortune's Fool^1
 174830^Glinting Cloak of Fortune's Fool^1
+174902^Bundle of Books^8
+174941^Faded Portrait^100
+174942^Lucky Coin^100
 175001^Legionnaire Bracer of Broken Accord^1
 175002^Legionnaire Gauntlets of Broken Accord^1
 175003^Legionnaire Boots of Broken Accord^1
@@ -148543,6 +148700,35 @@
 176163^Lucky Cloth Legs Ornament^1
 176164^Lucky Cloth Feet Ornament^1
 176165^Lucky Cloth Robe Ornament^1
+176195^Greedy Plate Helm Ornament^1
+176196^Greedy Plate Chest Ornament^1
+176197^Greedy Plate Arms Ornament^1
+176198^Greedy Plate Wrist Ornament^1
+176199^Greedy Plate Hands Ornament^1
+176200^Greedy Plate Legs Ornament^1
+176201^Greedy Plate Feet Ornament^1
+176202^Greedy Chain Helm Ornament^1
+176203^Greedy Chain Chest Ornament^1
+176204^Greedy Chain Arms Ornament^1
+176205^Greedy Chain Wrist Ornament^1
+176206^Greedy Chain Hands Ornament^1
+176207^Greedy Chain Legs Ornament^1
+176208^Greedy Chain Feet Ornament^1
+176209^Greedy Leather Helm Ornament^1
+176210^Greedy Leather Chest Ornament^1
+176211^Greedy Leather Arms Ornament^1
+176212^Greedy Leather Wrist Ornament^1
+176213^Greedy Leather Hands Ornament^1
+176214^Greedy Leather Legs Ornament^1
+176215^Greedy Leather Feet Ornament^1
+176216^Greedy Cloth Helm Ornament^1
+176217^Greedy Cloth Chest Ornament^1
+176218^Greedy Cloth Arms Ornament^1
+176219^Greedy Cloth Wrist Ornament^1
+176220^Greedy Cloth Hands Ornament^1
+176221^Greedy Cloth Legs Ornament^1
+176222^Greedy Cloth Feet Ornament^1
+176223^Greedy Cloth Robe Ornament^1
 177000^Tome: Hiatus V^1
 177001^Tome: Final Stand Discipline VI^1
 177002^Tome: Cyclone Blades XIV^1
@@ -148926,7 +149112,7 @@
 177380^Scroll: Eidolic Guardian XVII^1
 177381^Scroll: Shock of Blades XIX^1
 177382^Scroll: Searing Skin XI^1
-177383^Scroll: Burnout XVI^1
+177383^Scroll: Burnout XVII^1
 177384^Scroll: Burning Sands XIV^1
 177385^Scroll: Renewal of Magmath^1
 177386^Scroll: Circle of Fireskin XVI^1
@@ -149584,77 +149770,77 @@
 178510^Warmonger Sleeves of Mirrored Coins^1
 178511^Warmonger Leggings of Mirrored Coins^1
 178512^Warmonger Coat of Mirrored Coins^1
-178513^petclasses ear //GTS^1
-178514^all ear //GTS strsta^1
-178515^all ear //GTS intwis^1
-178516^all ear //GTS agidex^1
-178517^tank mask //GTS strsta^1
-178518^all mask //GTS intwis^1
-178519^all mask //GTS agidex^1
-178520^all neck //GTS strsta^1
-178521^all neck //GTS ACintwis^1
-178522^all neck //GTS agidex^1
-178523^all shoulders //GTS ACstrsta^1
-178524^all shoulders //GTS ACintwis^1
-178525^all shoulders //GTS ACagidex^1
-178526^all back //GTS ACstrsta^1
-178527^all back //GTS intwis^1
-178528^all back //GTS agidex^1
-178529^all range //GTS strsta^1
-178530^all range //GTS intwis^1
-178531^all range //GTS agidex^1
-178532^all finger //GTS ACstrsta^1
-178533^all finger //GTS ACintwis^1
-178534^all finger //GTS ACagidex^1
-178535^all waist //GTS strsta Crippling Slicer^1
-178536^all waist //GTS intwis Threads of Potential^1
-178537^all waist //GTS agidex Overdrive Boon^1
-178538^all charm //GTS strsta^1
-178539^all charm //GTS intwis^1
-178540^all charm //GTS ACagidex^1
-178541^Tank Shield- //GTS^1
-178542^Meleehybrid Shield- !ber //GTS^1
-178543^Casterpriest Shield- //GTS^1
-178544^primary secondary 1hs //GTS^1
-178545^primary secondary 1hs //GTS^1
-178546^primary secondary 1hb //GTS^1
-178547^primary secondary 1hb //GTS^1
-178548^primary secondary 1hp //GTS^1
-178549^primary secondary 1hp //GTS^1
-178550^war primary secondary 1hs- //GTS^1
-178551^knight primary 1hb- //GTS^1
-178552^primary secondary hth //GTS^1
-178553^mnk bst primary secondary 1hb- //GTS^1
-178554^rog primary secondary 1hp- //GTS^1
-178555^priest primary 1hb- //GTS^1
-178556^priest primary 1hb- //GTS^1
-178557^caster primary 1hp- //GTS^1
-178558^caster primary 1hb- //GTS^1
-178559^dru primary 1hs- //GTS^1
-178560^shm primary 1hp- //GTS^1
-178561^primary 2hs //GTS^1
-178562^primary 2hb //GTS^1
-178563^primary 2hp //GTS^1
-178564^knight primary 2hs- //GTS^1
-178565^mnk bst primary 2hb- //GTS^1
-178566^ber primary 2hs- //GTS^1
-178567^priest primary 2hb- //GTS^1
-178568^caster primary 2hb- //GTS^1
-178569^range rng bow- //GTS^1
-178570^range war pal shd rog bow- //GTS^1
-178571^all aug //GTS str^1
-178572^all aug //GTS agi^1
-178573^all aug //GTS intwis^1
-178574^all aug //GTS AC^1
-178575^primary secondary all aug //GTS^1
-178576^primary all aug //GTS^1
-178577^all primary secondary range charm aug //GTS  Balan^1
-178578^all primary secondary range charm aug //GTS  hStr^1
-178579^all primary secondary range charm aug //GTS  hDex^1
-178580^all primary secondary range charm aug //GTS  hAgi^1
-178581^all primary secondary range charm aug //GTS  hSta^1
-178582^all primary secondary range charm aug //GTS  hInt^1
-178583^all primary secondary range charm aug //GTS  hWis^1
+178513^Summoner's Earring of Mirrored Coins^1
+178514^Defender's Earring of Mirrored Coins^1
+178515^Mystic's Earring of Mirrored Coins^1
+178516^Acrobat's Earring of Mirrored Coins^1
+178517^Defender's Mask of Mirrored Coins^1
+178518^Mystic's Mask of Mirrored Coins^1
+178519^Acrobat's Mask of Mirrored Coins^1
+178520^Defender's Necklace of Mirrored Coins^1
+178521^Sage's Necklace of Mirrored Coins^1
+178522^Acrobat's Necklace of Mirrored Coins^1
+178523^Guardian's Pauldrons of Mirrored Coins^1
+178524^Sage's Amice of Mirrored Coins^1
+178525^Duelist's Spaulders of Mirrored Coins^1
+178526^Guardian's Cloak of Mirrored Coins^1
+178527^Mystic's Cloak of Mirrored Coins^1
+178528^Acrobat's Cloak of Mirrored Coins^1
+178529^Totem of Mirrored Coins^1
+178530^Chalice of Mirrored Coins^1
+178531^Tome of Mirrored Coins^1
+178532^Guardian's Ring of Mirrored Coins^1
+178533^Sage's Ring of Mirrored Coins^1
+178534^Duelist's Ring of Mirrored Coins^1
+178535^Defender's Waistguard of Mirrored Coins^1
+178536^Mystic's Sash of Mirrored Coins^1
+178537^Acrobat's Belt of Mirrored Coins^1
+178538^Defender's Charm of Mirrored Coins^1
+178539^Mystic's Charm of Mirrored Coins^1
+178540^Duelist's Charm of Mirrored Coins^1
+178541^Tower Shield of Mirrored Coins^1
+178542^Shield of Mirrored Coins^1
+178543^Buckler of Mirrored Coins^1
+178544^Longsword of Mirrored Coins^1
+178545^Axe of Mirrored Coins^1
+178546^Hammer of Mirrored Coins^1
+178547^Mace of Mirrored Coins^1
+178548^Dagger of Mirrored Coins^1
+178549^Short Spear of Mirrored Coins^1
+178550^Sword Breaker of Mirrored Coins^1
+178551^Broadsword of Mirrored Coins^1
+178552^Knuckles of Mirrored Coins^1
+178553^Baton of Mirrored Coins^1
+178554^Injection Dagger of Mirrored Coins^1
+178555^Spiked Mace of Mirrored Coins^1
+178556^Flanged Mace of Mirrored Coins^1
+178557^Athame of Mirrored Coins^1
+178558^Wand of Mirrored Coins^1
+178559^Scimitar of Mirrored Coins^1
+178560^Ritual Spear of Mirrored Coins^1
+178561^Bardiche of Mirrored Coins^1
+178562^Maul of Mirrored Coins^1
+178563^Long Spear of Mirrored Coins^1
+178564^Greatsword of Mirrored Coins^1
+178565^Bo Staff of Mirrored Coins^1
+178566^Greataxe of Mirrored Coins^1
+178567^Lucern Hammer of Mirrored Coins^1
+178568^Arcane Staff of Mirrored Coins^1
+178569^Longbow of Mirrored Coins^1
+178570^Short Bow of Mirrored Coins^1
+178571^Defender's Gem of Mirrored Coins^1
+178572^Acrobat's Gem of Mirrored Coins^1
+178573^Mystic's Gem of Mirrored Coins^1
+178574^Protector's Gem of Mirrored Coins^1
+178575^Honed Gem of Mirrored Coins^1
+178576^Sharpened Gem of Mirrored Coins^1
+178577^Balanced Gem of Mirrored Coins^1
+178578^Mighty Gem of Mirrored Coins^1
+178579^Nimble Gem of Mirrored Coins^1
+178580^Flowing Gem of Mirrored Coins^1
+178581^Steadfast Gem of Mirrored Coins^1
+178582^Brilliant Gem of Mirrored Coins^1
+178583^Empathetic Gem of Mirrored Coins^1
 178601^Legionnaire Bracer of Veiled Whispers^1
 178602^Legionnaire Gauntlets of Veiled Whispers^1
 178603^Legionnaire Boots of Veiled Whispers^1
@@ -149935,61 +150121,63 @@
 178910^Warmonger Sleeves of Gilded Thorns^1
 178911^Warmonger Leggings of Gilded Thorns^1
 178912^Warmonger Coat of Gilded Thorns^1
-178913^petclasses ear //RTS^1
-178914^all ear //RTS strsta^1
-178915^all ear //RTS intwis^1
-178916^all ear //RTS agidex^1
-178917^tank mask //RTS strsta^1
-178918^all mask //RTS intwis^1
-178919^all mask //RTS agidex^1
-178920^all neck //RTS strsta^1
-178921^all neck //RTS ACintwis^1
-178922^all neck //RTS agidex^1
-178923^all shoulders //RTS ACstrsta^1
-178924^all shoulders //RTS ACintwis^1
-178925^all shoulders //RTS ACagidex^1
-178926^all back //RTS ACstrsta^1
-178927^all back //RTS intwis^1
-178928^all back //RTS agidex^1
-178929^all range //RTS strsta^1
-178930^all range //RTS intwis^1
-178931^all range //RTS agidex^1
-178932^all finger //RTS ACstrsta^1
-178933^all finger //RTS ACintwis^1
-178934^all finger //RTS ACagidex^1
-178935^all waist //RTS strsta Crippling Slicer^1
-178936^all waist //RTS intwis Threads of Potential^1
-178937^all waist //RTS agidex Overdrive Boon^1
-178938^all charm //RTS strsta^1
-178939^all charm //RTS intwis^1
-178940^all charm //RTS ACagidex^1
-178941^Tank Shield- //RTS^1
-178942^Meleehybrid Shield- !ber //RTS^1
-178943^Casterpriest Shield- //RTS^1
-178944^primary secondary 1hs //RTS^1
-178945^primary secondary 1hs //RTS^1
-178946^primary secondary 1hb //RTS^1
-178947^primary secondary 1hb //RTS^1
-178948^primary secondary 1hp //RTS^1
-178949^primary secondary 1hp //RTS^1
-178950^war primary secondary 1hs- //RTS^1
-178951^knight primary 1hb- //RTS^1
-178952^primary secondary hth //RTS^1
-178953^mnk bst primary secondary 1hb- //RTS^1
-178954^rog primary secondary 1hp- //RTS^1
-178955^priest primary 1hb- //RTS^1
-178956^priest primary 1hb- //RTS^1
-178957^caster primary 1hp- //RTS^1
-178958^caster primary 1hb- //RTS^1
-178959^dru primary 1hs- //RTS^1
-178960^shm primary 1hp- //RTS^1
-178961^primary 2hs //RTS^1
-178962^primary 2hb //RTS^1
-178963^primary 2hp //RTS^1
-178964^knight primary 2hs- //RTS^1
-178965^mnk bst primary 2hb- //RTS^1
-178966^ber primary 2hs- //RTS^1
-178967^priest primary 2hb- //RTS^1
-178968^caster primary 2hb- //RTS^1
-178969^range rng bow- //RTS^1
-178970^range war pal shd rog bow- //RTS^1
+178913^Summoner's Earring of Gilded Thorns^1
+178914^Defender's Earring of Gilded Thorns^1
+178915^Mystic's Earring of Gilded Thorns^1
+178916^Acrobat's Earring of Gilded Thorns^1
+178917^Defender's Mask of Gilded Thorns^1
+178918^Mystic's Mask of Gilded Thorns^1
+178919^Acrobat's Mask of Gilded Thorns^1
+178920^Defender's Necklace of Gilded Thorns^1
+178921^Sage's Necklace of Gilded Thorns^1
+178922^Acrobat's Necklace of Gilded Thorns^1
+178923^Guardian's Pauldrons of Gilded Thorns^1
+178924^Sage's Amice of Gilded Thorns^1
+178925^Duelist's Spaulders of Gilded Thorns^1
+178926^Guardian's Cloak of Gilded Thorns^1
+178927^Mystic's Cloak of Gilded Thorns^1
+178928^Acrobat's Cloak of Gilded Thorns^1
+178929^Totem of Gilded Thorns^1
+178930^Chalice of Gilded Thorns^1
+178931^Tome of Gilded Thorns^1
+178932^Guardian's Ring of Gilded Thorns^1
+178933^Sage's Ring of Gilded Thorns^1
+178934^Duelist's Ring of Gilded Thorns^1
+178935^Defender's Waistguard of Gilded Thorns^1
+178936^Mystic's Sash of Gilded Thorns^1
+178937^Acrobat's Belt of Gilded Thorns^1
+178938^Defender's Charm of Gilded Thorns^1
+178939^Mystic's Charm of Gilded Thorns^1
+178940^Duelist's Charm of Gilded Thorns^1
+178941^Tower Shield of Gilded Thorns^1
+178942^Shield of Gilded Thorns^1
+178943^Buckler of Gilded Thorns^1
+178944^Longsword of Gilded Thorns^1
+178945^Axe of Gilded Thorns^1
+178946^Hammer of Gilded Thorns^1
+178947^Mace of Gilded Thorns^1
+178948^Dagger of Gilded Thorns^1
+178949^Short Spear of Gilded Thorns^1
+178950^Sword Breaker of Gilded Thorns^1
+178951^Broadsword of Gilded Thorns^1
+178952^Knuckles of Gilded Thorns^1
+178953^Baton of Gilded Thorns^1
+178954^Injection Dagger of Gilded Thorns^1
+178955^Spiked Mace of Gilded Thorns^1
+178956^Flanged Mace of Gilded Thorns^1
+178957^Athame of Gilded Thorns^1
+178958^Wand of Gilded Thorns^1
+178959^Scimitar of Gilded Thorns^1
+178960^Ritual Spear of Gilded Thorns^1
+178961^Bardiche of Gilded Thorns^1
+178962^Maul of Gilded Thorns^1
+178963^Long Spear of Gilded Thorns^1
+178964^Greatsword of Gilded Thorns^1
+178965^Bo Staff of Gilded Thorns^1
+178966^Greataxe of Gilded Thorns^1
+178967^Lucern Hammer of Gilded Thorns^1
+178968^Arcane Staff of Gilded Thorns^1
+178969^Longbow of Gilded Thorns^1
+178970^Short Bow of Gilded Thorns^1
+178981^Forlorn Arms Armor of Sworn Devotion^1
+178984^Forlorn Wrist Armor of the Unraveling Mind^1
