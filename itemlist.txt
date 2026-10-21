@@ -1091,7 +1091,7 @@
 2204^Studded Tunic^0
 2205^Studded Shoulderpads^0
 2206^Studded Cloak^0
-2207^Studded Belt^0
+2207^Studded Belt^1
 2208^Studded Sleeves^0
 2209^Studded Wristbands^0
 2210^Studded Gloves^0
@@ -1103,7 +1103,7 @@
 2216^Small Studded Tunic^0
 2217^Small Studded Shoulderpads^0
 2218^Small Studded Cloak^0
-2219^Small Studded Belt^0
+2219^Small Studded Belt^1
 2220^Small Studded Sleeves^0
 2221^Small Studded Wristbands^0
 2222^Small Studded Gloves^0
@@ -3516,7 +3516,7 @@
 5040^Rusty Mining Pick^1
 5041^Tarnished Mining Pick^0
 5042^Tarnished Short Sword^0
-5043^Tarnished Axe^0
+5043^Tarnished Axe^1
 5044^Tarnished Broad Sword^0
 5045^Tarnished Long Sword^0
 5046^Tarnished Battle Axe^0
@@ -4421,7 +4421,7 @@
 6030^Tarnished Mace^0
 6031^Tarnished Warhammer^0
 6032^Tarnished Flail^0
-6033^Tarnished Morning Star^0
+6033^Tarnished Morning Star^1
 6034^Pickbringers Chainmail Gloves^0
 6036^Orcish Mace^1
 6037^Orcish Morning Star^0
@@ -8296,7 +8296,7 @@
 10395^Scorpion Stinger^100
 10396^Small Brick of Unrefined Ore^100
 10397^Large Brick of Unrefined Ore^1
-10398^Bottle of Sweet Milk^0
+10398^Bottle of Sweet Milk^1000
 10399^Bottom Section of an Engraved Signet^1
 10400^Greater Lightstone^1
 10401^Ring of Empowerment^0
@@ -10766,11 +10766,11 @@
 13132^Cracked Giant Scarab Carapace^1
 13133^Pristine Giant Scarab Carapace^1
 13134^Hurrieta's Bloody Dress^0
-13135^Size 4 Sprocket^0
-13136^Size 5 Sprocket^0
-13137^Size 6 Sprocket^0
-13138^Size 4 Gizmo^0
-13139^Size 5 Gizmo^0
+13135^Size 4 Sprocket^20
+13136^Size 5 Sprocket^20
+13137^Size 6 Sprocket^20
+13138^Size 4 Gizmo^20
+13139^Size 5 Gizmo^20
 13140^Size 6 Gizmo^0
 13141^Wasp Wing^1000
 13142^Pixie Wing^1000
@@ -11444,7 +11444,7 @@
 13867^Human Head^0
 13868^Sharkskin Shield^0
 13869^Marr's Sustenance^0
-13870^Piranha Tooth^0
+13870^Piranha Tooth^20
 13871^Fresh Piranha^20
 13872^Sack of Piranha^0
 13873^Sack of Sharkskins^0
@@ -13553,10 +13553,10 @@
 16096^Heavy Tooled Weapon Belt^1
 16097^Double Woven Kelp Cord^1
 16099^Putrid Belt of Rotten Hide^1
-16100^Spell: Summon Food^0
+16100^Spell: Summon Food^20
 16101^Spell: True North^20
 16102^Spell: Summon Drink^20
-16104^Spell: Sense Summoned^0
+16104^Spell: Sense Summoned^20
 16105^Spell: Summon Bandages^20
 16106^Spell: Summon Wisp^20
 16107^Spell: Elementalkin: Earth^20
@@ -14023,7 +14023,7 @@
 16601^Aged Silver Malachite Ring^0
 16602^Electrum Malachite Bracelet^1
 16603^Aged Electrum Malachite Bracelet^0
-16604^Gold Malachite Bracelet^0
+16604^Gold Malachite Bracelet^1
 16605^Seaweed Woven Leggings^1
 16606^Platinum Malachite Ring^1
 16608^Silver Lapis Lazuli Necklace^0
@@ -14160,14 +14160,14 @@
 16743^Aged Platinum Opal Engagement Ring^0
 16744^Blackened Pearl Silver Ring^1
 16745^Aged Blackened Pearl Silver Ring^0
-16746^Black Pearl Electrum Choker^0
+16746^Black Pearl Electrum Choker^1
 16748^Golden Black Pearl Choker^0
 16749^Aged Golden Black Pearl Choker^0
 16750^Black Pearl Platinum Ring^0
 16751^Aged Black Pearl Platinum Ring^0
 16752^Silver Fire Wedding Ring^0
 16753^Full Tapestry Satchel^1
-16754^Electrum Fire Wedding Ring^0
+16754^Electrum Fire Wedding Ring^1
 16755^Jaylia's Legplates of the Valiant^1
 16756^Golden Fire Wedding Ring^0
 16757^Trydan's Greaves of Nobility^1
@@ -14181,7 +14181,7 @@
 16766^Platinum Star Ruby Veil^0
 16768^Silvered Fire Emerald Ring^0
 16769^Composer's Greaves^1
-16770^Fire Emerald Electrum Bracelet^0
+16770^Fire Emerald Electrum Bracelet^1
 16771^Rizlona's Fiery Greaves^1
 16772^Fire Emerald Golden Bracelet^1
 16773^Elemental Essence of Air^1
@@ -14189,7 +14189,7 @@
 16775^Planestriders Greaves^1
 16776^Silvered Sapphire Necklace^0
 16777^Askr's Thunderous Greaves^1
-16778^Sapphire Electrum Earring^0
+16778^Sapphire Electrum Earring^1
 16779^Trial Taelosian Alloy Blood Axe^1
 16780^Golden Sapphire Earring^0
 16782^Sapphire Platinum Necklace^1
@@ -14253,7 +14253,7 @@
 16841^Hexed Kerran Doll^1
 16842^Delphinium^1000
 16843^Bundle of Wormwood^1000
-16844^Limestone^20
+16844^Limestone^1000
 16845^Lead Sulphide^100
 16846^Brimstone^0
 16847^Cinnabar^0
@@ -14803,9 +14803,9 @@
 17488^Chokidai Eye^100
 17489^Chokidai Scale^100
 17490^Shimmering Dragonbane Shield^1
-17491^Ixt Adamantine Shod Hoof^0
+17491^Ixt Adamantine Shod Hoof^100
 17492^Ra'Tuk Warrior's Bauble^100
-17493^Adamantine Mastruq Armor Spike^0
+17493^Adamantine Mastruq Armor Spike^100
 17494^Inert Lightning Spike^100
 17495^Intact Dragon Scale^100
 17496^Taelosian Tempered Ore^1
@@ -14858,7 +14858,7 @@
 17546^Sokokar Spine^100
 17547^Sokokar Fang^100
 17548^Sokokar Wing Webbing^100
-17549^Vitrik Beak^0
+17549^Vitrik Beak^100
 17550^Vitrik Pinion Feather^100
 17551^Vitrik Claw^100
 17552^Gold Nugget^100
@@ -15656,7 +15656,7 @@
 18598^The Unkempt Druids^1
 18608^Perpetual Pumps^0
 18609^Vengeful Taelosian Blood Axe^1
-18610^Forge of Icewell Arms^0
+18610^Forge of Icewell Arms^1
 18611^Forge of Icewell Arms^0
 18612^Liber Brassica Felix Vol. 1^1
 18613^Liber Brassica Felix Vol. 2^1
@@ -21073,7 +21073,7 @@
 24452^Clockwork Essence^1000
 24453^Faydark Essence^1000
 24454^Vital Essence^0
-24455^Thunder Essence^0
+24455^Thunder Essence^1000
 24456^Fetid Essence^1000
 24457^Spiteful Essence^1000
 24458^Marr Essence^0
@@ -25554,12 +25554,12 @@
 29572^Smythe's Shank^0
 29573^Molten Studs^1000
 29574^E'cian Ice Studs^1000
-29575^Planar Steel Studs^0
+29575^Planar Steel Studs^1000
 29576^Wind Metal Studs^1000
 29577^Nightmare Iron Studs^0
 29578^Electrified Copper Studs^1000
 29579^Molten Bits^1000
-29580^E'cian Ice Shards^0
+29580^E'cian Ice Shards^1000
 29581^Planar Steel Bits^0
 29582^Wind Metal Bits^1000
 29583^Nightmare Iron Bits^0
@@ -26071,7 +26071,7 @@
 30129^Ulthork Hide Collar^1
 30131^Copper Coldain Insignia Ring^1
 30132^Gold Coldain Insignia Ring^1
-30133^Silver Coldain Insignia Ring^0
+30133^Silver Coldain Insignia Ring^1
 30134^Platinum Coldain Insignia Ring^0
 30135^Coldain Hunting Blanket^1
 30136^Ry`Gorr Invasion Plans^1
@@ -28332,7 +28332,7 @@
 32892^Outer Portal Key Dena^0
 32893^Outer Portal Key Caza Azau^0
 32894^Outer Portal Key Dena Zeku^0
-32895^Wand of Portal Stabilization^0
+32895^Wand of Portal Stabilization^1
 32896^Deprecated Fellowship Campfire Materials^100
 32897^Deprecated Fellowship Campfire Materials^100
 32898^Deprecated Fellowship Campfire Materials^100
@@ -28701,7 +28701,7 @@
 33434^Chronal Seal of Sharpshooting^0
 33435^Block of High Quality Steel^0
 33436^Large Brick of High Quality Steel^1000
-33437^Small Brick of High Quality Steel^0
+33437^Small Brick of High Quality Steel^1000
 33438^Small Piece of High Quality Steel^1000
 33439^Seal Pattern^1000
 33440^Last Blood Water^1000
@@ -30267,8 +30267,8 @@
 35014^Intricate Wooden Figurine^1
 35015^Intricate Wooden Figurine^1
 35016^Intricate Wooden Figurine^1
-35017^Exalted Impression Book^0
-35018^Sublime Impression Book^0
+35017^Exalted Impression Book^1
+35018^Sublime Impression Book^1
 35019^Prepared Spider Food^0
 35026^Red Trader's Satchel^1
 35027^Orange Trader's Satchel^1
@@ -32686,7 +32686,7 @@
 37582^Large Opal High Quality Steel Plate^0
 37583^Block of Opal High Quality Steel^0
 37584^Large Brick of Opal High Quality Steel^0
-37585^Small Brick of Opal High Quality Steel^0
+37585^Small Brick of Opal High Quality Steel^1000
 37586^Small Piece of Opal High Quality Steel^1000
 37587^The Foolishness of Ambleshift^1
 37588^Seals of Power^1
@@ -36000,7 +36000,7 @@
 41557^Cleaned Stiff Hide Tome^0
 41558^Prepared Stiff Hide Tome^50
 41559^Smooth Stiff Hide Tome^0
-41560^Crude Hide Tome^0
+41560^Crude Hide Tome^50
 41561^Cleaned Crude Hide Tome^0
 41562^Prepared Crude Hide Tome^0
 41563^Smooth Crude Hide Tome^0
@@ -36050,9 +36050,9 @@
 41607^Manual^0
 41608^Fine Manual^0
 41609^Runic Manual^100
-41610^Fine Runic Manual^0
+41610^Fine Runic Manual^1000
 41611^Rough Papyrus Manual^0
-41612^Papyrus Manual^0
+41612^Papyrus Manual^100
 41613^Fine Papyrus Manual^0
 41614^Runic Papyrus Manual^0
 41615^Fine Runic Papyrus Manual^0
@@ -36060,16 +36060,16 @@
 41617^Fine Parchment Manual^0
 41618^Vellum Parchment Manual^0
 41619^Fine Vellum Parchment Manual^0
-41620^Runic Parchment Manual^0
+41620^Runic Parchment Manual^1000
 41621^Fine Runic Parchment Manual^0
-41622^Vellum Manual^0
+41622^Vellum Manual^1000
 41623^Fine Vellum Manual^1000
-41624^Runic Vellum Manual^0
+41624^Runic Vellum Manual^1000
 41625^Fine Runic Vellum Manual^0
-41626^Rough Grimoire^0
-41627^Grimoire^0
+41626^Rough Grimoire^1000
+41627^Grimoire^1000
 41628^Fine Grimoire^0
-41629^Runic Grimoire^0
+41629^Runic Grimoire^1000
 41630^Fine Runic Grimoire^0
 41631^Prayer Writing Kit^1
 41632^Hybrid Research Kit^1
@@ -37065,8 +37065,8 @@
 42884^Timeshear^1
 42885^Timeshear Fragment Coalescing Device^1
 42886^Timeshear Coalescing Device^1
-42888^Silver Fork^0
-42889^Silk Napkin^0
+42888^Silver Fork^1
+42889^Silk Napkin^1
 42890^Unfired Plain Dining Plate^0
 42891^Plain Dining Plate^1
 42892^Kiola Nut Brew^0
@@ -39127,7 +39127,7 @@
 45180^Inured Recurve Bowstring^1000
 45181^Elegant Recurve Bowstring^1000
 45182^Stalwart Recurve Bowstring^1000
-45183^Recurve Bow Inlay^0
+45183^Recurve Bow Inlay^1000
 45184^Clockwork War Hammer Ornament^1
 45185^Clockwork Great Mace Ornament^1
 45186^Clockwork Blade Ornament^1
@@ -41508,7 +41508,7 @@
 47668^Chalandria's Bite XII^0
 47669^Chalandria's Bite XIII^0
 47670^Chalandria's Bite XIV^20
-47671^Chalandria's Bite XV^0
+47671^Chalandria's Bite XV^20
 47672^Concentrated Chalandria's Bite I^0
 47673^Concentrated Chalandria's Bite II^0
 47674^Concentrated Chalandria's Bite III^0
@@ -41918,7 +41918,7 @@
 48086^Brell's Hammer Ornamentation^0
 48087^Gift: Haiti Relief Plush Bear^1
 48088^Tread of the Mountain Walker^1
-48090^Unstable Ooze^0
+48090^Unstable Ooze^1
 48091^Empathetic Ooze^0
 48092^Spitting Ooze^0
 48093^Rune Case^0
@@ -41977,12 +41977,12 @@
 48161^Blessed Water of Druzzil Ro^1000
 48162^Vanadium Ore^1000
 48163^Immaculate Animal Pelt^1000
-48164^Thalium Barbs^0
-48165^Thalium Studs^0
-48166^Thalium Fill^0
+48164^Thalium Barbs^1000
+48165^Thalium Studs^1000
+48166^Thalium Fill^1000
 48167^Fulginate Barbs^1000
-48168^Fulginate Studs^0
-48169^Fulginate Fill^0
+48168^Fulginate Studs^1000
+48169^Fulginate Fill^1000
 48170^Rhenium Barbs^1000
 48171^Rhenium Studs^1000
 48172^Rhenium Fill^0
@@ -41994,10 +41994,10 @@
 48178^Titanium Fill^0
 48179^Tantalum Barbs^1000
 48180^Tantalum Studs^1000
-48181^Tantalum Fill^0
+48181^Tantalum Fill^1000
 48182^Vanadium Barbs^1000
-48183^Vanadium Studs^0
-48184^Vanadium Fill^0
+48183^Vanadium Studs^1000
+48184^Vanadium Fill^1000
 48185^Sullied Hilt Wrap^0
 48186^Rough Hilt Wrap^1000
 48187^Fine Hilt Wrap^1000
@@ -42005,18 +42005,18 @@
 48189^Flawless Hilt Wrap^1000
 48190^Exquisite Hilt Wrap^1000
 48191^Immaculate Hilt Wrap^1000
-48192^Simple Short Haft^0
-48193^Simple Haft^0
-48194^Simple Long Haft^0
-48195^Simple Baton^0
-48196^Simple Staff^0
-48197^Simple Handle^0
-48198^Ornate Short Haft^0
-48199^Ornate Haft^0
-48200^Ornate Long Haft^0
-48201^Ornate Baton^0
-48202^Ornate Staff^0
-48203^Ornate Handle^0
+48192^Simple Short Haft^1000
+48193^Simple Haft^500
+48194^Simple Long Haft^500
+48195^Simple Baton^1000
+48196^Simple Staff^500
+48197^Simple Handle^1000
+48198^Ornate Short Haft^1000
+48199^Ornate Haft^500
+48200^Ornate Long Haft^500
+48201^Ornate Baton^1000
+48202^Ornate Staff^500
+48203^Ornate Handle^1000
 48204^Intricate Short Haft^0
 48205^Intricate Haft^0
 48206^Intricate Long Haft^0
@@ -42791,7 +42791,7 @@
 48975^Nimbus of the Confused^1
 48976^Title of the Green Thumb^1
 48977^Title of the Soused^0
-48978^Brewworks^0
+48978^Brewworks^1
 48979^Guardian Wolf Whistle^1
 48980^April Showers^0
 48981^Potted Daisy^20
@@ -42972,13 +42972,13 @@
 49165^Cosgrite Jewelry^1
 49166^Utility Pack^0
 49172^Familiar Pack^0
-49174^Raw Underfoot Silver^0
+49174^Raw Underfoot Silver^1
 49175^Raw Underfoot Copper^1
 49176^Refined Underfoot Silver^0
 49177^Refined Underfoot Copper^0
 49178^Brell Silver^1
 49179^Heart of the Underfoot Silver^0
-49180^Brell Filigree Pattern^0
+49180^Brell Filigree Pattern^1
 49181^Brell's Heart Silver Filigree^0
 49186^Tattered Expedition Journal^1
 49187^Tattered Expedition Journal^1
@@ -45280,7 +45280,7 @@
 51610^Halas Chocolate Liqueur^0
 51611^McKensie's Token^0
 51612^Docleaf's Shattered Shard^0
-51613^Fendrakyn's Shattered Shard^0
+51613^Fendrakyn's Shattered Shard^1
 51614^Brains of the Tormentor^1
 51615^Heart of the Tyrant^1
 51616^Secured Wooden Case^0
@@ -45964,10 +45964,10 @@
 52436^Onyx Protector's Right Eye^1
 52437^First Fragment of the Left Eye^1
 52438^Second Fragment of the Left Eye^1
-52439^Third Fragment of the Left Eye^0
+52439^Third Fragment of the Left Eye^1
 52440^Fourth Fragment of the Left Eye^1
-52441^Fifth Fragment of the Left Eye^0
-52442^Sixth Fragment of the Left Eye^0
+52441^Fifth Fragment of the Left Eye^1
+52442^Sixth Fragment of the Left Eye^1
 52443^First Fragment of the Right Eye^0
 52444^Second Fragment of the Right Eye^0
 52445^Third Fragment of the Right Eye^0
@@ -46042,7 +46042,7 @@
 52521^Ancient Dreadspire Tome^1
 52522^Congealed Blood of Redfang^1
 52523^Rune-Etched Stone^0
-52524^Shrunken Head^0
+52524^Shrunken Head^1
 52525^Sister's Handkerchief^1
 52526^Devlin's Boots^0
 52527^Devlin's Bracer^0
@@ -46120,7 +46120,7 @@
 52599^Inspiration of Tuyen^1
 52601^Divine Fetters of Ro^1
 52602^Twisted Harp String^1
-52603^Pulizzi's Golem Control Wand^0
+52603^Pulizzi's Golem Control Wand^1
 52604^Pulsing Obsidian Shard^0
 52606^Wooden Bucket^0
 52607^Cleaning Solvent^0
@@ -46134,8 +46134,8 @@
 52615^Drenched Scrubbing Brush^0
 52617^Zhureni's Satchel of Supplies^0
 52618^Magical Gold Ring^0
-52619^Set of Sketching Tools^0
-52620^High Quality Sketching Tools^0
+52619^Set of Sketching Tools^1
+52620^High Quality Sketching Tools^1
 52621^Blank Canvas^0
 52622^Sketch of the Reliquary^0
 52623^Sketch of the Scale of Veeshan^0
@@ -47164,22 +47164,22 @@
 53699^Runelinked Bracer^1
 53700^Fieldwarden's Bracer^1
 53701^Lorekeeper's Bracelet^1
-53702^Ruby of Wards^0
+53702^Ruby of Wards^1
 53703^Steel Ring of Valor^1
 53704^Steel Earring of Lore^1
 53705^Gorget of Warbound Steel^1
-53706^Frostloam Cloak^0
+53706^Frostloam Cloak^1
 53707^Krithgorian Hearthstone^1
 53708^Chip of Fratho's Shield^1
-53709^Axe of the Royal Guard^0
-53710^Holmguard Maul^0
+53709^Axe of the Royal Guard^1
+53710^Holmguard Maul^1
 53711^Pamphlet of Battle Ritual^1
 53712^Iceglazed Shield^1
 53713^Runed Diamond^1
 53715^Crystal of Daylight^1
 53716^Potion of Windspeed^20
 53717^Radiant Totem of Ancient Krithgor^1
-53718^Daystone^0
+53718^Daystone^1
 53719^Staff of Frozen Flame^1
 53720^Veil of the Traitor^1
 53721^Belt of the Betrayer^1
@@ -47187,7 +47187,7 @@
 53723^Globe of Frost^1
 53724^Vial of Gooey Black Gel^20
 53725^Battered Shield of the Fallen Guard^1
-53726^Tonic of Empowerment^0
+53726^Tonic of Empowerment^20
 53727^Anji's Serpentine Ring^1
 53728^Cloak of the Elder Drake^1
 53729^The Truthfinder^1
@@ -50238,7 +50238,7 @@
 57124^Unfired Adorned Formed Potion Vial Set^0
 57125^Adorning Gem Powder^1000
 57126^The Potions of Your Dreams^1
-57127^Bronze Point^0
+57127^Bronze Point^1000
 57128^MulHanney Ale^0
 57129^Nadia's Crossbow^0
 57130^Worn Crystal^1
@@ -51596,7 +51596,7 @@
 58644^Dwarven Salad^20
 58645^Sheet of Aligned Steel^1000
 58646^Sheet of Shimmering Steel^0
-58647^Crescent Reach Guild Summons^0
+58647^Crescent Reach Guild Summons^1
 58648^Crescent Reach Guild Summons^0
 58649^Crescent Reach Guild Summons^0
 58650^Crescent Reach Guild Summons^1
@@ -57423,7 +57423,7 @@
 64900^Rough Spell Tablet^0
 64901^Spell Tablet^0
 64902^Fine Spell Tablet^200
-64903^Runic Spell Tablet^0
+64903^Runic Spell Tablet^1000
 64904^Fine Runic Spell Tablet^0
 64905^Rough Martial Treatise^0
 64906^Martial Treatise^0
@@ -58921,7 +58921,7 @@
 66410^Tome of Healing Will Discipline^20
 66411^Tome of Stonewall Discipline^20
 66412^Tome of Focused Will Discipline^20
-66413^Bound Journal^0
+66413^Bound Journal^4
 66414^Open Journal^0
 66415^Open Journal^0
 66416^Open Journal^0
@@ -58961,7 +58961,7 @@
 66451^Decorative Stillmoon Warrior Helm^0
 66452^Rancid Rat Meat^10
 66453^Vial of Effusive Acid^0
-66454^Spider Egg Sac^0
+66454^Spider Egg Sac^10
 66455^Elemental Ember^10
 66457^Treasure Map^1
 66458^Burnt Treasure Map^1
@@ -59188,7 +59188,7 @@
 66688^Eltarki's Diary - Music of the Mind^1
 66689^Eltarki's Diary - Altar of Blood^1
 66691^Dreadguard Attack Plans^0
-66692^Sharpened Two-Handed Sword^0
+66692^Sharpened Two-Handed Sword^8
 66693^Queen's Bedchamber Key^1
 66694^Lock Picking Kit^1
 66695^Small Brass Key^1
@@ -59811,7 +59811,7 @@
 67398^Stonedust Particles^20
 67399^Glob of Mud^1
 67400^Piece of Chalk^1
-67401^Writ of the Magi^0
+67401^Writ of the Magi^1
 67403^Writ of the Magi^1
 67404^Rarundel's Open Memory Box^1
 67405^Rarundel's Locket^0
@@ -59850,7 +59850,7 @@
 67439^Mastruq Focusing Staff^20
 67440^Luclinite Horde Cube^1
 67441^Spirit Summoner's Bag^20
-67442^Mastruq's Bloodied Mane^0
+67442^Mastruq's Bloodied Mane^20
 67443^Ukun Summoning Idol^20
 67444^Mangled Ra'Tuk Brute Hide^20
 67445^Ra'Tuk Warrior's Blade^20
@@ -59911,7 +59911,7 @@
 67509^Vial of Black Poison^20
 67510^Reyna's Bloody Earring^1
 67511^Xictic's Bloody Robes^1
-67512^Socketed White Crystal^0
+67512^Socketed White Crystal^1
 67513^Dull Gem Shard^0
 67514^Talwin's Journal Page 1^1
 67515^Talwin's Journal Page 2^1
@@ -68272,14 +68272,14 @@
 76275^Luminous Soulstone^1
 76276^Ability: Enchant Planar Alloy (x1)^20
 76277^Ability: Enchant Planar Alloy (x10)^20
-76278^Rough Numen Plaque^0
+76278^Rough Numen Plaque^1000
 76279^Numen Plaque^1000
-76280^Fine Numen Plaque^0
-76281^Runic Numen Plaque^0
+76280^Fine Numen Plaque^1000
+76281^Runic Numen Plaque^1000
 76282^Fine Runic Numen Plaque^0
 76283^Rough War Doctrine^0
-76284^War Doctrine^0
-76285^Fine War Doctrine^0
+76284^War Doctrine^1000
+76285^Fine War Doctrine^1000
 76286^Runic War Doctrine^0
 76287^Fine Runic War Doctrine^0
 76288^Rough Numen Plaque Solution^1000
@@ -68295,16 +68295,16 @@
 76298^Systematic Research Addendum: Numen Plaques^1
 76299^Planar Alloy^1000
 76300^Enchanted Planar Alloy^1000
-76301^Rough Orphic Card^0
+76301^Rough Orphic Card^1000
 76302^Orphic Card^1000
-76303^Fine Orphic Card^0
-76304^Runic Orphic Card^200
-76305^Fine Runic Orphic Card^200
+76303^Fine Orphic Card^1000
+76304^Runic Orphic Card^1000
+76305^Fine Runic Orphic Card^1000
 76306^Rough Combat Draft^0
 76307^Combat Draft^0
 76308^Fine Combat Draft^0
 76309^Runic Combat Draft^1000
-76310^Fine Runic Combat Draft^0
+76310^Fine Runic Combat Draft^1000
 76311^Rough Orphic Card Solution^0
 76312^Orphic Card Solution^20
 76313^Fine Orphic Card Solution^0
@@ -68379,7 +68379,7 @@
 76383^Garlic-Buttered Planar Goo Soup^20
 76384^Garlic-Buttered Planar Goo Steaks^20
 76385^Garlic-Buttered Planar Goo Stew^20
-76386^Grilled Planar Goo^0
+76386^Grilled Planar Goo^1000
 76387^Grilled Planar Goo Jerky^20
 76388^Grilled Planar Goo Kabobs^20
 76389^Grilled Planar Goo Pie^0
@@ -70834,7 +70834,7 @@
 79493^Alliance Longbow^10
 79494^Alliance Crossbow^0
 79495^Alliance Arrows^100
-79496^Alliance Crossbow Bolts^0
+79496^Alliance Crossbow Bolts^100
 79497^Summoned: Giant Modulation Shard^1
 79498^Summoned: Glowing Modulation Shard^1
 79499^Purified Sunshard^1
@@ -71054,22 +71054,22 @@
 79758^Bloodmoon Taxidermy Kit^1
 79759^Reconstructed Wereorc Head^1
 79760^T. Bildarol's Missing Toolkit^1
-79761^Pico Timing Gears^0
-79762^Weight Compensation Disc XV^0
+79761^Pico Timing Gears^1
+79762^Weight Compensation Disc XV^1
 79763^Micro Timing Gears^0
 79764^Control Setting Gears I, II, III, IV, and VII^1
 79765^Ridged Tamping Pinion LX^0
-79766^Temporal Pinion XXXVIII^0
+79766^Temporal Pinion XXXVIII^1
 79767^Vertical Rotational Cam III^0
-79768^Horizontal Rotational Cam IV^0
-79769^Depth Field Prototype Pinion I^0
+79768^Horizontal Rotational Cam IV^1
+79769^Depth Field Prototype Pinion I^1
 79770^Concave Focal Disc Mark I^0
 79771^Zeka Clockwise Capping Rotator^0
 79772^Azia Clockwise Capping Rotator^0
 79773^Beza Clockwise Capping Rotator^0
 79774^Zeka Counterclockwise Capping Rotator^0
 79775^Azia Counterclockwise Capping Rotator^0
-79776^Beza Counterclockwise Capping Rotator^0
+79776^Beza Counterclockwise Capping Rotator^1
 79777^Right Curved Spatial Adjuster^0
 79778^Inverted Left Curved Spatial Adjuster^0
 79779^Forwards Axis Spring VI^0
@@ -74802,8 +74802,8 @@
 84091^Sand^1
 84092^Chunk of Coal^1
 84093^Pocket Lint^1
-84094^Draykey's Codex^0
-84095^Trick-or-Treat Bag^0
+84094^Draykey's Codex^1
+84095^Trick-or-Treat Bag^1
 84096^Full Trick-or-Treat Bag^1
 84097^Mippie's Home Remedies^1
 84098^Halfling Brain^1000
@@ -76163,10 +76163,10 @@
 85627^Gray Orb of Kazzanthar the Sixth^1
 85628^Black Orb of Zomm the Seventh^1
 85629^Gray Orb of Taroknock the Eighth^1
-85630^Black Orb of Sharlash the Ninth^0
+85630^Black Orb of Sharlash the Ninth^1
 85631^Gray Orb of Karkahn the Tenth^1
 85632^Black Orb of Thanus the Eleventh^1
-85633^Black Orb of Maru the Twelfth^0
+85633^Black Orb of Maru the Twelfth^1
 85634^Gray Orb of Morogone the Thirteenth^1
 85639^Grayleaf's Spirit Seeds^1
 85640^Ancient Treant Spirit Seeds^1
@@ -76175,9 +76175,9 @@
 85643^Lifestone of Spring^1
 85644^Lifestone of Summer^1
 85645^Pouch of Treant Spirit Seeds^1
-85646^Dragon Tooth of Shar`Drahn^0
+85646^Dragon Tooth of Shar`Drahn^1
 85647^Dragon Tooth of Tsikut^1
-85648^Dragon Tooth of Ashenback^0
+85648^Dragon Tooth of Ashenback^1
 85649^Fragment of Porthio`s Shadow Staff^1
 85650^Automated Barding Oscillator^1
 85651^Automated Barding Oscillator Users Manual^1
@@ -76304,7 +76304,7 @@
 85792^Seathir's Shattered Shield^0
 85793^Derein's Shattered Shield^1
 85794^Gothar's Shattered Shield^1
-85795^Shadow Ward Rune^0
+85795^Shadow Ward Rune^1
 85796^Sayrook's Head^1
 85797^Blightfire Bivouac Supplies^0
 85799^Sanguine Mind Crystal^0
@@ -77318,9 +77318,9 @@
 87203^Darksoot Mushroom^1
 87204^Torn Garment^1
 87205^Torch of the Wraithguard^1
-87206^Portal Fragment^0
-87207^Portal Fragment^0
-87208^Portal Fragment^0
+87206^Portal Fragment^1
+87207^Portal Fragment^1
+87208^Portal Fragment^1
 87210^Crate of Tuffein Fruit^0
 87211^Barrel of Tuffein Oats^0
 87212^Pile of Rocks^0
@@ -77370,7 +77370,7 @@
 87299^Fine Bone Powder^1
 87307^Aragol's Empty Pouch^0
 87308^Pouch of Ethereal Essence^0
-87309^Fiery Wand of Retribution^0
+87309^Fiery Wand of Retribution^1
 87310^Wand of the Blood Curse^1
 87311^Scrumptious Jack-o-Lantern^20
 87312^Ginormous Jawbreaker^20
@@ -78057,7 +78057,7 @@
 88152^The Red Flame^0
 88153^Attuned Medicine Bag^0
 88154^Sealed Attuned Medicine Bag^0
-88155^Staff of Frozen Flame^0
+88155^Staff of Frozen Flame^1
 88156^Orcskull Cup^1
 88160^Scratched Blood Ruby^0
 88162^Gold-Flecked Ore^1
@@ -78073,7 +78073,7 @@
 88174^Ore-coated Reliquary Stone^0
 88175^Pouch of Goldfire Ore Dust^0
 88176^Goldfire Ore^1
-88177^Obsidian of Shade Bane^0
+88177^Obsidian of Shade Bane^1
 88178^Incriminating Note^0
 88179^Sealed Letter^0
 88180^Torn Pages^1
@@ -79754,10 +79754,10 @@
 90302^Gooey Gilded Choker^0
 90303^Oozing Bag^0
 90305^Scryer's Torch^0
-90307^Rough Charta Arcanum^0
-90308^Charta Arcanum^0
-90309^Fine Charta Arcanum^0
-90310^Runic Charta Arcanum^0
+90307^Rough Charta Arcanum^1000
+90308^Charta Arcanum^1000
+90309^Fine Charta Arcanum^1000
+90310^Runic Charta Arcanum^1000
 90311^Fine Runic Charta Arcanum^0
 90312^Rough Primer^1000
 90313^Primer^0
@@ -82530,11 +82530,17 @@
 93371^Elaborate Charm of Physical Purpose^0
 93372^Elaborate Charm of Physical Refinement^0
 93373^Elaborate Charm of Physical Tenacity^0
+93374^Element of Luck^1
+93375^Element of Luck^1
+93376^Element of Luck^1
 93377^Elaborate Charm of Mental Corruption^0
 93378^Elaborate Charm of Mental Diversity^0
 93380^Elaborate Charm of Mental Erudition^1
 93381^Elaborate Charm of Mental Ferocity^0
 93384^Elaborate Charm of Mental Invention^0
+93385^Manor Sword^1
+93386^Manor Axe^1
+93387^Manor Spear^1
 93388^Elaborate Charm of Mental Tenacity^0
 93389^Elaborate Charm of Mental Tradition^0
 93390^Elaborate Charm of Spiritual Adaptation^0
@@ -82618,13 +82624,13 @@
 93473^Blindfish Pale Ale^20
 93474^Fish Fungus Wine^20
 93475^Fish Fungus^1000
-93476^Longflight Javelin Shafts^0
-93477^War Javelin Shafts^0
+93476^Longflight Javelin Shafts^1000
+93477^War Javelin Shafts^1000
 93478^Runic Longflight Javelin Shafts^0
 93479^Runic War Javelin Shafts^0
-93480^Longflight Javelin Heads^0
-93481^War Javelin Heads^0
-93482^Steel Longflight Javelin Heads^0
+93480^Longflight Javelin Heads^1000
+93481^War Javelin Heads^1000
+93482^Steel Longflight Javelin Heads^1000
 93483^Steel War Javelin Heads^1000
 93484^Longflight Javelin^100
 93485^War Javelin^100
@@ -82642,7 +82648,7 @@
 93497^Smudged Runic Parchment^1000
 93498^Parchment^1000
 93499^Fine Parchment^1000
-93500^Vellum Parchment^0
+93500^Vellum Parchment^1000
 93501^Fine Vellum Parchment^1000
 93502^Runic Parchment^1000
 93503^Parchment Solution^1000
@@ -84723,7 +84729,7 @@
 95787^Marquise Cut Prestidigitase^1000
 95788^Square Cut Staurolite^1000
 95789^Round Cut Staurolite^1000
-95790^Oval Cut Staurolite^0
+95790^Oval Cut Staurolite^1000
 95791^Half-Moon Cut Staurolite^1000
 95792^Trillion Cut Staurolite^1000
 95793^Pear Cut Staurolite^1000
@@ -84994,7 +85000,7 @@
 96061^Elixir of the Cetacean IX^0
 96062^Elixir of the Cetacean X^0
 96063^Elixir of the Avian I^0
-96064^Elixir of the Avian II^0
+96064^Elixir of the Avian II^20
 96065^Elixir of the Avian III^0
 96066^Elixir of the Avian IV^0
 96067^Elixir of the Avian V^0
@@ -85660,7 +85666,7 @@
 96728^Horse Meat Sausage^1000
 96729^Egg White^1000
 96730^Egg Yolk^1000
-96731^Mixed Egg^0
+96731^Mixed Egg^1000
 96732^Taelosian Dough^20
 96733^Taelosian Pastry Dough^1000
 96734^Taelosian Mountain Dough^20
@@ -86173,7 +86179,7 @@
 97254^Shed Drake Scales^20
 97255^Hypomyces Mushroom^20
 97256^Shard of Shale^0
-97257^Diseased Griffon Feather^0
+97257^Diseased Griffon Feather^20
 97258^Diseased Spider Eggs^20
 97259^Diseased Berries^0
 97260^Diseased Roots^20
@@ -86630,10 +86636,10 @@
 97755^Stiff Hide^1000
 97756^Cleaned Stiff Hide^1000
 97757^Prepared Stiff Hide^1000
-97758^Smooth Stiff Hide^0
-97759^Crude Hide^0
-97760^Cleaned Crude Hide^0
-97761^Prepared Crude Hide^0
+97758^Smooth Stiff Hide^1000
+97759^Crude Hide^1000
+97760^Cleaned Crude Hide^1000
+97761^Prepared Crude Hide^1000
 97762^Smooth Crude Hide^0
 97763^Pristine Crude Hide^0
 97764^Rough Hide^0
@@ -86658,7 +86664,7 @@
 97783^Pristine Supple Hide^0
 97784^Runic Hide^0
 97785^Cleaned Runic Hide^1000
-97786^Prepared Runic Hide^0
+97786^Prepared Runic Hide^1000
 97787^Smooth Runic Hide^0
 97788^Pristine Runic Hide^1000
 97789^Fine Runic Hide^1000
@@ -86666,7 +86672,7 @@
 97791^Prepared Fine Runic Hide^1000
 97792^Smooth Fine Runic Hide^0
 97793^Pristine Fine Runic Hide^0
-97794^Supple Runic Hide^0
+97794^Supple Runic Hide^1000
 97795^Cleaned Supple Runic Hide^0
 97796^Prepared Supple Runic Hide^1000
 97797^Smooth Supple Runic Hide^1000
@@ -86685,7 +86691,7 @@
 97810^Rough Papyrus^1000
 97811^Papyrus^1000
 97812^Fine Papyrus^0
-97813^Runic Papyrus^0
+97813^Runic Papyrus^1000
 97814^Fine Runic Papyrus^0
 97815^Fine Runic Parchment^1000
 97816^Vellum^1000
@@ -86693,9 +86699,9 @@
 97818^Runic Vellum^1000
 97819^Fine Runic Vellum^1000
 97820^Rough Paper^1000
-97821^Paper^0
+97821^Paper^1000
 97822^Fine Paper^0
-97823^Runic Paper^0
+97823^Runic Paper^1000
 97824^Fine Runic Paper^1000
 97825^Lye^1000
 97826^Stiff Hide Solution^1000
@@ -86831,7 +86837,7 @@
 97956^Potter Ceramic Clay^0
 97957^Researcher Ceramic Clay^100
 97958^Smith Ceramic Clay^100
-97959^Tailor Ceramic Clay^0
+97959^Tailor Ceramic Clay^100
 97960^Toxicologist Ceramic Clay^0
 97961^Artisan Ceramic Clay^100
 97962^Square Cut Taaffeite Silver Ring^0
@@ -95980,7 +95986,7 @@
 108412^Intricate Scryer's Ear Stud^1
 108413^Intricate Scryer's Facemask^0
 108414^Intricate Scryer's Necklace^0
-108415^Intricate Scryer's Shoulderpads^0
+108415^Intricate Scryer's Shoulderpads^1
 108416^Intricate Scryer's Cloak^0
 108417^Intricate Scryer's Sphere^0
 108418^Intricate Scryer's Ring^0
@@ -110408,7 +110414,7 @@
 127912^Archon's Charm^1
 127913^Singing Short Sword Ornamentation^1
 127914^Claw of the Savage Spirit Ornamentation^1
-127915^Kerasian Axe of Ire Ornamentation^0
+127915^Kerasian Axe of Ire Ornamentation^1
 127916^Water Sprinkler of Nem Ankh Ornamentation^1
 127917^Nature Walkers Scimitar Ornamentation^1
 127918^Staff of the Serpent Ornamentation^0
@@ -116417,7 +116423,7 @@
 135490^Regal Uninfused Elegant Dueling Blade^0
 135491^Regal Uninfused Holy Glossed Hammer^0
 135492^Regal Uninfused Ragged Cutlass^0
-135493^Regal Uninfused Spirit-Touched Spear^0
+135493^Regal Uninfused Spirit-Touched Spear^1
 135494^Regal Uninfused Stormslash Halberd^0
 135495^Regal Uninfused Viper Rapier^0
 135496^Transcendent Nimble Symbol of the Skeptic^1
@@ -135525,6 +135531,13 @@
 160683^Summoned: Nori's Tonic of Clarity^1
 160684^Summoned: Dulse's Tonic of Refreshment^1
 160688^Summoned: Orb of Flame XVIII^1
+160690^Minor Seal of the Blooming Rose^20
+160691^Lesser Seal of the Blooming Rose^20
+160695^Minor Artful Strategem^1
+160696^Lesser Artful Strategem^1
+160697^Median Artful Strategem^1
+160698^Greater Artful Strategem^1
+160699^Glowing Artful Strategem^1
 160701^Weeping Undefeated Heaven Subsumption^20
 160702^Battleworn Stalwart Moon Subsumption^20
 160703^Adamant Triumphant Cloud Subsumption^20
@@ -145745,6 +145758,9 @@
 172038^Discarded Worn Robe^100
 172039^Loathful Guano Buildup^100
 172040^Empty Spiter Egg Sac^100
+172042^Blazing Wick^100
+172043^Burnt Wick^100
+172046^Crystallized Wick^100
 172048^Crimson Wick^100
 172049^Azure Wax Clump^100
 172050^Crimson Wax Clump^100
@@ -146204,6 +146220,93 @@
 172632^Forlorn Head Armor^1
 172633^Forlorn Arms Armor^1
 172634^Forlorn Legs Armor^1
+172635^Forlorn Chest Armor^1
+172636^Forlorn Earring of the Summoner^1
+172637^Forlorn Earring of the Defender^1
+172638^Forlorn Earring of the Acrobat^1
+172639^Forlorn Earring of the Mystic^1
+172640^Forlorn Mask of the Defender^1
+172641^Forlorn Mask of the Acrobat^1
+172642^Forlorn Mask of the Mystic^1
+172643^Forlorn Necklace of the Sage^1
+172644^Forlorn Necklace of the Acrobat^1
+172645^Forlorn Necklace of the Defender^1
+172646^Forlorn Spaulders of the Duelist^1
+172647^Forlorn Pauldrons of the Guardian^1
+172648^Forlorn Amice of the Sage^1
+172649^Forlorn Cloak of the Mystic^1
+172650^Forlorn Cloak of the Acrobat^1
+172651^Forlorn Cloak of the Guardian^1
+172652^Forlorn Orb^1
+172653^Forlorn Talisman^1
+172654^Forlorn Sigil^1
+172655^Forlorn Ring of the Duelist^1
+172656^Forlorn Ring of the Guardian^1
+172657^Forlorn Ring of the Sage^1
+172658^Forlorn Defender's Waistguard^1
+172659^Forlorn Mystic's Sash^1
+172660^Forlorn Acrobat's Belt^1
+172661^Forlorn Charm of the Defender^1
+172662^Forlorn Charm of the Mystic^1
+172663^Forlorn Charm of the Duelist^1
+172664^Forlorn Tower Shield^1
+172665^Forlorn Shield^1
+172666^Forlorn Buckler^1
+172667^Forlorn Longsword^1
+172668^Forlorn Axe^1
+172669^Forlorn Hammer^1
+172670^Forlorn Mace^1
+172671^Forlorn Dagger^1
+172672^Forlorn Short Spear^1
+172673^Forlorn Sword Breaker^1
+172674^Forlorn Broadsword^1
+172675^Forlorn Knuckles^1
+172676^Forlorn Baton^1
+172677^Forlorn Injection Dagger^1
+172678^Forlorn Spiked Mace^1
+172679^Forlorn Flanged Mace^1
+172680^Forlorn Athame^1
+172681^Forlorn Wand^1
+172682^Forlorn Scimitar^1
+172683^Forlorn Ritual Spear^1
+172684^Forlorn Bardiche^1
+172685^Forlorn Maul^1
+172686^Forlorn Long Spear^1
+172687^Forlorn Greatsword^1
+172688^Forlorn Bo Staff^1
+172689^Forlorn Lucern Hammer^1
+172690^Forlorn Arcane Staff^1
+172691^Forlorn Greataxe^1
+172692^Forlorn Longbow^1
+172693^Forlorn Short Bow^1
+172694^Forlorn Gem of the Defender^1
+172695^Forlorn Gem of the Acrobat^1
+172696^Forlorn Gem of the Mystic^1
+172697^Forlorn Gem of the Protector^1
+172698^Forlorn Gem of the Honed^1
+172699^Forlorn Gem of the Sharpened^1
+172700^Forlorn Gem of the Balanced^1
+172701^Forlorn Gem of the Mighty^1
+172702^Forlorn Gem of the Nimble^1
+172703^Forlorn Gem of the Flowing^1
+172704^Forlorn Gem of the Steadfast^1
+172705^Forlorn Gem of the Brilliant^1
+172706^Forlorn Gem of the Empathetic^1
+172707^Mirrored Wrist Armor Lining^1
+172714^Gilded Wrist Armor Lining^1
+172716^Gilded Feet Armor Lining^1
+172717^Gilded Head Armor Lining^1
+172719^Gilded Leg Armor Lining^1
+172732^Gilded Necklace Clasp^1
+172733^Gilded Amice Fastener^1
+172734^Gilded Cloak Fastener^1
+172735^Gilded Idol Polishing Cloth^1
+172736^Gilded Ring Polishing Cloth^1
+172738^Gilded Charm Polishing Cloth^1
+172743^Gilded Shield Enarmes^1
+172744^Gilded Essence of Finesse^1
+172747^Mirrored Focus of Fortitude^1
+172748^Mirrored Focus of Heroism^1
 172749^Kismet Stabilizing Medium^20
 172750^Kismet Bolstering Medium^20
 172751^Fossilized Kismet Ore^1000
@@ -146273,6 +146376,7 @@
 172821^Kismet Imbued Oleander Extract^1000
 172822^Kismet Imbued Larkspur Extract^1000
 172823^Kismet Imbued Caladium Extract^1000
+172824^Kismet Imbued Laburnum Extract^1000
 172825^Kismet Imbued Privet Extract^1000
 172826^Kismet Imbued Delphinium Extract^1000
 172827^Fungus Patch (Green)^100
@@ -147416,6 +147520,42 @@
 174211^Leather Nose Band^100
 174212^Metal Curb Bit^100
 174213^Leather Snaffle Bit^100
+174240^Couple's Bench^1
+174241^Contract of the Dryad^1
+174242^Painting: Favors of Fortune^20
+174244^Metamorph Wand: Wagerling^1
+174245^Golden Goose Whistle^1
+174256^Gilded Longsword Ornament^1
+174257^Gilded Axe Ornament^1
+174258^Gilded Broadsword Ornament^1
+174259^Gilded Falcata Ornament^1
+174260^Gilded Scimitar Ornament^1
+174261^Gilded Bardiche Ornament^1
+174262^Gilded Greatsword Ornament^1
+174263^Gilded Greataxe Ornament^1
+174264^Gilded Hammer Ornament^1
+174265^Gilded Mace Ornament^1
+174266^Gilded Wand Ornament^1
+174267^Gilded Spiked Mace Ornament^1
+174268^Gilded Baton Ornament^1
+174269^Gilded Flanged Mace Ornament^1
+174270^Gilded Maul Ornament^1
+174271^Gilded Lucern Hammer Ornament^1
+174272^Gilded Knuckles Ornament^1
+174273^Gilded Dagger Ornament^1
+174274^Gilded Short Spear Ornament^1
+174275^Gilded Injection Dagger Ornament^1
+174276^Gilded Ritual Spear Ornament^1
+174277^Gilded Athame Ornament^1
+174278^Gilded Rapier Ornament^1
+174279^Gilded Long Spear Ornament^1
+174280^Gilded Arcane Staff Ornament^1
+174281^Gilded Bo Staff Ornament^1
+174282^Gilded Longbow Ornament^1
+174283^Gilded Short Bow Ornament^1
+174284^Gilded Buckler Ornament^1
+174285^Gilded Shield Ornament^1
+174286^Gilded Tower Shield Ornament^1
 174290^Gilded Serpent Crown Ornament^1
 174291^Gilded Serpent Crown^1
 174301^Shackled Scalewrought Plate Helm Ornament^1
@@ -147527,6 +147667,7 @@
 174445^Chain Feet Ornament of Gilded Malice^1
 174446^Scalemail Helm Ornament of Gilded Malice^1
 174447^Scalemail Chest Ornament of Gilded Malice^1
+174448^Scalemail Arms Ornament of Gilded Malice^1
 174449^Scalemail Wrist Ornament of Gilded Malice^1
 174450^Scalemail Hands Ornament of Gilded Malice^1
 174451^Scalemail Legs Ornament of Gilded Malice^1
@@ -147636,6 +147777,7 @@
 174589^Carved Minotaur Horn^100
 174590^Gilded Minotaur Horn^100
 174591^Battle Marked Minotaur Horn^100
+174592^Splintered Chess Piece^100
 174608^Krag Chick Feather^100
 174609^Brown Krag Feather^100
 174610^White Tipped Krag Feather^100
@@ -147652,6 +147794,13 @@
 174621^Goblin Chief Totem^100
 174622^Goblin Shaman Totem^100
 174623^Goblin War Totem^100
+174624^Kerran Buckle^100
+174625^Kerran Sandal^100
+174626^Kerran Knife^100
+174627^Kerran Bowl^100
+174628^Kerran Lute^100
+174629^Kerran Walking Stick^100
+174630^Kerran Bracer^100
 174632^Nut Cluster^100
 174633^Raw Egg^100
 174634^Trapped Frog^100
@@ -147660,6 +147809,7 @@
 174637^Fresh Grubs^100
 174638^Arranged Berries^100
 174639^Dropped Erudin Snack^100
+174640^Young Erudion Leaves^100
 174648^Toxxulian Beetle^100
 174649^Toxxulian Spotted Butterfly^100
 174650^Toxxulian Huntsman Spider^100
@@ -147687,6 +147837,7 @@
 174705^Gray Fish Scales^100
 174707^Black Fish Scales^100
 174710^Blue Fish Scales^100
+174732^Thexian Fingers^100
 174736^Garter Snake Bile^100
 174737^Gloom Spider Bile^100
 174738^Tree Snake Bile^100
@@ -147703,7 +147854,21 @@
 174749^Araneidae Tracheae^100
 174750^Araneidae Spinnerets^100
 174751^Araneidae Venom Sac^100
+174752^Abandoned Highhold Banner^100
+174753^Abandoned Neriak Banner^100
+174754^Shattered Spear^100
+174755^Blood-Soaked Bedroll^100
+174756^Shelter Remains^100
+174757^Looted War Chest^100
+174758^Ruined War Drum^100
 174759^Innoruuk Prayer Candle^100
+174760^Wagon Wheel^100
+174761^Inkwell^100
+174762^Racked Pans^100
+174763^Ruined Pitchfork^100
+174764^Cracked Bell^100
+174765^Rusted Candelabra^100
+174766^Moldy Hay Bale^100
 174767^Mixing Bowl^100
 174768^Shadowed Knife^100
 174769^Throwing Knife^100
@@ -147729,6 +147894,13 @@
 174789^Strip of Freeport Chainmail^100
 174790^Strip of Highhold Chainmail^100
 174791^Strip of Qeynos Chainmail^100
+174794^Melted Willowisp^100
+174795^Flattened Willowisp^100
+174796^Shattered Willowisp^100
+174797^Venomous Willowisp^100
+174798^Spectral Willowisp^100
+174802^Heavy Cloak^100
+174804^Coin Purse^100
 174808^Black Wolf Pelt^100
 174809^Black Wolf Claw^100
 174810^Black Wolf Tail^100
@@ -148729,6 +148901,7 @@
 176221^Greedy Cloth Legs Ornament^1
 176222^Greedy Cloth Feet Ornament^1
 176223^Greedy Cloth Robe Ornament^1
+176393^An Ace of Clovers Card^100
 177000^Tome: Hiatus V^1
 177001^Tome: Final Stand Discipline VI^1
 177002^Tome: Cyclone Blades XIV^1
@@ -149468,7 +149641,7 @@
 178167^all aug //GT1 agidex^1
 178168^all aug //GT1 intwissta^1
 178169^all aug //GT1 AC^1
-178170^primary secondary all aug //GT1^1
+178170^Winnowyl's Potato^1
 178171^primary all aug //GT1^1
 178172^all primary secondary range charm aug //GT1 Balanc^1
 178173^all primary secondary range charm aug //GT1 hStr^1
@@ -150008,6 +150181,7 @@
 178765^caster primary 2hb- //RT1^1
 178766^range rng bow- //RT1^1
 178767^range war pal shd rog bow- //RT1^1
+178799^Trunk of Treachery^1
 178800^Deceiver's Duffle^1
 178801^Legionnaire Bracer of Gilded Thorns^1
 178802^Legionnaire Gauntlets of Gilded Thorns^1
@@ -150179,5 +150353,17 @@
 178968^Arcane Staff of Gilded Thorns^1
 178969^Longbow of Gilded Thorns^1
 178970^Short Bow of Gilded Thorns^1
+178971^Coveted Scrip^1000
 178981^Forlorn Arms Armor of Sworn Devotion^1
 178984^Forlorn Wrist Armor of the Unraveling Mind^1
+178985^Forlorn Hands Armor of the Unraveling Mind^1
+178989^Forlorn Legs Armor of the Unraveling Mind^1
+178990^Forlorn Chest Armor of the Unraveling Mind^1
+178991^Forlorn Wrist Armor of Veiled Whispers^1
+178992^Forlorn Hands Armor of Veiled Whispers^1
+178993^Forlorn Feet Armor of Veiled Whispers^1
+178994^Forlorn Head Armor of Veiled Whispers^1
+178996^Forlorn Legs Armor of Veiled Whispers^1
+180021^Lucky Feather Talisman^100
+180030^Glinting Thorn Fragment^100
+180031^Clover-Marked Carapace^100
