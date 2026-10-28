@@ -30024,7 +30024,7 @@
 34765^Sullied Leather Boots Template^0
 34766^Crude Leather Skullcap Template^0
 34767^Crude Leather Mask Template^0
-34768^Crude Leather Gorget Template^0
+34768^Crude Leather Gorget Template^10
 34769^Crude Leather Tunic Template^0
 34770^Crude Leather Shoulderpads Template^0
 34771^Crude Leather Cloak Template^0
@@ -30048,7 +30048,7 @@
 34789^Rough Leather Boots Template^0
 34790^Flawed Leather Skullcap Template^0
 34791^Flawed Leather Mask Template^0
-34792^Flawed Leather Gorget Template^0
+34792^Flawed Leather Gorget Template^10
 34793^Flawed Leather Tunic Template^0
 34794^Flawed Leather Shoulderpads Template^0
 34795^Flawed Leather Cloak Template^0
@@ -30072,7 +30072,7 @@
 34813^Pristine Leather Boots Template^0
 34814^Fine Leather Skullcap Template^0
 34815^Fine Leather Mask Template^0
-34816^Fine Leather Gorget Template^0
+34816^Fine Leather Gorget Template^10
 34817^Fine Leather Tunic Template^0
 34818^Fine Leather Shoulderpads Template^0
 34819^Fine Leather Cloak Template^0
@@ -31587,11 +31587,11 @@
 36419^Prismatic Rock^20
 36420^Prismatic Roots^20
 36421^Prismatic Dust^20
-36422^Prismatic Drake Scale^0
+36422^Prismatic Drake Scale^20
 36423^Three Oak Acorn^1000
 36424^Ranthock Roots^1000
 36425^Ranthock Wheat^1000
-36426^Tuft of Worg Fur^0
+36426^Tuft of Worg Fur^20
 36427^Decayed Bones^20
 36428^Moldy Finger^20
 36429^Agaricus Mushroom^1000
@@ -36010,38 +36010,38 @@
 41567^Prepared Rough Hide Tome^0
 41568^Smooth Rough Hide Tome^0
 41569^Pristine Rough Hide Tome^50
-41570^Hide Tome^0
-41571^Cleaned Hide Tome^0
-41572^Prepared Hide Tome^0
-41573^Smooth Hide Tome^0
-41574^Pristine Hide Tome^0
-41575^Fine Hide Tome^0
+41570^Hide Tome^50
+41571^Cleaned Hide Tome^50
+41572^Prepared Hide Tome^50
+41573^Smooth Hide Tome^50
+41574^Pristine Hide Tome^50
+41575^Fine Hide Tome^50
 41576^Cleaned Fine Hide Tome^0
 41577^Prepared Fine Hide Tome^50
 41578^Smooth Fine Hide Tome^0
 41579^Pristine Fine Hide Tome^0
-41580^Supple Hide Tome^0
-41581^Cleaned Supple Hide Tome^0
+41580^Supple Hide Tome^50
+41581^Cleaned Supple Hide Tome^50
 41582^Prepared Supple Hide Tome^50
 41583^Smooth Supple Hide Tome^0
-41584^Pristine Supple Hide Tome^0
+41584^Pristine Supple Hide Tome^50
 41585^Runic Hide Tome^50
 41586^Cleaned Runic Hide Tome^0
 41587^Prepared Runic Hide Tome^0
 41588^Smooth Runic Hide Tome^0
 41589^Pristine Runic Hide Tome^0
-41590^Fine Runic Hide Tome^0
-41591^Cleaned Fine Runic Hide Tome^0
+41590^Fine Runic Hide Tome^50
+41591^Cleaned Fine Runic Hide Tome^50
 41592^Prepared Fine Runic Hide Tome^50
 41593^Smooth Fine Runic Hide Tome^0
-41594^Pristine Fine Runic Hide Tome^0
+41594^Pristine Fine Runic Hide Tome^50
 41595^Supple Runic Hide Tome^0
 41596^Cleaned Supple Runic Hide Tome^0
 41597^Prepared Supple Runic Hide Tome^50
 41598^Smooth Supple Runic Hide Tome^0
 41599^Pristine Supple Runic Hide Tome^50
-41600^Fine Supple Runic Hide Tome^0
-41601^Cleaned Fine Supple Runic Hide Tome^0
+41600^Fine Supple Runic Hide Tome^50
+41601^Cleaned Fine Supple Runic Hide Tome^50
 41602^Prepared Fine Supple Runic Hide Tome^50
 41603^Smooth Fine Supple Runic Hide Tome^0
 41604^Pristine Fine Supple Runic Hide Tome^0
@@ -36053,8 +36053,8 @@
 41610^Fine Runic Manual^1000
 41611^Rough Papyrus Manual^0
 41612^Papyrus Manual^100
-41613^Fine Papyrus Manual^0
-41614^Runic Papyrus Manual^0
+41613^Fine Papyrus Manual^100
+41614^Runic Papyrus Manual^100
 41615^Fine Runic Papyrus Manual^0
 41616^Parchment Manual^1000
 41617^Fine Parchment Manual^0
@@ -47804,7 +47804,7 @@
 54353^Yellow Ikaav Scale^20
 54354^Tough Feran Meat^20
 54355^Bloody Feran Claws^20
-54356^Feran Tentacle Barbs^0
+54356^Feran Tentacle Barbs^20
 54357^Partially Eaten Meal^20
 54358^Heavy Bazu Tongue^20
 54359^Bazu Skull^20
@@ -55442,7 +55442,7 @@
 62800^Redwood Seed^0
 62801^Unkempt Seed Rituals^1
 62802^Aerated Pot^0
-62803^Earthy Loam^0
+62803^Earthy Loam^1
 62804^Empowered Earth^0
 62805^Corrupted Storm Giant Heart^0
 62806^Pure Rain Water^1
@@ -57425,11 +57425,11 @@
 64902^Fine Spell Tablet^200
 64903^Runic Spell Tablet^1000
 64904^Fine Runic Spell Tablet^0
-64905^Rough Martial Treatise^0
+64905^Rough Martial Treatise^1000
 64906^Martial Treatise^0
 64907^Fine Martial Treatise^0
 64908^Runic Martial Treatise^0
-64909^Fine Runic Martial Treatise^0
+64909^Fine Runic Martial Treatise^1000
 64910^Rough Spell Tablet Solution^1000
 64911^Spell Tablet Solution^1000
 64912^Fine Spell Tablet Solution^1000
@@ -60140,13 +60140,13 @@
 67789^Hero's Plate Vambraces^1
 67790^Hero's Plate Greaves^1
 67791^Hero's Breastplate^1
-67792^Hero's Chain Bracer^0
-67793^Hero's Chain Wristguard^0
+67792^Hero's Chain Bracer^1
+67793^Hero's Chain Wristguard^1
 67794^Hero's Chain Gauntlets^1
-67795^Hero's Chain Boots^0
-67796^Hero's Chain Coif^0
-67797^Hero's Chain Sleeves^0
-67798^Hero's Chain Leggings^0
+67795^Hero's Chain Boots^1
+67796^Hero's Chain Coif^1
+67797^Hero's Chain Sleeves^1
+67798^Hero's Chain Leggings^1
 67799^Hero's Chain Tunic^1
 67800^Hero's Leather Bracer^0
 67801^Hero's Leather Wristguard^0
@@ -60170,7 +60170,7 @@
 67819^Hero's Facemask of the Combatant^1
 67820^Hero's Gorget of the Combatant^1
 67821^Hero's Pauldrons of the Combatant^1
-67822^Hero's Cloak of the Combatant^0
+67822^Hero's Cloak of the Combatant^1
 67823^Hero's Crystal of the Combatant^1
 67824^Hero's Ring of the Combatant^1
 67825^Hero's Band of the Combatant^1
@@ -60799,7 +60799,7 @@
 68482^Minotaur Head^3
 68483^Minotaur Limb^3
 68484^Hollowflesh Golem^0
-68485^Wiry Pondweed^0
+68485^Wiry Pondweed^3
 68486^Empty Lightning Box^0
 68487^Box of Captured Lightning^0
 68488^Apprentice's Rucksack^1
@@ -68301,7 +68301,7 @@
 76304^Runic Orphic Card^1000
 76305^Fine Runic Orphic Card^1000
 76306^Rough Combat Draft^0
-76307^Combat Draft^0
+76307^Combat Draft^1000
 76308^Fine Combat Draft^0
 76309^Runic Combat Draft^1000
 76310^Fine Runic Combat Draft^1000
@@ -70360,7 +70360,7 @@
 78826^Spell: Drink of Vitae Rk. II^20
 78827^Spell: Drink of Vitae Rk. III^0
 78831^Spell: Drain Life^20
-78832^Spell: Drain Life Rk. II^0
+78832^Spell: Drain Life Rk. II^20
 78833^Spell: Drain Life Rk. III^0
 78840^Spell: Sigil of the Unnatural^20
 78841^Spell: Sigil of the Unnatural Rk. II^20
@@ -71233,10 +71233,10 @@
 79951^Jonas Dagmire's Skeletal Ring Finger^0
 79952^Jonas Dagmire's Skeletal Little Finger^0
 79953^Jonas Dagmire's Skeletal Hand^1
-79954^Smooth Urn Handle^0
+79954^Smooth Urn Handle^1
 79955^Cracked Urn Handle^0
 79956^Dusty Pottery Shard^1
-79957^Dusty Pottery Fragment^0
+79957^Dusty Pottery Fragment^1
 79958^Dusty Pottery Splinter^1
 79959^Dusty Pottery Piece^0
 79960^Dusty Pottery Chip^0
@@ -78586,11 +78586,11 @@
 88819^Blood Crystal Chandelier^100
 88820^Crumbling Brick Wall^100
 88821^Crimson Teir `Dal Estate Gate^0
-88822^Simple Cask of Mead^0
+88822^Simple Cask of Mead^100
 88823^Book of Acclaro^0
 88824^Book of Pyroclasm^100
 88825^Reapers Decree^0
-88826^Ornate Glass Window^0
+88826^Ornate Glass Window^100
 88827^Light Castle Stone Fence Post^100
 88828^Light Castle Stone Fence Piece^100
 88829^Light Castle Stone Fence^0
@@ -78615,7 +78615,7 @@
 88848^Frostfell Candy Cane Gumdrop Fence Section^100
 88849^Frostfell Red & Green Formal Place Setting^100
 88850^Miniature Frostfell Gingerbread House Replica^100
-88851^Gold Formal Place Setting^0
+88851^Gold Formal Place Setting^100
 88852^Giant Frostfell Mint Candy Cane^100
 88853^Giant Frostfell Chocolate Mint Candy Cane^100
 88854^Old Fashioned Pull Duck Toy^0
@@ -78629,8 +78629,8 @@
 88862^Festive Gingerbread House^100
 88863^Decorated Gingerbread Wall^100
 88864^Decorated Gingerbread Column^100
-88865^Velium Ice Wine^0
-88866^Coldain Iced Rum^0
+88865^Velium Ice Wine^100
+88866^Coldain Iced Rum^100
 88867^I Love You Teddy Bear^100
 88868^Sweetheart Chocolate Box^0
 88869^Sweetheart Cake Platter^100
@@ -79760,7 +79760,7 @@
 90310^Runic Charta Arcanum^1000
 90311^Fine Runic Charta Arcanum^0
 90312^Rough Primer^1000
-90313^Primer^0
+90313^Primer^1000
 90314^Fine Primer^0
 90315^Runic Primer^0
 90316^Fine Runic Primer^0
@@ -86649,35 +86649,35 @@
 97768^Pristine Rough Hide^0
 97769^Hide^0
 97770^Cleaned Hide^0
-97771^Prepared Hide^0
-97772^Smooth Hide^0
+97771^Prepared Hide^1000
+97772^Smooth Hide^1000
 97773^Pristine Hide^1000
-97774^Fine Hide^0
-97775^Cleaned Fine Hide^0
+97774^Fine Hide^1000
+97775^Cleaned Fine Hide^1000
 97776^Prepared Fine Hide^1000
 97777^Smooth Fine Hide^1000
 97778^Pristine Fine Hide^0
 97779^Supple Hide^1000
-97780^Cleaned Supple Hide^0
+97780^Cleaned Supple Hide^1000
 97781^Prepared Supple Hide^1000
 97782^Smooth Supple Hide^0
-97783^Pristine Supple Hide^0
+97783^Pristine Supple Hide^1000
 97784^Runic Hide^0
 97785^Cleaned Runic Hide^1000
 97786^Prepared Runic Hide^1000
 97787^Smooth Runic Hide^0
 97788^Pristine Runic Hide^1000
 97789^Fine Runic Hide^1000
-97790^Cleaned Fine Runic Hide^0
+97790^Cleaned Fine Runic Hide^1000
 97791^Prepared Fine Runic Hide^1000
 97792^Smooth Fine Runic Hide^0
-97793^Pristine Fine Runic Hide^0
+97793^Pristine Fine Runic Hide^1000
 97794^Supple Runic Hide^1000
 97795^Cleaned Supple Runic Hide^0
 97796^Prepared Supple Runic Hide^1000
 97797^Smooth Supple Runic Hide^1000
 97798^Pristine Supple Runic Hide^0
-97799^Fine Supple Runic Hide^0
+97799^Fine Supple Runic Hide^1000
 97800^Cleaned Fine Supple Runic Hide^1000
 97801^Prepared Fine Supple Runic Hide^1000
 97802^Smooth Fine Supple Runic Hide^0
@@ -112410,14 +112410,14 @@
 130092^Scroll: Tectonic Tremor Rk. II^1
 130093^Scroll: Tectonic Tremor Rk. III^0
 130094^Scroll: Aweburst^1
-130095^Scroll: Aweburst Rk. II^0
+130095^Scroll: Aweburst Rk. II^1
 130096^Scroll: Aweburst Rk. III^0
 130100^Scroll: Assuage^1
-130101^Scroll: Assuage Rk. II^0
+130101^Scroll: Assuage Rk. II^1
 130102^Scroll: Assuage Rk. III^0
 130104^Scroll: Blessing of Assurance Rk. II^1
 130106^Scroll: Amnesty^1
-130107^Scroll: Amnesty Rk. II^0
+130107^Scroll: Amnesty Rk. II^1
 130108^Scroll: Amnesty Rk. III^0
 130109^Scroll: Faithful Remedy^1
 130110^Scroll: Faithful Remedy Rk. II^1
@@ -112462,7 +112462,7 @@
 130170^Scroll: Zealous Light Rk. II^1
 130171^Scroll: Zealous Light Rk. III^0
 130172^Scroll: Anointed Ground^1
-130173^Scroll: Anointed Ground Rk. II^0
+130173^Scroll: Anointed Ground Rk. II^1
 130174^Scroll: Anointed Ground Rk. III^0
 130179^Scroll: Elysian Intervention^1
 130180^Scroll: Elysian Intervention Rk. II^1
@@ -112471,7 +112471,7 @@
 130186^Scroll: Issuance of Faith Rk. II^1
 130187^Scroll: Issuance of Faith Rk. III^0
 130191^Scroll: Armor of Vie^1
-130192^Scroll: Armor of Vie Rk. II^0
+130192^Scroll: Armor of Vie Rk. II^1
 130193^Scroll: Armor of Vie Rk. III^0
 130197^Scroll: Promised Restitution^1
 130198^Scroll: Promised Restitution Rk. II^1
@@ -112664,7 +112664,7 @@
 130462^Scroll: Protective Dedication Rk. II^0
 130463^Scroll: Protective Dedication Rk. III^0
 130476^Scroll: Announced Shots^1
-130477^Scroll: Announced Shots Rk. II^0
+130477^Scroll: Announced Shots Rk. II^1
 130478^Scroll: Announced Shots Rk. III^0
 130479^Scroll: Drifting Veil^1
 130480^Scroll: Drifting Veil Rk. II^0
@@ -112691,7 +112691,7 @@
 130507^Tome of Enraging Crescent Kicks Rk. II^0
 130508^Tome of Enraging Crescent Kicks Rk. III^0
 130509^Tome of Jolting Crescent Kicks^1
-130510^Tome of Jolting Crescent Kicks Rk. II^0
+130510^Tome of Jolting Crescent Kicks Rk. II^1
 130511^Tome of Jolting Crescent Kicks Rk. III^0
 130512^Scroll: Jolting Impact^1
 130513^Scroll: Jolting Impact Rk. II^0
@@ -112832,7 +112832,7 @@
 130731^Scroll: Perfidious Blight Rk. II^1
 130732^Scroll: Perfidious Blight Rk. III^0
 130733^Scroll: Abhorrence^0
-130734^Scroll: Abhorrence Rk. II^0
+130734^Scroll: Abhorrence Rk. II^1
 130735^Scroll: Abhorrence Rk. III^0
 130736^Tome of Undivided Acrimony^1
 130737^Tome of Undivided Acrimony Rk. II^0
@@ -112874,7 +112874,7 @@
 130810^Scroll: Talisman of the Indomitable Rk. II^1
 130811^Scroll: Talisman of the Indomitable Rk. III^0
 130812^Scroll: Beast's Behest^1
-130813^Scroll: Beast's Behest Rk. II^0
+130813^Scroll: Beast's Behest Rk. II^1
 130814^Scroll: Beast's Behest Rk. III^0
 130815^Scroll: Crashing Hail^1
 130816^Scroll: Crashing Hail Rk. II^0
@@ -113210,7 +113210,7 @@
 131303^Scroll: Feralisera^1
 131304^Scroll: Feralisera Rk. II^1
 131306^Scroll: Apathy^0
-131307^Scroll: Apathy Rk. II^0
+131307^Scroll: Apathy Rk. II^1
 131316^Scroll: Giaborn's Malady^1
 131317^Scroll: Giaborn's Malady Rk. II^0
 131319^Scroll: Yubai's Affliction^0
@@ -113223,7 +113223,7 @@
 131346^Scroll: Hilnaah's Faithful^1
 131347^Scroll: Hilnaah's Faithful Rk. II^1
 131349^Scroll: Ancestral Arrangement^1
-131350^Scroll: Ancestral Arrangement Rk. II^0
+131350^Scroll: Ancestral Arrangement Rk. II^1
 131351^Scroll: Ancestral Arrangement Rk. III^0
 131352^Scroll: Progenitor's Intervention^1
 131353^Scroll: Progenitor's Intervention Rk. II^0
@@ -113416,7 +113416,7 @@
 131631^Scroll: Necrotizing Wounds Rk. II^0
 131632^Scroll: Necrotizing Wounds Rk. III^1
 131645^Scroll: Aegis of Alra^0
-131646^Scroll: Aegis of Alra Rk. II^0
+131646^Scroll: Aegis of Alra Rk. II^1
 131647^Scroll: Aegis of Alra Rk. III^0
 131648^Scroll: Concussive Barrage^0
 131649^Scroll: Concussive Barrage Rk. II^0
@@ -113491,7 +113491,7 @@
 131742^Scroll: Burning Pillar Rk. II^0
 131743^Scroll: Burning Pillar Rk. III^0
 131744^Scroll: Chaos Blaze^0
-131745^Scroll: Chaos Blaze Rk. II^0
+131745^Scroll: Chaos Blaze Rk. II^1
 131746^Scroll: Chaos Blaze Rk. III^0
 131747^Scroll: Crystalwing Husk^0
 131748^Scroll: Crystalwing Husk Rk. II^0
@@ -113569,7 +113569,7 @@
 131871^Scroll: Burst of Sand Rk. II^0
 131872^Scroll: Burst of Sand Rk. III^0
 131873^Scroll: Beam of Molten Steel^0
-131874^Scroll: Beam of Molten Steel Rk. II^0
+131874^Scroll: Beam of Molten Steel Rk. II^1
 131875^Scroll: Beam of Molten Steel Rk. III^0
 131876^Scroll: Strike of Many^0
 131877^Scroll: Strike of Many Rk. II^0
@@ -113689,7 +113689,7 @@
 132040^Scroll: Mislead Rk. II^0
 132041^Scroll: Mislead Rk. III^0
 132042^Scroll: Arctender's Aura^1
-132043^Scroll: Arctender's Aura Rk. II^0
+132043^Scroll: Arctender's Aura Rk. II^1
 132044^Scroll: Arctender's Aura Rk. III^0
 132048^Scroll: Arctender's Echo^1
 132049^Scroll: Arctender's Echo Rk. II^0
@@ -113741,7 +113741,7 @@
 132123^Scroll: Confusion Rk. II^1
 132124^Scroll: Confusion Rk. III^0
 132128^Scroll: Arcane Assault^1
-132129^Scroll: Arcane Assault Rk. II^0
+132129^Scroll: Arcane Assault Rk. II^1
 132130^Scroll: Arcane Assault Rk. III^0
 132131^Scroll: Horrifying Rune^1
 132132^Scroll: Horrifying Rune Rk. II^1
@@ -113753,7 +113753,7 @@
 132141^Scroll: Brimstone Potency Rk. II^1
 132142^Scroll: Brimstone Potency Rk. III^0
 132143^Scroll: Color Convergence^1
-132144^Scroll: Color Convergence Rk. II^0
+132144^Scroll: Color Convergence Rk. II^1
 132145^Scroll: Color Convergence Rk. III^0
 132146^Scroll: Dizzying Gyre^1
 132147^Scroll: Dizzying Gyre Rk. II^0
@@ -133379,6 +133379,8 @@
 158311^Smoke-Filled Lamp^1
 158320^Cat Ears^1
 158321^Cat Ears Ornamentation^1
+158322^Dog Ears^1
+158323^Dog Ears Ornamentation^1
 158326^Lunar Cake^20
 158333^Lunar Fountain^100
 158334^Ball of Violet Yarn^100
@@ -135533,6 +135535,7 @@
 160688^Summoned: Orb of Flame XVIII^1
 160690^Minor Seal of the Blooming Rose^20
 160691^Lesser Seal of the Blooming Rose^20
+160692^Median Seal of the Blooming Rose^20
 160695^Minor Artful Strategem^1
 160696^Lesser Artful Strategem^1
 160697^Median Artful Strategem^1
@@ -146195,6 +146198,10 @@
 172550^Festive Green-striped Barrel^20
 172551^Festive Red-striped Barrel^20
 172563^Oggokian Turducken^20
+172564^Overstuffed Chicken Feet^1
+172565^Overstuffed Chicken Feet Ornament^1
+172566^Overstuffed Duck Feet^1
+172567^Overstuffed Duck Feet Ornament^1
 172568^Overstuffed Turkey Feet^1
 172569^Overstuffed Turkey Feet Ornament^1
 172570^Hay Bale^100
@@ -146293,18 +146300,45 @@
 172705^Forlorn Gem of the Brilliant^1
 172706^Forlorn Gem of the Empathetic^1
 172707^Mirrored Wrist Armor Lining^1
+172708^Mirrored Hand Armor Lining^1
+172709^Mirrored Feet Armor Lining^1
+172710^Mirrored Head Armor Lining^1
+172711^Mirrored Arm Armor Lining^1
+172712^Mirrored Leg Armor Lining^1
+172713^Mirrored Chest Armor Lining^1
 172714^Gilded Wrist Armor Lining^1
+172715^Gilded Hand Armor Lining^1
 172716^Gilded Feet Armor Lining^1
 172717^Gilded Head Armor Lining^1
+172718^Gilded Arm Armor Lining^1
 172719^Gilded Leg Armor Lining^1
+172720^Gilded Chest Armor Lining^1
+172721^Mirrored Earring Clasp^1
+172722^Mirrored Mask Fastener^1
+172723^Mirrored Necklace Clasp^1
+172724^Mirrored Amice Fastener^1
+172725^Mirrored Cloak Fastener^1
+172726^Mirrored Idol Polishing Cloth^1
+172727^Mirrored Ring Polishing Cloth^1
+172728^Mirrored Belt Buckle^1
+172729^Mirrored Charm Polishing Cloth^1
+172730^Gilded Earring Clasp^1
+172731^Gilded Mask Fastener^1
 172732^Gilded Necklace Clasp^1
 172733^Gilded Amice Fastener^1
 172734^Gilded Cloak Fastener^1
 172735^Gilded Idol Polishing Cloth^1
 172736^Gilded Ring Polishing Cloth^1
+172737^Gilded Belt Buckle^1
 172738^Gilded Charm Polishing Cloth^1
+172739^Mirrored Shield Enarmes^1
+172740^Mirrored Essence of Finesse^1
+172741^Mirrored Essence of Power^1
+172742^Mirrored String Serving^1
 172743^Gilded Shield Enarmes^1
 172744^Gilded Essence of Finesse^1
+172745^Gilded Essence of Power^1
+172746^Gilded String Serving^1
 172747^Mirrored Focus of Fortitude^1
 172748^Mirrored Focus of Heroism^1
 172749^Kismet Stabilizing Medium^20
@@ -146351,9 +146385,9 @@
 172790^Unfired Forlorn Mask of the Defender^1
 172791^Unfired Forlorn Mask of the Acrobat^1
 172792^Unfired Forlorn Mask of the Mystic^1
-172793^Unfired Forlorn Orb^1
-172794^Unfired Forlorn Talisman^1
-172795^Unfired Forlorn Sigil^1
+172793^Unfired Forlorn Chalice^1
+172794^Unfired Forlorn Tome^1
+172795^Unfired Forlorn Totem^1
 172796^Unfired Forlorn Charm of the Defender^1
 172797^Unfired Forlorn Charm of the Mystic^1
 172798^Unfired Forlorn Charm of the Duelist^1
@@ -147420,6 +147454,7 @@
 173968^Arcane Staff of Rebellion^1
 173969^Longbow of Rebellion^1
 173970^Short Bow of Rebellion^1
+173974^Acolyte's Fortification of Unspoken Odds^1
 174001^Obscured Wrist Armor of the Enthralled^1
 174002^Obscured Hands Armor of the Enthralled^1
 174003^Obscured Feet Armor of the Enthralled^1
@@ -147914,8 +147949,17 @@
 174818^Drained Tarnished Cloak of Fortune's Fool^1
 174819^Tarnished Cloak of Fortune's Fool^1
 174825^Pristine Cloak of Fortune's Fool^1
+174829^Lustrous Cloak of Fortune's Fool^1
 174830^Glinting Cloak of Fortune's Fool^1
+174867^Scornful Warped Wooden Die^1
+174868^Repulsive Warped Wooden Die^1
+174870^Balanced Warped Wooden Die^1
+174871^Woeful Warped Wooden Die^1
+174872^Innocent Warped Wooden Die^1
+174887^Spool of Gilded Thread^1
+174900^Appendage^8
 174902^Bundle of Books^8
+174939^Broken Spectacles^100
 174941^Faded Portrait^100
 174942^Lucky Coin^100
 175001^Legionnaire Bracer of Broken Accord^1
@@ -148843,6 +148887,131 @@
 176006^Faded Manashard Pouch^1
 176007^Crate of Waning Order^1
 176008^Riftwoven Satchel^1
+176009^Quellious Heritage Crate^20
+176010^Music Box: Plane of Tranquility^1
+176011^Visage of an Air Elemental^1
+176012^Serene Drifting Cloud^1
+176013^Aegis of the Child's Tear Ornament^1
+176014^Cestus of the Tranquil Guard Ornament^1
+176015^Nimbus of the Centered Mind^1
+176016^Metamorph: Deepwater Prismscale^1
+176017^Metamorph: Tranquil Cloud-Runner^1
+176018^Metamorph: Luminous Scarab^1
+176019^Metamorph: Quietude Stalker^1
+176020^Metamorph: Stag of Stillness^1
+176021^Metamorph: Gentle Ringtail^1
+176022^Metamorph: Kejekan Pasdar^1
+176023^Placid Pillow Tuffet^1
+176024^Beacon of Vivid Dreams^1
+176025^Adoptable Metamorph: Deepwater Prismscale^20
+176026^Adoptable Metamorph: Tranquil Cloud-Runner^20
+176027^Adoptable Metamorph: Luminous Scarab^20
+176029^Adoptable Metamorph: Stag of Stillness^20
+176031^Adoptable Metamorph: Kejekan Pasdar^20
+176032^Adoptable Serene Drifting Cloud^20
+176033^Wrapped Music Box: Plane of Tranquility^20
+176034^Wrapped Visage of an Air Elemental^20
+176035^Wrapped Placid Pillow Tuffet^20
+176036^Wrapped Beacon of Vivid Dreams^20
+176037^Wrapped Aegis of the Child's Tear Ornament^20
+176038^Wrapped Cestus of the Tranquil Ornament^20
+176039^Wrapped Nimbus of the Centered Mind^20
+176041^Plate Helm Ornament of Pure Serenity^1
+176042^Plate Chest Ornament of Pure Serenity^1
+176043^Plate Arms Ornament of Pure Serenity^1
+176044^Plate Wrist Ornament of Pure Serenity^1
+176045^Plate Hands Ornament of Pure Serenity^1
+176046^Plate Legs Ornament of Pure Serenity^1
+176047^Plate Feet Ornament of Pure Serenity^1
+176048^Chain Helm Ornament of Pure Serenity^1
+176049^Chain Chest Ornament of Pure Serenity^1
+176050^Chain Arms Ornament of Pure Serenity^1
+176051^Chain Wrist Ornament of Pure Serenity^1
+176052^Chain Hands Ornament of Pure Serenity^1
+176053^Chain Legs Ornament of Pure Serenity^1
+176054^Chain Feet Ornament of Pure Serenity^1
+176055^Scalemail Helm Ornament of Pure Serenity^1
+176056^Scalemail Chest Ornament of Pure Serenity^1
+176057^Scalemail Arms Ornament of Pure Serenity^1
+176058^Scalemail Wrist Ornament of Pure Serenity^1
+176059^Scalemail Hands Ornament of Pure Serenity^1
+176060^Scalemail Legs Ornament of Pure Serenity^1
+176061^Scalemail Feet Ornament of Pure Serenity^1
+176062^Ringmail Helm Ornament of Pure Serenity^1
+176063^Ringmail Chest Ornament of Pure Serenity^1
+176064^Ringmail Arms Ornament of Pure Serenity^1
+176065^Ringmail Wrist Ornament of Pure Serenity^1
+176066^Ringmail Hands Ornament of Pure Serenity^1
+176067^Ringmail Legs Ornament of Pure Serenity^1
+176068^Ringmail Feet Ornament of Pure Serenity^1
+176069^Leather Helm Ornament of Pure Serenity^1
+176070^Leather Chest Ornament of Pure Serenity^1
+176071^Leather Arms Ornament of Pure Serenity^1
+176072^Leather Wrist Ornament of Pure Serenity^1
+176073^Leather Hands Ornament of Pure Serenity^1
+176074^Leather Legs Ornament of Pure Serenity^1
+176075^Leather Feet Ornament of Pure Serenity^1
+176076^Cloth Helm Ornament of Pure Serenity^1
+176077^Cloth Chest Ornament of Pure Serenity^1
+176078^Cloth Arms Ornament of Pure Serenity^1
+176079^Cloth Wrist Ornament of Pure Serenity^1
+176080^Cloth Hands Ornament of Pure Serenity^1
+176081^Cloth Legs Ornament of Pure Serenity^1
+176082^Cloth Feet Ornament of Pure Serenity^1
+176083^Plate Helm Ornament of Eternal Harmony^1
+176084^Plate Chest Ornament of Eternal Harmony^1
+176085^Plate Arms Ornament of Eternal Harmony^1
+176086^Plate Wrist Ornament of Eternal Harmony^1
+176087^Plate Hands Ornament of Eternal Harmony^1
+176088^Plate Legs Ornament of Eternal Harmony^1
+176089^Plate Feet Ornament of Eternal Harmony^1
+176090^Chain Helm Ornament of Eternal Harmony^1
+176091^Chain Chest Ornament of Eternal Harmony^1
+176092^Chain Arms Ornament of Eternal Harmony^1
+176093^Chain Wrist Ornament of Eternal Harmony^1
+176094^Chain Hands Ornament of Eternal Harmony^1
+176095^Chain Legs Ornament of Eternal Harmony^1
+176096^Chain Feet Ornament of Eternal Harmony^1
+176097^Scalemail Helm Ornament of Eternal Harmony^1
+176098^Scalemail Chest Ornament of Eternal Harmony^1
+176099^Scalemail Arms Ornament of Eternal Harmony^1
+176100^Scalemail Wrist Ornament of Eternal Harmony^1
+176101^Scalemail Hands Ornament of Eternal Harmony^1
+176102^Scalemail Legs Ornament of Eternal Harmony^1
+176103^Scalemail Feet Ornament of Eternal Harmony^1
+176104^Ringmail Helm Ornament of Eternal Harmony^1
+176105^Ringmail Chest Ornament of Eternal Harmony^1
+176106^Ringmail Arms Ornament of Eternal Harmony^1
+176107^Ringmail Wrist Ornament of Eternal Harmony^1
+176108^Ringmail Hands Ornament of Eternal Harmony^1
+176109^Ringmail Legs Ornament of Eternal Harmony^1
+176110^Ringmail Feet Ornament of Eternal Harmony^1
+176111^Leather Helm Ornament of Eternal Harmony^1
+176112^Leather Chest Ornament of Eternal Harmony^1
+176113^Leather Arms Ornament of Eternal Harmony^1
+176114^Leather Wrist Ornament of Eternal Harmony^1
+176115^Leather Hands Ornament of Eternal Harmony^1
+176116^Leather Legs Ornament of Eternal Harmony^1
+176117^Leather Feet Ornament of Eternal Harmony^1
+176118^Cloth Helm Ornament of Eternal Harmony^1
+176119^Cloth Chest Ornament of Eternal Harmony^1
+176120^Cloth Arms Ornament of Eternal Harmony^1
+176121^Cloth Wrist Ornament of Eternal Harmony^1
+176122^Cloth Hands Ornament of Eternal Harmony^1
+176123^Cloth Legs Ornament of Eternal Harmony^1
+176124^Cloth Feet Ornament of Eternal Harmony^1
+176125^Suit of Plate of Pure Serenity^20
+176126^Suit of Chain of Pure Serenity^20
+176127^Suit of Scalemail of Pure Serenity^20
+176128^Suit of Ringmail of Pure Serenity^20
+176129^Suit of Leather of Pure Serenity^20
+176130^Suit of Cloth of Pure Serenity^20
+176131^Suit of Plate of Eternal Harmony^20
+176132^Suit of Chain of Eternal Harmony^20
+176133^Suit of Scalemail of Eternal Harmony^20
+176134^Suit of Ringmail of Eternal Harmony^20
+176135^Suit of Leather of Eternal Harmony^20
+176136^Suit of Cloth of Eternal Harmony^20
 176137^Lucky Plate Helm Ornament^1
 176138^Lucky Plate Chest Ornament^1
 176139^Lucky Plate Arms Ornament^1
@@ -148872,6 +149041,28 @@
 176163^Lucky Cloth Legs Ornament^1
 176164^Lucky Cloth Feet Ornament^1
 176165^Lucky Cloth Robe Ornament^1
+176166^Lovely Plate Helm Ornament^1
+176167^Lovely Plate Chest Ornament^1
+176168^Lovely Plate Arms Ornament^1
+176169^Lovely Plate Wrist Ornament^1
+176170^Lovely Plate Hands Ornament^1
+176171^Lovely Plate Legs Ornament^1
+176172^Lovely Plate Feet Ornament^1
+176180^Lovely Leather Helm Ornament^1
+176181^Lovely Leather Chest Ornament^1
+176182^Lovely Leather Arms Ornament^1
+176183^Lovely Leather Wrist Ornament^1
+176184^Lovely Leather Hands Ornament^1
+176185^Lovely Leather Legs Ornament^1
+176186^Lovely Leather Feet Ornament^1
+176187^Lovely Cloth Helm Ornament^1
+176188^Lovely Cloth Chest Ornament^1
+176189^Lovely Cloth Arms Ornament^1
+176190^Lovely Cloth Wrist Ornament^1
+176191^Lovely Cloth Hands Ornament^1
+176192^Lovely Cloth Legs Ornament^1
+176193^Lovely Cloth Feet Ornament^1
+176194^Lovely Cloth Robe Ornament^1
 176195^Greedy Plate Helm Ornament^1
 176196^Greedy Plate Chest Ornament^1
 176197^Greedy Plate Arms Ornament^1
@@ -148901,7 +149092,26 @@
 176221^Greedy Cloth Legs Ornament^1
 176222^Greedy Cloth Feet Ornament^1
 176223^Greedy Cloth Robe Ornament^1
+176224^Lucky Suit of Plate^20
+176225^Lucky Suit of Chain^20
+176226^Lucky Suit of Leather^20
+176227^Lucky Suit of Cloth (Tunic)^20
+176228^Lucky Suit of Cloth (Robe)^20
+176229^Lovely Suit of Plate^20
+176230^Lovely Suit of Chain^20
+176231^Lovely Suit of Leather^20
+176232^Lovely Suit of Cloth (Tunic)^20
+176233^Lovely Suit of Cloth (Robe)^20
+176234^Greedy Suit of Plate^20
+176235^Greedy Suit of Chain^20
+176236^Greedy Suit of Leather^20
+176237^Greedy Suit of Cloth (Tunic)^20
+176238^Greedy Suit of Cloth (Robe)^20
 176393^An Ace of Clovers Card^100
+176394^A King of Griffins Card^100
+176396^A Prince of Lamps Card^100
+176399^A Jester of Ringers Card^100
+176420^Ancient Map of the Plane of Earth^100
 177000^Tome: Hiatus V^1
 177001^Tome: Final Stand Discipline VI^1
 177002^Tome: Cyclone Blades XIV^1
@@ -149494,7 +149704,7 @@
 178020^Exarch Greaves of Sworn Devotion^1
 178021^Exarch Breastplate of Sworn Devotion^1
 178022^Natureward Wristguard of Sworn Devotion^1
-178023^Natureward Guantlets of Sworn Devotion^1
+178023^Natureward Gauntlets of Sworn Devotion^1
 178024^Natureward Boots of Sworn Devotion^1
 178025^Natureward Coif of Sworn Devotion^1
 178026^Natureward Sleeves of Sworn Devotion^1
@@ -149529,14 +149739,14 @@
 178055^Loremaster Greaves of Sworn Devotion^1
 178056^Loremaster Breastplate of Sworn Devotion^1
 178057^Shadowscale Wristguard of Sworn Devotion^1
-178058^Shadowscale Guantlets of Sworn Devotion^1
+178058^Shadowscale Gauntlets of Sworn Devotion^1
 178059^Shadowscale Boots of Sworn Devotion^1
 178060^Shadowscale Coif of Sworn Devotion^1
 178061^Shadowscale Sleeves of Sworn Devotion^1
 178062^Shadowscale Leggings of Sworn Devotion^1
 178063^Shadowscale Coat of Sworn Devotion^1
 178064^Spiritwalker Wristguard of Sworn Devotion^1
-178065^Spiritwalker Guantlets of Sworn Devotion^1
+178065^Spiritwalker Gauntlets of Sworn Devotion^1
 178066^Spiritwalker Boots of Sworn Devotion^1
 178067^Spiritwalker Coif of Sworn Devotion^1
 178068^Spiritwalker Sleeves of Sworn Devotion^1
@@ -149578,7 +149788,7 @@
 178104^Dragonbrood Leggings of Sworn Devotion^1
 178105^Dragonbrood Tunic of Sworn Devotion^1
 178106^Warmonger Wristguard of Sworn Devotion^1
-178107^Warmonger Guantlets of Sworn Devotion^1
+178107^Warmonger Gauntlets of Sworn Devotion^1
 178108^Warmonger Boots of Sworn Devotion^1
 178109^Warmonger Coif of Sworn Devotion^1
 178110^Warmonger Sleeves of Sworn Devotion^1
@@ -149673,7 +149883,7 @@
 178220^Exarch Greaves of the Unraveling Mind^1
 178221^Exarch Breastplate of the Unraveling Mind^1
 178222^Natureward Wristguard of the Unraveling Mind^1
-178223^Natureward Guantlets of the Unraveling Mind^1
+178223^Natureward Gauntlets of the Unraveling Mind^1
 178224^Natureward Boots of the Unraveling Mind^1
 178225^Natureward Coif of the Unraveling Mind^1
 178226^Natureward Sleeves of the Unraveling Mind^1
@@ -149708,14 +149918,14 @@
 178255^Loremaster Greaves of the Unraveling Mind^1
 178256^Loremaster Breastplate of the Unraveling Mind^1
 178257^Shadowscale Wristguard of the Unraveling Mind^1
-178258^Shadowscale Guantlets of the Unraveling Mind^1
+178258^Shadowscale Gauntlets of the Unraveling Mind^1
 178259^Shadowscale Boots of the Unraveling Mind^1
 178260^Shadowscale Coif of the Unraveling Mind^1
 178261^Shadowscale Sleeves of the Unraveling Mind^1
 178262^Shadowscale Leggings of the Unraveling Mind^1
 178263^Shadowscale Coat of the Unraveling Mind^1
 178264^Spiritwalker Wristguard of the Unraveling Mind^1
-178265^Spiritwalker Guantlets of the Unraveling Mind^1
+178265^Spiritwalker Gauntlets of the Unraveling Mind^1
 178266^Spiritwalker Boots of the Unraveling Mind^1
 178267^Spiritwalker Coif of the Unraveling Mind^1
 178268^Spiritwalker Sleeves of the Unraveling Mind^1
@@ -149757,7 +149967,7 @@
 178304^Dragonbrood Leggings of the Unraveling Mind^1
 178305^Dragonbrood Tunic of the Unraveling Mind^1
 178306^Warmonger Wristguard of the Unraveling Mind^1
-178307^Warmonger Guantlets of the Unraveling Mind^1
+178307^Warmonger Gauntlets of the Unraveling Mind^1
 178308^Warmonger Boots of the Unraveling Mind^1
 178309^Warmonger Coif of the Unraveling Mind^1
 178310^Warmonger Sleeves of the Unraveling Mind^1
@@ -149853,7 +150063,7 @@
 178420^Exarch Greaves of Mirrored Coins^1
 178421^Exarch Breastplate of Mirrored Coins^1
 178422^Natureward Wristguard of Mirrored Coins^1
-178423^Natureward Guantlets of Mirrored Coins^1
+178423^Natureward Gauntlets of Mirrored Coins^1
 178424^Natureward Boots of Mirrored Coins^1
 178425^Natureward Coif of Mirrored Coins^1
 178426^Natureward Sleeves of Mirrored Coins^1
@@ -149888,14 +150098,14 @@
 178455^Loremaster Greaves of Mirrored Coins^1
 178456^Loremaster Breastplate of Mirrored Coins^1
 178457^Shadowscale Wristguard of Mirrored Coins^1
-178458^Shadowscale Guantlets of Mirrored Coins^1
+178458^Shadowscale Gauntlets of Mirrored Coins^1
 178459^Shadowscale Boots of Mirrored Coins^1
 178460^Shadowscale Coif of Mirrored Coins^1
 178461^Shadowscale Sleeves of Mirrored Coins^1
 178462^Shadowscale Leggings of Mirrored Coins^1
 178463^Shadowscale Coat of Mirrored Coins^1
 178464^Spiritwalker Wristguard of Mirrored Coins^1
-178465^Spiritwalker Guantlets of Mirrored Coins^1
+178465^Spiritwalker Gauntlets of Mirrored Coins^1
 178466^Spiritwalker Boots of Mirrored Coins^1
 178467^Spiritwalker Coif of Mirrored Coins^1
 178468^Spiritwalker Sleeves of Mirrored Coins^1
@@ -149937,7 +150147,7 @@
 178504^Dragonbrood Leggings of Mirrored Coins^1
 178505^Dragonbrood Tunic of Mirrored Coins^1
 178506^Warmonger Wristguard of Mirrored Coins^1
-178507^Warmonger Guantlets of Mirrored Coins^1
+178507^Warmonger Gauntlets of Mirrored Coins^1
 178508^Warmonger Boots of Mirrored Coins^1
 178509^Warmonger Coif of Mirrored Coins^1
 178510^Warmonger Sleeves of Mirrored Coins^1
@@ -150036,7 +150246,7 @@
 178620^Exarch Greaves of Veiled Whispers^1
 178621^Exarch Breastplate of Veiled Whispers^1
 178622^Natureward Wristguard of Veiled Whispers^1
-178623^Natureward Guantlets of Veiled Whispers^1
+178623^Natureward Gauntlets of Veiled Whispers^1
 178624^Natureward Boots of Veiled Whispers^1
 178625^Natureward Coif of Veiled Whispers^1
 178626^Natureward Sleeves of Veiled Whispers^1
@@ -150071,14 +150281,14 @@
 178655^Loremaster Greaves of Veiled Whispers^1
 178656^Loremaster Breastplate of Veiled Whispers^1
 178657^Shadowscale Wristguard of Veiled Whispers^1
-178658^Shadowscale Guantlets of Veiled Whispers^1
+178658^Shadowscale Gauntlets of Veiled Whispers^1
 178659^Shadowscale Boots of Veiled Whispers^1
 178660^Shadowscale Coif of Veiled Whispers^1
 178661^Shadowscale Sleeves of Veiled Whispers^1
 178662^Shadowscale Leggings of Veiled Whispers^1
 178663^Shadowscale Coat of Veiled Whispers^1
 178664^Spiritwalker Wristguard of Veiled Whispers^1
-178665^Spiritwalker Guantlets of Veiled Whispers^1
+178665^Spiritwalker Gauntlets of Veiled Whispers^1
 178666^Spiritwalker Boots of Veiled Whispers^1
 178667^Spiritwalker Coif of Veiled Whispers^1
 178668^Spiritwalker Sleeves of Veiled Whispers^1
@@ -150120,7 +150330,7 @@
 178704^Dragonbrood Leggings of Veiled Whispers^1
 178705^Dragonbrood Tunic of Veiled Whispers^1
 178706^Warmonger Wristguard of Veiled Whispers^1
-178707^Warmonger Guantlets of Veiled Whispers^1
+178707^Warmonger Gauntlets of Veiled Whispers^1
 178708^Warmonger Boots of Veiled Whispers^1
 178709^Warmonger Coif of Veiled Whispers^1
 178710^Warmonger Sleeves of Veiled Whispers^1
@@ -150205,7 +150415,7 @@
 178820^Exarch Greaves of Gilded Thorns^1
 178821^Exarch Breastplate of Gilded Thorns^1
 178822^Natureward Wristguard of Gilded Thorns^1
-178823^Natureward Guantlets of Gilded Thorns^1
+178823^Natureward Gauntlets of Gilded Thorns^1
 178824^Natureward Boots of Gilded Thorns^1
 178825^Natureward Coif of Gilded Thorns^1
 178826^Natureward Sleeves of Gilded Thorns^1
@@ -150240,14 +150450,14 @@
 178855^Loremaster Greaves of Gilded Thorns^1
 178856^Loremaster Breastplate of Gilded Thorns^1
 178857^Shadowscale Wristguard of Gilded Thorns^1
-178858^Shadowscale Guantlets of Gilded Thorns^1
+178858^Shadowscale Gauntlets of Gilded Thorns^1
 178859^Shadowscale Boots of Gilded Thorns^1
 178860^Shadowscale Coif of Gilded Thorns^1
 178861^Shadowscale Sleeves of Gilded Thorns^1
 178862^Shadowscale Leggings of Gilded Thorns^1
 178863^Shadowscale Coat of Gilded Thorns^1
 178864^Spiritwalker Wristguard of Gilded Thorns^1
-178865^Spiritwalker Guantlets of Gilded Thorns^1
+178865^Spiritwalker Gauntlets of Gilded Thorns^1
 178866^Spiritwalker Boots of Gilded Thorns^1
 178867^Spiritwalker Coif of Gilded Thorns^1
 178868^Spiritwalker Sleeves of Gilded Thorns^1
@@ -150289,7 +150499,7 @@
 178904^Dragonbrood Leggings of Gilded Thorns^1
 178905^Dragonbrood Tunic of Gilded Thorns^1
 178906^Warmonger Wristguard of Gilded Thorns^1
-178907^Warmonger Guantlets of Gilded Thorns^1
+178907^Warmonger Gauntlets of Gilded Thorns^1
 178908^Warmonger Boots of Gilded Thorns^1
 178909^Warmonger Coif of Gilded Thorns^1
 178910^Warmonger Sleeves of Gilded Thorns^1
@@ -150354,6 +150564,9 @@
 178969^Longbow of Gilded Thorns^1
 178970^Short Bow of Gilded Thorns^1
 178971^Coveted Scrip^1000
+178974^Fossilized Kismet of Sworn Devotion^20
+178975^Fossilized Kismet of the Unraveling Mind^20
+178976^Fossilized Kismet of Veiled Whispers^20
 178981^Forlorn Arms Armor of Sworn Devotion^1
 178984^Forlorn Wrist Armor of the Unraveling Mind^1
 178985^Forlorn Hands Armor of the Unraveling Mind^1
