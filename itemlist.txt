@@ -1481,7 +1481,7 @@
 2655^Powdered Ivory^1
 2658^Note to Izera^1
 2659^Crystallized Web Silk^1
-2671^Withered Manisi Leaf^1
+2671^Withered Manisi Leaf^20
 2674^2lb Rainbow Trout^1
 2675^3lb Rainbow Trout^1
 2676^4lb Rainbow Trout^20
@@ -16114,8 +16114,8 @@
 19152^Clam Chowder^20
 19153^Algae Spices^1000
 19154^Kelp Garnish^1000
-19155^Jug of Oyster Sauces^1
-19156^Seaweed Vinegar^1
+19155^Jug of Oyster Sauces^1000
+19156^Seaweed Vinegar^1000
 19157^Plankton Frosting^1000
 19158^Azure Algae^1
 19159^Ochre Algae^1
@@ -18960,7 +18960,7 @@
 22192^Lucid Shard^1
 22193^Lucid Shard^1
 22194^Lucid Shard^1
-22195^Celestial Rift^1
+22195^Celestial Rift^20
 22196^Glowing Orb of Luclinite^1
 22197^Gatecaller^1
 22198^The Scepter of Shadows^1
@@ -28025,7 +28025,7 @@
 32546^Nightmare Rift^1
 32547^Collapsed Toolkit^1
 32548^Collapsed Jeweler's Kit^1
-32549^Gauze^1
+32549^Gauze^20
 32550^Collapsed Fletching Kit^1
 32551^Collapsed Mortar and Pestle^1
 32552^Unfired Spiritstone of Shar Vahl^100
@@ -31419,7 +31419,7 @@
 36248^Overvolt's Patented Security Device 3000^20
 36249^The MARGE Memory Module^1
 36250^Sherrible Secrets^1
-36251^Primitive Spellcaster's Empowering Essence^1
+36251^Primitive Spellcaster's Empowering Essence^1000
 36252^Rudimentary Spellcaster's Empowering Essence^1000
 36253^Crude Spellcaster's Empowering Essence^1000
 36254^Makeshift Spellcaster's Empowering Essence^1000
@@ -31427,7 +31427,7 @@
 36256^Modest Spellcaster's Empowering Essence^20
 36257^Simple Spellcaster's Empowering Essence^1000
 36258^Spellcaster's Empowering Essence^1000
-36259^Refined Spellcaster's Empowering Essence^1
+36259^Refined Spellcaster's Empowering Essence^1000
 36260^Intricate Spellcaster's Empowering Essence^1000
 36261^Elaborate Spellcaster's Empowering Essence^1000
 36262^Ornate Spellcaster's Empowering Essence^1000
@@ -52587,10 +52587,10 @@
 59738^Cord of Bek`Wen^1
 59739^Cord of Fin`Wen^1
 59740^Purified Crystal^100
-59741^Hunter's Dirk^1
+59741^Hunter's Dirk^100
 59742^Hunter's Barbs^100
 59743^Wayfarer's Bread^20
-59745^Wayfarer's Bandage^1
+59745^Wayfarer's Bandage^20
 59748^Gray Potion^1
 59751^Vial of Vigor^1
 59752^Vial of Cohesion^1
@@ -56872,31 +56872,31 @@
 64340^Sealed Stomples Basket^1
 64341^Stomples Basket^1
 64342^Toothed Kinder Egg^20
-64343^Striped Kinder Egg^1
-64344^Wavy Kinder Egg^1
-64345^Dotted Kinder Egg^1
-64346^Crosshatch Kinder Egg^1
+64343^Striped Kinder Egg^20
+64344^Wavy Kinder Egg^20
+64345^Dotted Kinder Egg^20
+64346^Crosshatch Kinder Egg^20
 64347^Tiled Kinder Egg^20
-64348^Sunburst Kinder Egg^1
+64348^Sunburst Kinder Egg^20
 64349^Patterned Kinder Egg^20
 64350^Madness of Stomples^1
 64351^Sugar Jelly Seeds^200
 64352^Rock Candy^200
 64353^Chocolate Bunny^100
 64354^Sealed Stomple Package^1
-64356^Bunny-Thumper Mead^1
+64356^Bunny-Thumper Mead^20
 64357^Egg Fortified Juice^20
 64358^Caramel Apple^20
 64359^Sealed Decorative Egg Package^1
 64360^Decorative Egg Package^1
-64361^Toothed Decorative Egg^1
-64362^Striped Decorative Egg^1
-64363^Wavy Decorative Egg^1
-64364^Dotted Decorative Egg^1
-64365^Crosshatch Decorative Egg^1
-64366^Tiled Decorative Egg^1
-64367^Sunburst Decorative Egg^1
-64368^Patterned Decorative Egg^1
+64361^Toothed Decorative Egg^100
+64362^Striped Decorative Egg^100
+64363^Wavy Decorative Egg^100
+64364^Dotted Decorative Egg^100
+64365^Crosshatch Decorative Egg^100
+64366^Tiled Decorative Egg^100
+64367^Sunburst Decorative Egg^100
+64368^Patterned Decorative Egg^100
 64369^Toothed Painted Egg^20
 64370^Striped Painted Egg^20
 64371^Wavy Painted Egg^20
@@ -57082,7 +57082,7 @@
 64553^Trillion Cut Alaris Gemstone^20
 64554^Ability: Enchant Alaran Metal (x1)^20
 64555^Ability: Enchant Alaran Metal (x10)^20
-64556^Argath Brandy^1
+64556^Argath Brandy^20
 64557^Doll's Mask^1
 64559^Rallosian Orc Contract^1
 64560^Tiger Raptor Saddle^1
@@ -57420,8 +57420,8 @@
 64897^Sophisticated Unadorned Plate Vambrace^3
 64898^Sophisticated Unadorned Plate Greaves^1
 64899^Sophisticated Unadorned Breastplate^1
-64900^Rough Spell Tablet^1
-64901^Spell Tablet^1
+64900^Rough Spell Tablet^1000
+64901^Spell Tablet^1000
 64902^Fine Spell Tablet^200
 64903^Runic Spell Tablet^1000
 64904^Fine Runic Spell Tablet^1
@@ -58676,7 +58676,7 @@
 66161^Steel Fletch^1000
 66162^Steel Working Knife^1
 66163^Surefall Fletching Kit^1
-66164^Surefall Tannin^1
+66164^Surefall Tannin^1000
 66165^Well Balanced Planar Beam^1
 66166^Steel Phalanx Arrows^100
 66167^Steel Guardian Arrows^100
@@ -61310,19 +61310,19 @@
 69007^Discarded Note^1
 69008^Bolt of Colorfull Cloth^1
 69009^Crude Amulet^1
-69010^Corroded Axe^1
+69010^Corroded Axe^100
 69011^Blunt Axe^100
-69012^Steel Axe^1
+69012^Steel Axe^100
 69013^Bearded Axe^100
-69014^Mithril Axe^1
+69014^Mithril Axe^100
 69015^Balanced War Axe^100
 69016^Bonesplicer Axe^100
-69017^Fleshtear Axe^1
-69018^Cold Steel Cleaving Axe^1
-69019^Mithril Bloodaxe^1
-69020^Rage Axe^1
+69017^Fleshtear Axe^100
+69018^Cold Steel Cleaving Axe^100
+69019^Mithril Bloodaxe^100
+69020^Rage Axe^100
 69021^Bloodseeker's Axe^100
-69022^Battlerage Axe^1
+69022^Battlerage Axe^100
 69023^Deathfury Axe^100
 69028^Glowing Page^1
 69029^Mysterious Tome^1
@@ -71320,7 +71320,7 @@
 80039^Bridle of the Cursed^1
 80040^Faerie Catching Bottle^1
 80041^Torch of Undead Warding^1
-80042^Firework: Nagafen Fire^1
+80042^Firework: Nagafen Fire^20
 80043^Mask of Eyes^1
 80044^Tasty Squash Pie^20
 80045^Rough Crystalline Fragment^1
@@ -100056,6 +100056,7 @@
 113625^Trade-In Gem: Desperate Escape Rk. II^20
 113634^Trade-In Gem: Malarian Mantle Rk. II^20
 113641^Trade-In Gem: Dire Implication Rk. II^20
+113649^Courtier Strings^20
 113650^Trade-In Gem: Healing Counterbias Rk. II^20
 113659^Trade-In Gem: Wind of Malis Rk. II^20
 113662^Trade-In Gem: Frost Gift Rk. II^20
@@ -108360,7 +108361,7 @@
 124960^Spell: Stubborn Stance Rk. II^20
 124961^Spell: Stubborn Stance Rk. III^1
 124962^Spell: Cleanse^1
-124963^Spell: Cleanse Rk. II^1
+124963^Spell: Cleanse Rk. II^20
 124964^Spell: Cleanse Rk. III^1
 124965^Spell: Earnest Purity^1
 124966^Spell: Earnest Purity Rk. II^1
@@ -108459,7 +108460,7 @@
 125101^Spell: Called Shots Rk. II^20
 125102^Spell: Called Shots Rk. III^1
 125106^Spell: Drifting Cloud^1
-125107^Spell: Drifting Cloud Rk. II^1
+125107^Spell: Drifting Cloud Rk. II^20
 125108^Spell: Drifting Cloud Rk. III^1
 125109^Spell: Purefont^1
 125110^Spell: Purefont Rk. II^20
@@ -108504,10 +108505,10 @@
 125158^Spell: Roar of the Predator Rk. II^20
 125159^Spell: Roar of the Predator Rk. III^1
 125160^Spell: Quillcoat^1
-125161^Spell: Quillcoat Rk. II^1
+125161^Spell: Quillcoat Rk. II^20
 125162^Spell: Quillcoat Rk. III^1
 125163^Spell: Stalker's Vigor^1
-125164^Spell: Stalker's Vigor Rk. II^1
+125164^Spell: Stalker's Vigor Rk. II^20
 125165^Spell: Stalker's Vigor Rk. III^1
 125166^Spell: Desperate Deluge^1
 125167^Spell: Desperate Deluge Rk. II^20
@@ -109068,13 +109069,13 @@
 126023^Spell: Shield of Dreams Rk. II^1
 126024^Spell: Shield of Dreams Rk. III^1
 126025^Spell: Blighted Venin^1
-126026^Spell: Blighted Venin Rk. II^1
+126026^Spell: Blighted Venin Rk. II^20
 126027^Spell: Blighted Venin Rk. III^1
 126028^Spell: Divert Essence^1
-126029^Spell: Divert Essence Rk. II^1
+126029^Spell: Divert Essence Rk. II^20
 126030^Spell: Divert Essence Rk. III^1
 126031^Spell: Dunkelnacht Orb^1
-126032^Spell: Dunkelnacht Orb Rk. II^1
+126032^Spell: Dunkelnacht Orb Rk. II^20
 126033^Spell: Dunkelnacht Orb Rk. III^1
 126036^Spell: Folasar's Decay^1
 126037^Spell: Folasar's Decay Rk. II^1
@@ -109083,11 +109084,11 @@
 126040^Spell: Burlabis' Swift Venom Rk. II^1
 126041^Spell: Burlabis' Swift Venom Rk. III^1
 126042^Spell: Arachne's Grasp^1
-126043^Spell: Arachne's Grasp Rk. II^1
+126043^Spell: Arachne's Grasp Rk. II^20
 126044^Spell: Arachne's Grasp Rk. III^1
 126048^Spell: Aziad's Shade^1
 126049^Spell: Bonestitch Manikin^1
-126050^Spell: Bonestitch Manikin Rk. II^1
+126050^Spell: Bonestitch Manikin Rk. II^20
 126051^Spell: Bonestitch Manikin Rk. III^1
 126055^Spell: Cascading Deathshield^1
 126056^Spell: Cascading Deathshield Rk. II^1
@@ -109190,7 +109191,7 @@
 126210^Spell: Aegis of Lithara Rk. II^20
 126211^Spell: Aegis of Lithara Rk. III^1
 126212^Spell: Concussive Burst^1
-126213^Spell: Concussive Burst Rk. II^1
+126213^Spell: Concussive Burst Rk. II^20
 126214^Spell: Concussive Burst Rk. III^1
 126221^Spell: Corona Beam^1
 126222^Spell: Corona Beam Rk. II^1
@@ -109239,7 +109240,7 @@
 126288^Spell: Lightning Helix Rk. II^1
 126289^Spell: Lightning Helix Rk. III^1
 126290^Spell: Lightning Surge^1
-126291^Spell: Lightning Surge Rk. II^1
+126291^Spell: Lightning Surge Rk. II^20
 126292^Spell: Lightning Surge Rk. III^1
 126293^Spell: Mana Vortex^1
 126294^Spell: Mana Vortex Rk. II^1
@@ -109413,10 +109414,10 @@
 126554^Spell: Voracious Flames^1
 126555^Spell: Voracious Flames Rk. II^20
 126578^Spell: Baffling Flash^1
-126579^Spell: Baffling Flash Rk. II^1
+126579^Spell: Baffling Flash Rk. II^20
 126580^Spell: Baffling Flash Rk. III^1
 126581^Spell: Chromatic Jab^1
-126582^Spell: Chromatic Jab Rk. II^1
+126582^Spell: Chromatic Jab Rk. II^20
 126583^Spell: Chromatic Jab Rk. III^1
 126584^Spell: Illusion: Scarecrow^1
 126585^Spell: Novak's Animation^1
@@ -109438,10 +109439,10 @@
 126601^Spell: Baffle Rk. II^20
 126602^Spell: Baffle Rk. III^1
 126603^Spell: Baffler's Aura^1
-126604^Spell: Baffler's Aura Rk. II^1
+126604^Spell: Baffler's Aura Rk. II^20
 126605^Spell: Baffler's Aura Rk. III^1
 126609^Spell: Bucolic Mind^1
-126610^Spell: Bucolic Mind Rk. II^1
+126610^Spell: Bucolic Mind Rk. II^20
 126611^Spell: Bucolic Mind Rk. III^1
 126612^Spell: Chromarcana^1
 126613^Spell: Chromarcana Rk. II^20
@@ -109569,7 +109570,7 @@
 126809^Tome of Flurry of Claws Rk. II^1
 126810^Tome of Flurry of Claws Rk. III^1
 126811^Spell: Jorra's Mending^1
-126812^Spell: Jorra's Mending Rk. II^1
+126812^Spell: Jorra's Mending Rk. II^20
 126813^Spell: Jorra's Mending Rk. III^1
 126814^Spell: Sha's Reprisal^1
 126815^Spell: Sha's Reprisal Rk. II^20
@@ -147948,15 +147949,28 @@
 174817^Rusted Cloak of Fortune's Fool^1
 174818^Drained Tarnished Cloak of Fortune's Fool^1
 174819^Tarnished Cloak of Fortune's Fool^1
+174820^Drained Scuffed Cloak of Fortune's Fool^1
+174821^Scuffed Cloak of Fortune's Fool^1
+174824^Drained Pristine Cloak of Fortune's Fool^1
 174825^Pristine Cloak of Fortune's Fool^1
+174826^Drained Polished Cloak of Fortune's Fool^1
+174827^Polished Cloak of Fortune's Fool^1
+174828^Drained Lustrous Cloak of Fortune's Fool^1
 174829^Lustrous Cloak of Fortune's Fool^1
 174830^Glinting Cloak of Fortune's Fool^1
 174867^Scornful Warped Wooden Die^1
 174868^Repulsive Warped Wooden Die^1
+174869^Generous Warped Wooden Die^1
 174870^Balanced Warped Wooden Die^1
 174871^Woeful Warped Wooden Die^1
 174872^Innocent Warped Wooden Die^1
+174873^Prayer of Refined Grit^1
+174874^Unbowed Wooden Dice Box^1
+174875^Purified Wooden Dice Set^1
+174876^Purified Dice Charm^1
+174884^Flittering Golden Mote^10
 174887^Spool of Gilded Thread^1
+174894^Blessed BLT Sandwich^1
 174900^Appendage^8
 174902^Bundle of Books^8
 174939^Broken Spectacles^100
@@ -149111,7 +149125,11 @@
 176394^A King of Griffins Card^100
 176396^A Prince of Lamps Card^100
 176399^A Jester of Ringers Card^100
+176400^A Torn Two of Bones Card^100
+176419^Intricate Velium Smithing Hammer^100
 176420^Ancient Map of the Plane of Earth^100
+176421^Treatise Exploring the Rathe Council^100
+176422^Manuscript on the Planes of Power^100
 177000^Tome: Hiatus V^1
 177001^Tome: Final Stand Discipline VI^1
 177002^Tome: Cyclone Blades XIV^1
@@ -149820,7 +149838,7 @@
 178136^all waist //GT1 intwis Threads of Potential^1
 178137^all waist //GT1 agidex Overdrive Boon^1
 178138^all charm //GT1 strsta^1
-178139^all charm //GT1 intwis^1
+178139^Medallion of Enlightenment^1
 178140^all charm //GT1 ACagidex^1
 178141^Tank Shield- //GT1^1
 178142^Meleehybrid Shield- !ber //GT1^1
@@ -149828,13 +149846,13 @@
 178144^primary secondary 1hs //GT1^1
 178145^primary secondary 1hs //GT1^1
 178146^primary secondary 1hb //GT1^1
-178147^primary secondary 1hb //GT1^1
+178147^Truth^1
 178148^primary secondary 1hp //GT1^1
 178149^primary secondary 1hp //GT1^1
 178150^war primary secondary 1hs- //GT1^1
 178151^knight primary 1hb- //GT1^1
 178152^primary secondary hth //GT1^1
-178153^mnk bst primary secondary 1hb- //GT1^1
+178153^Baton of Memory^1
 178154^rog primary secondary 1hp- //GT1^1
 178155^priest primary 1hb- //GT1^1
 178156^caster primary 1hb- //GT1^1
@@ -149976,71 +149994,71 @@
 178313^petclasses ear //GT2^1
 178314^all ear //GT2 strsta^1
 178315^all ear //GT2 intwis^1
-178316^all ear //GT2 agidex^1
+178316^Harmonic Ear Bud^1
 178317^tank mask //GT2 strsta^1
 178318^all mask //GT2 intwis^1
-178319^all mask //GT2 agidex^1
+178319^Iridescent Snakeskin Mask^1
 178320^all neck //GT2 strsta^1
-178321^all neck //GT2 ACintwis^1
+178321^Collar of Luck^1
 178322^all neck //GT2 agidex^1
-178323^all shoulders //GT2 ACstrsta^1
-178324^all shoulders //GT2 ACintwis^1
+178323^Sand Scoured Shoulder Pads^1
+178324^Gilded Epaulets^1
 178325^all shoulders //GT2 ACagidex^1
 178326^all back //GT2 ACstrsta^1
 178327^all back //GT2 intwis^1
 178328^all back //GT2 agidex^1
-178329^all range //GT2 strsta^1
+178329^Idol of Fortune^1
 178330^all range //GT2 intwis^1
 178331^all range //GT2 agidex^1
-178332^all finger //GT2 ACstrsta^1
+178332^Yellow Gem Ring^1
 178333^all finger //GT2 ACintwis^1
 178334^all finger //GT2 ACagidex^1
 178335^all waist //GT2 strsta Crippling Slicer^1
-178336^all waist //GT2 intwis Threads of Potential^1
+178336^Wolf Hide Hip Belt^1
 178337^all waist //GT2 agidex Overdrive Boon^1
 178338^all charm //GT2 strsta^1
 178339^all charm //GT2 intwis^1
 178340^all charm //GT2 ACagidex^1
-178341^Tank Shield- //GT2^1
+178341^Balanced Shield^1
 178342^Meleehybrid Shield- !ber //GT2^1
 178343^Casterpriest Shield- //GT2^1
-178344^primary secondary 1hs //GT2^1
+178344^Greed^1
 178345^primary secondary 1hs //GT2^1
 178346^primary secondary 1hb //GT2^1
 178347^primary secondary 1hb //GT2^1
 178348^primary secondary 1hp //GT2^1
-178349^primary secondary 1hp //GT2^1
+178349^Madness^1
 178350^war primary secondary 1hs- //GT2^1
 178351^knight primary 1hb- //GT2^1
-178352^primary secondary hth //GT2^1
+178352^Guile^1
 178353^mnk bst primary secondary 1hb- //GT2^1
 178354^rog primary secondary 1hp- //GT2^1
 178355^priest primary 1hb- //GT2^1
 178356^priest primary 1hb- //GT2^1
-178357^caster primary 1hp- //GT2^1
+178357^Desire^1
 178358^caster primary 1hb- //GT2^1
-178359^primary 2hs //GT2^1
+178359^Tormentor's Blade^1
 178360^primary 2hb //GT2^1
-178361^primary 2hp //GT2^1
+178361^Fiery Two Handed Sword^1
 178362^knight primary 2hs- //GT2^1
-178363^mnk bst primary 2hb- //GT2^1
-178364^priest primary 2hb- //GT2^1
+178363^Snake Killer^1
+178364^Serenity^1
 178365^caster primary 2hb- //GT2^1
 178366^range rng bow- //GT2^1
 178367^range war pal shd rog bow- //GT2^1
-178368^all aug //GT2 str^1
+178368^Dented Lucky Stein^1
 178369^all aug //GT2 agi^1
-178370^all aug //GT2 intwis^1
+178370^Adornment of Love^1
 178371^all aug //GT2 AC^1
 178372^primary secondary all aug //GT2^1
 178373^primary all aug //GT2^1
 178374^all primary secondary range charm aug //GT2  Balan^1
-178375^all primary secondary range charm aug //GT2  hStr^1
+178375^Grimey Honey Pot^1
 178376^all primary secondary range charm aug //GT2  hDex^1
-178377^all primary secondary range charm aug //GT2  hAgi^1
+178377^Gem of Favor^1
 178378^all primary secondary range charm aug //GT2  hSta^1
 178379^all primary secondary range charm aug //GT2  hInt^1
-178380^all primary secondary range charm aug //GT2  hWis^1
+178380^Thraxis' Eye^1
 178401^Legionnaire Bracer of Mirrored Coins^1
 178402^Legionnaire Gauntlets of Mirrored Coins^1
 178403^Legionnaire Boots of Mirrored Coins^1
@@ -150378,10 +150396,10 @@
 178752^primary secondary hth //RT1^1
 178753^mnk bst primary secondary 1hb- //RT1^1
 178754^rog primary secondary 1hp- //RT1^1
-178755^priest primary 1hb- //RT1^1
-178756^priest primary 1hb- //RT1^1
-178757^caster primary 1hp- //RT1^1
-178758^caster primary 1hb- //RT1^1
+178755^Sacred Affection^1
+178756^Mace of the Bleeding Heart^1
+178757^Dagger of the False Heartbeat^1
+178758^Heart's Gambit^1
 178759^primary 2hs //RT1^1
 178760^primary 2hb //RT1^1
 178761^primary 2hp //RT1^1
@@ -150570,13 +150588,16 @@
 178981^Forlorn Arms Armor of Sworn Devotion^1
 178984^Forlorn Wrist Armor of the Unraveling Mind^1
 178985^Forlorn Hands Armor of the Unraveling Mind^1
+178986^Forlorn Feet Armor of the Unraveling Mind^1
 178989^Forlorn Legs Armor of the Unraveling Mind^1
 178990^Forlorn Chest Armor of the Unraveling Mind^1
 178991^Forlorn Wrist Armor of Veiled Whispers^1
 178992^Forlorn Hands Armor of Veiled Whispers^1
 178993^Forlorn Feet Armor of Veiled Whispers^1
 178994^Forlorn Head Armor of Veiled Whispers^1
+178995^Forlorn Arms Armor of Veiled Whispers^1
 178996^Forlorn Legs Armor of Veiled Whispers^1
+178997^Forlorn Chest Armor of Veiled Whispers^1
 180021^Lucky Feather Talisman^100
 180030^Glinting Thorn Fragment^100
 180031^Clover-Marked Carapace^100
