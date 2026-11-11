@@ -97037,6 +97037,10 @@
 109747^Sandstone Knuckles^1
 109748^Arms of the Cliknar^1
 109749^Hive Nurse's Corrector^1
+109751^Summoned: Modulation Spark I^1
+109752^Summoned: Modulation Spark II^1
+109753^Summoned: Modulation Spark III^1
+109754^Summoned: Modulation Spark IV^1
 109755^Grintwisdom's Gift^1
 109756^Shield of the Vanquished^1
 109757^Anoh Round Shield^1
@@ -147951,6 +147955,8 @@
 174819^Tarnished Cloak of Fortune's Fool^1
 174820^Drained Scuffed Cloak of Fortune's Fool^1
 174821^Scuffed Cloak of Fortune's Fool^1
+174822^Drained Smudged Cloak of Fortune's Fool^1
+174823^Smudged Cloak of Fortune's Fool^1
 174824^Drained Pristine Cloak of Fortune's Fool^1
 174825^Pristine Cloak of Fortune's Fool^1
 174826^Drained Polished Cloak of Fortune's Fool^1
@@ -149126,6 +149132,7 @@
 176396^A Prince of Lamps Card^100
 176399^A Jester of Ringers Card^100
 176400^A Torn Two of Bones Card^100
+176410^Shattered Sigil of Tactics^100
 176419^Intricate Velium Smithing Hammer^100
 176420^Ancient Map of the Plane of Earth^100
 176421^Treatise Exploring the Rathe Council^100
@@ -149812,72 +149819,72 @@
 178110^Warmonger Sleeves of Sworn Devotion^1
 178111^Warmonger Leggings of Sworn Devotion^1
 178112^Warmonger Coat of Sworn Devotion^1
-178113^petclasses ear //GT1^1
-178114^all ear //GT1 strsta^1
-178115^all ear //GT1 intwis^1
-178116^all ear //GT1 agidex^1
-178117^tank mask //GT1 strsta^1
-178118^all mask //GT1 intwis^1
-178119^all mask //GT1 agidex^1
-178120^all neck //GT1 strsta^1
-178121^all neck //GT1 ACintwis^1
-178122^all neck //GT1 agidex^1
-178123^all shoulders //GT1 ACstrsta^1
-178124^all shoulders //GT1 ACintwis^1
-178125^all shoulders //GT1 ACagidex^1
-178126^all back //GT1 ACstrsta^1
-178127^all back //GT1 intwis^1
-178128^all back //GT1 agidex^1
-178129^all range //GT1 strsta^1
-178130^all range //GT1 intwis^1
+178113^Gilded Porcelain Rose^1
+178114^Leaf of Staying Power^1
+178115^Legacy of Darkness^1
+178116^Sap-Dripped Stud^1
+178117^Goldlace Visor^1
+178118^Cinderveil of Desire^1
+178119^Plunder-Runner's Want^1
+178120^Faithwing's Butterfly Kisses^1
+178121^Locket of the Beloved^1
+178122^Thirsting Tendril Choker^1
+178123^Pauldron of the Hungry Bloom^1
+178124^Delicate Shawl of Kaelfor^1
+178125^Siren Scaled Epaulets^1
+178126^Gossamer Butterfly Wings^1
+178127^Patient Thirst Shroud^1
+178128^Cloak of the Sandman^1
+178129^Thundercrest Scepter^1
+178130^Goblet of Entwined Hearts^1
 178131^all range //GT1 agidex^1
-178132^all finger //GT1 ACstrsta^1
-178133^all finger //GT1 ACintwis^1
-178134^all finger //GT1 ACagidex^1
-178135^all waist //GT1 strsta Crippling Slicer^1
-178136^all waist //GT1 intwis Threads of Potential^1
-178137^all waist //GT1 agidex Overdrive Boon^1
-178138^all charm //GT1 strsta^1
+178132^Kirin Band of Wisdom^1
+178133^Riftseeker's Ring of Flame^1
+178134^Band of the Taking Heart^1
+178135^Relentless Undertow Sash^1
+178136^Amorous Rocky Girdle^1
+178137^Sash of the Dryads^1
+178138^Grain of Sand^1
 178139^Medallion of Enlightenment^1
-178140^all charm //GT1 ACagidex^1
-178141^Tank Shield- //GT1^1
-178142^Meleehybrid Shield- !ber //GT1^1
-178143^Casterpriest Shield- //GT1^1
-178144^primary secondary 1hs //GT1^1
-178145^primary secondary 1hs //GT1^1
-178146^primary secondary 1hb //GT1^1
+178140^Torn Cloth Cap^1
+178141^The Captain's Shield^1
+178142^Hive Preserver^1
+178143^Panda Defender^1
+178144^Love Bite^1
+178145^Lost Love's Sorrow^1
+178146^Butterfly Chaser^1
 178147^Truth^1
-178148^primary secondary 1hp //GT1^1
-178149^primary secondary 1hp //GT1^1
-178150^war primary secondary 1hs- //GT1^1
-178151^knight primary 1hb- //GT1^1
-178152^primary secondary hth //GT1^1
+178148^Shock^1
+178149^Pointy Thing From the Depths^1
+178150^Herd Leader^1
+178151^Wessel's Warsword^1
+178152^Faithwing's Flutterfists^1
 178153^Baton of Memory^1
-178154^rog primary secondary 1hp- //GT1^1
-178155^priest primary 1hb- //GT1^1
-178156^caster primary 1hb- //GT1^1
-178157^primary 2hs //GT1^1
-178158^primary 2hb //GT1^1
-178159^primary 2hp //GT1^1
-178160^knight primary 2hs- //GT1^1
-178161^mnk bst primary 2hb- //GT1^1
-178162^priest primary 2hb- //GT1^1
-178163^caster primary 2hb- //GT1^1
-178164^range rng bow- //GT1^1
-178165^range war pal shd rog bow- //GT1^1
-178166^all aug //GT1 strsta^1
-178167^all aug //GT1 agidex^1
-178168^all aug //GT1 intwissta^1
-178169^all aug //GT1 AC^1
+178154^Alanya's Piercing Kiss^1
+178155^Aiora's Tidal Scepter^1
+178156^Soltara's Burning Wand^1
+178157^Briar Reaper^1
+178158^Heartstopper^1
+178159^Thornmother's Kiss^1
+178160^Greatblade of Virtue^1
+178161^Quarterstaff of Ga`rot^1
+178162^Holy Moly Sandy Staff of the Enraged^1
+178163^Siren's Staff of Power Unseen^1
+178164^Dryad's Sigh^1
+178165^Luring Petal^1
+178166^Chime of Alaryn^1
+178167^Tideswept Virtue Stone^1
+178168^Faded Rose of the Dancer^1
+178169^Rocky Bauble of the Glutton^1
 178170^Winnowyl's Potato^1
-178171^primary all aug //GT1^1
-178172^all primary secondary range charm aug //GT1 Balanc^1
-178173^all primary secondary range charm aug //GT1 hStr^1
-178174^all primary secondary range charm aug //GT1 hDex^1
-178175^all primary secondary range charm aug //GT1 hAgi^1
-178176^all primary secondary range charm aug //GT1 hSta^1
-178177^all primary secondary range charm aug //GT1 hInt^1
-178178^all primary secondary range charm aug //GT1 hWis^1
+178171^Razor-Parchment^1
+178172^Unsprouted Seed^1
+178173^Grisly Trophy of the Hunter^1
+178174^Totem of Reckless Luck^1
+178175^Agile Emblem of Leadership^1
+178176^Resolute Sigil of the Dedicated^1
+178177^Lovely Tablet of Poetry^1
+178178^Pastel Paintbrush^1
 178179^SKU34 PH179^1
 178201^Legionnaire Bracer of the Unraveling Mind^1
 178202^Legionnaire Gauntlets of the Unraveling Mind^1
@@ -149991,73 +149998,73 @@
 178310^Warmonger Sleeves of the Unraveling Mind^1
 178311^Warmonger Leggings of the Unraveling Mind^1
 178312^Warmonger Coat of the Unraveling Mind^1
-178313^petclasses ear //GT2^1
-178314^all ear //GT2 strsta^1
-178315^all ear //GT2 intwis^1
+178313^Swoop of Profound Psychosis^1
+178314^Fang of Greed^1
+178315^Slumbering Scarab Earring^1
 178316^Harmonic Ear Bud^1
 178317^tank mask //GT2 strsta^1
 178318^all mask //GT2 intwis^1
 178319^Iridescent Snakeskin Mask^1
-178320^all neck //GT2 strsta^1
+178320^Turncoat's Pendant^1
 178321^Collar of Luck^1
 178322^all neck //GT2 agidex^1
 178323^Sand Scoured Shoulder Pads^1
 178324^Gilded Epaulets^1
-178325^all shoulders //GT2 ACagidex^1
-178326^all back //GT2 ACstrsta^1
+178325^Fancy Mantle of the Unseen^1
+178326^Shroud of the Unseen^1
 178327^all back //GT2 intwis^1
 178328^all back //GT2 agidex^1
 178329^Idol of Fortune^1
 178330^all range //GT2 intwis^1
-178331^all range //GT2 agidex^1
+178331^Rujarkian Tome of Ironmaw^1
 178332^Yellow Gem Ring^1
 178333^all finger //GT2 ACintwis^1
-178334^all finger //GT2 ACagidex^1
-178335^all waist //GT2 strsta Crippling Slicer^1
+178334^Plundered Viridian Signet^1
+178335^Cincture of the Deranged^1
 178336^Wolf Hide Hip Belt^1
-178337^all waist //GT2 agidex Overdrive Boon^1
-178338^all charm //GT2 strsta^1
+178337^Crooked Loincloth^1
+178338^Exsanguinary Emblem^1
 178339^all charm //GT2 intwis^1
-178340^all charm //GT2 ACagidex^1
+178340^Wolfstone of the Sly^1
 178341^Balanced Shield^1
 178342^Meleehybrid Shield- !ber //GT2^1
-178343^Casterpriest Shield- //GT2^1
+178343^Unhallowed Aegis^1
 178344^Greed^1
 178345^primary secondary 1hs //GT2^1
-178346^primary secondary 1hb //GT2^1
+178346^Fury of the Nocturnal^1
 178347^primary secondary 1hb //GT2^1
 178348^primary secondary 1hp //GT2^1
 178349^Madness^1
-178350^war primary secondary 1hs- //GT2^1
-178351^knight primary 1hb- //GT2^1
+178350^Ire of Ironmaw^1
+178351^Sword of Sandreaving^1
 178352^Guile^1
 178353^mnk bst primary secondary 1hb- //GT2^1
 178354^rog primary secondary 1hp- //GT2^1
 178355^priest primary 1hb- //GT2^1
 178356^priest primary 1hb- //GT2^1
 178357^Desire^1
-178358^caster primary 1hb- //GT2^1
+178358^Silkfuser's Wand^1
 178359^Tormentor's Blade^1
-178360^primary 2hb //GT2^1
+178360^Radiant Sledgehammer of Delirium^1
 178361^Fiery Two Handed Sword^1
 178362^knight primary 2hs- //GT2^1
 178363^Snake Killer^1
 178364^Serenity^1
 178365^caster primary 2hb- //GT2^1
-178366^range rng bow- //GT2^1
-178367^range war pal shd rog bow- //GT2^1
+178366^Ganar's Golden Gaze^1
+178367^Shadowkiller^1
 178368^Dented Lucky Stein^1
-178369^all aug //GT2 agi^1
+178369^Visage of Dishonor^1
 178370^Adornment of Love^1
 178371^all aug //GT2 AC^1
-178372^primary secondary all aug //GT2^1
+178372^Hollow Soulgem^1
 178373^primary all aug //GT2^1
-178374^all primary secondary range charm aug //GT2  Balan^1
+178374^Comrade's Chalice of the Crook^1
 178375^Grimey Honey Pot^1
-178376^all primary secondary range charm aug //GT2  hDex^1
+178376^Mark of Undying Cruelty^1
 178377^Gem of Favor^1
 178378^all primary secondary range charm aug //GT2  hSta^1
-178379^all primary secondary range charm aug //GT2  hInt^1
+178379^Infinite Perception^1
 178380^Thraxis' Eye^1
 178401^Legionnaire Bracer of Mirrored Coins^1
 178402^Legionnaire Gauntlets of Mirrored Coins^1
@@ -150358,24 +150365,24 @@
 178714^all ear //RT1 strsta^1
 178715^all ear //RT1 intwis^1
 178716^all ear //RT1 agidex^1
-178717^tank mask //RT1 strsta^1
-178718^all mask //RT1 intwis^1
-178719^all mask //RT1 agidex^1
+178717^Mask of Ironclad Odds^1
+178718^Veil of the Brittle Truce^1
+178719^Silent Shadow Cowl^1
 178720^all neck //RT1 strsta^1
 178721^all neck //RT1 ACintwis^1
 178722^all neck //RT1 agidex^1
 178723^all shoulders //RT1 ACstrsta^1
 178724^all shoulders //RT1 ACintwis^1
 178725^all shoulders //RT1 ACagidex^1
-178726^all back //RT1 ACstrsta^1
-178727^all back //RT1 intwis^1
-178728^all back //RT1 agidex^1
+178726^Cloak of Divine Burden^1
+178727^Cloak of Scorn's Echo^1
+178728^Drape of Looming Shadow^1
 178729^all range //RT1 strsta^1
 178730^all range //RT1 intwis^1
 178731^all range //RT1 agidex^1
-178732^all finger //RT1 ACstrsta^1
-178733^all finger //RT1 ACintwis^1
-178734^all finger //RT1 ACagidex^1
+178732^Ring of Divine Burden^1
+178733^Band of Fortune^1
+178734^Signet of Unseen Betrayal^1
 178735^all waist //RT1 strsta Crippling Slicer^1
 178736^all waist //RT1 intwis Threads of Potential^1
 178737^all waist //RT1 agidex Overdrive Boon^1
@@ -150589,6 +150596,7 @@
 178984^Forlorn Wrist Armor of the Unraveling Mind^1
 178985^Forlorn Hands Armor of the Unraveling Mind^1
 178986^Forlorn Feet Armor of the Unraveling Mind^1
+178987^Forlorn Head Armor of the Unraveling Mind^1
 178989^Forlorn Legs Armor of the Unraveling Mind^1
 178990^Forlorn Chest Armor of the Unraveling Mind^1
 178991^Forlorn Wrist Armor of Veiled Whispers^1
