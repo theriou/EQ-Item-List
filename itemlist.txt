@@ -135514,7 +135514,7 @@
 160659^Calculating Differential Gear^1
 160660^Jetsam of the Darkened Sea^1
 160661^primary secondary all aug //GGMM^1
-160662^primary all aug //GGMM^1
+160662^Slaughtering Spur Gear^1
 160663^Gnomelike Gyro Pinion^1
 160664^Bolstering Spring^1
 160665^Refining Spring^1
@@ -149645,6 +149645,93 @@
 177505^Scroll: Ruined Relic Gate^1
 177506^Scroll: Ruined Relic Portal^1
 177507^Scroll: Translocate: Ruined Relic^1
+177510^Tome: Shield Topple IX^1
+177511^Tome: Diametric Shield^1
+177512^Tome: Enigmatic Expanse^1
+177513^Tome: Enigmatic Precision^1
+177514^Scroll: Erud's Retort X^1
+177515^Scroll: Anticipated Interposition VII^1
+177516^Scroll: Diametric Blessing^1
+177517^Scroll: Divine Response VI^1
+177518^Scroll: Valiant Deflection VII^1
+177519^Tome: Reverent Penitence VII^1
+177520^Scroll: Diametric Force^1
+177521^Scroll: Harmonious Blessing VI^1
+177522^Scroll: Storm of Arrows X^1
+177523^Tome: Focused Storm of Blades VII^1
+177524^Scroll: Diametric Fusillade^1
+177525^Scroll: Grovestalker's Covariance^1
+177526^Scroll: Grovestalker's Demeanor^1
+177527^Tome: Insolent Influence VII^1
+177528^Scroll: Diametric Fang^1
+177529^Scroll: Harmonious Disruption VI^1
+177530^Scroll: Bloodletting Pact^1
+177531^Scroll: Arboreal Absolution III^1
+177532^Scroll: Mysterious Ways VII^1
+177533^Scroll: Diametric Winds^1
+177534^Scroll: Ring of Plane of Greed^1
+177535^Scroll: Circle of Plane of Greed^1
+177536^Scroll: Zephyr: Plane of Greed^1
+177537^Scroll: Ring of Plane of Luck^1
+177538^Scroll: Circle of Plane of Luck^1
+177539^Scroll: Zephyr: Plane of Luck^1
+177540^Tome: Diametric Form^1
+177541^Tome: Curse of Eighteen Desires^1
+177542^Tome: Lifewalker's Pact^1
+177543^Tome: Lifewalker's Precision Strike^1
+177544^Song: Dirge of the Dryads IX^1
+177545^Song: Requiem for the Lost III^1
+177546^Song: Cutting Disdain X^1
+177547^Song: Diametric Psalm^1
+177548^Song: Amalithea's Demand^1
+177549^Song: Pact of Sticks and Stones^1
+177550^Tome: Troubadour's Demeanor^1
+177551^Tome: Poison Spike Trap V^1
+177552^Tome: Conditioned Reflexes III^1
+177553^Tome: Diametric Weapons^1
+177554^Tome: Poisonous Pact^1
+177555^Tome: Disassociative Puncture VI^1
+177556^Tome: Twisted Chance Discipline II^1
+177557^Scroll: Spiritual Surge V^1
+177558^Scroll: Diametric Roar^1
+177559^Scroll: Pustim's Pandemic^1
+177560^Scroll: Responsive Spirit V^1
+177561^Scroll: Chaotic Venom VI^1
+177562^Scroll: Remote Sphere of Decay X^1
+177563^Scroll: Flesh to Poison IV^1
+177564^Scroll: Diametric Paroxysm^1
+177565^Scroll: Pustim's Grip of Decay^1
+177566^Scroll: Malevolent Pact^1
+177567^Scroll: Mana Vortex IX^1
+177568^Scroll: Bucolic Gambit VII^1
+177569^Scroll: Diametric Fire^1
+177570^Scroll: Frostbound Pact^1
+177571^Scroll: Plane of Greed Gate^1
+177572^Scroll: Plane of Greed Portal^1
+177573^Scroll: Translocate: Plane of Greed^1
+177574^Scroll: Plane of Luck Gate^1
+177575^Scroll: Plane of Luck Portal^1
+177576^Scroll: Translocate: Plane of Luck^1
+177577^Scroll: Flame Arc XI^1
+177578^Scroll: Auspice of Shadows VII^1
+177579^Scroll: Fossilized Kismet Bolt^1
+177580^Scroll: Summon Cauldron of Xev^1
+177581^Scroll: Diametric Companion^1
+177582^Scroll: Firebound Pact^1
+177583^Scroll: Summon Orb of Flame XVIII^1
+177584^Scroll: Diametric Reinforcement^1
+177585^Scroll: Gravity Flux VI^1
+177586^Scroll: Chromatic Pact^1
+177587^Scroll: Enticer's Auspice VI^1
+177588^Scroll: Enticer's Demand VI^1
+177589^Scroll: Illusion: Oakstead Citizen^20
+177590^Scroll: Diametric Fury^1
+177591^Scroll: Venomous Pact^1
+177592^Tome: Al`ele's Vindication VI^1
+177593^Tome: Apostetrios' Demeanor^1
+177594^Tome: Arcblade VII^1
+177595^Tome: Diametric Rage^1
+177596^Tome: Obliterator's Pact^1
 177600^Faycite Focus Shard of the Warrior^1
 177601^Faycite Focus Shard of the Cleric^1
 177602^Faycite Focus Shard of the Paladin^1
@@ -149837,7 +149924,7 @@
 178128^Cloak of the Sandman^1
 178129^Thundercrest Scepter^1
 178130^Goblet of Entwined Hearts^1
-178131^all range //GT1 agidex^1
+178131^Folio of Fatal Flora^1
 178132^Kirin Band of Wisdom^1
 178133^Riftseeker's Ring of Flame^1
 178134^Band of the Taking Heart^1
@@ -150002,68 +150089,68 @@
 178314^Fang of Greed^1
 178315^Slumbering Scarab Earring^1
 178316^Harmonic Ear Bud^1
-178317^tank mask //GT2 strsta^1
-178318^all mask //GT2 intwis^1
+178317^Face Covering of the Deep Tide^1
+178318^The Hollow Visage^1
 178319^Iridescent Snakeskin Mask^1
 178320^Turncoat's Pendant^1
 178321^Collar of Luck^1
-178322^all neck //GT2 agidex^1
+178322^Rapacious Choker^1
 178323^Sand Scoured Shoulder Pads^1
 178324^Gilded Epaulets^1
 178325^Fancy Mantle of the Unseen^1
 178326^Shroud of the Unseen^1
-178327^all back //GT2 intwis^1
-178328^all back //GT2 agidex^1
+178327^Cloak of Luck^1
+178328^Crevin's Cloak^1
 178329^Idol of Fortune^1
-178330^all range //GT2 intwis^1
+178330^Lapis Chalice^1
 178331^Rujarkian Tome of Ironmaw^1
 178332^Yellow Gem Ring^1
-178333^all finger //GT2 ACintwis^1
+178333^Fatal Brilliance^1
 178334^Plundered Viridian Signet^1
 178335^Cincture of the Deranged^1
 178336^Wolf Hide Hip Belt^1
 178337^Crooked Loincloth^1
 178338^Exsanguinary Emblem^1
-178339^all charm //GT2 intwis^1
+178339^Tactical Effigy^1
 178340^Wolfstone of the Sly^1
 178341^Balanced Shield^1
-178342^Meleehybrid Shield- !ber //GT2^1
+178342^Ironhand's Greatshield^1
 178343^Unhallowed Aegis^1
 178344^Greed^1
-178345^primary secondary 1hs //GT2^1
+178345^Axe of Pain^1
 178346^Fury of the Nocturnal^1
-178347^primary secondary 1hb //GT2^1
-178348^primary secondary 1hp //GT2^1
+178347^Grisaille Maul^1
+178348^Winged Dirk^1
 178349^Madness^1
 178350^Ire of Ironmaw^1
 178351^Sword of Sandreaving^1
 178352^Guile^1
-178353^mnk bst primary secondary 1hb- //GT2^1
-178354^rog primary secondary 1hp- //GT2^1
-178355^priest primary 1hb- //GT2^1
-178356^priest primary 1hb- //GT2^1
+178353^Thunderous Doom^1
+178354^Whisper of the Vanguard^1
+178355^Clergy's Club^1
+178356^Gilded Finial^1
 178357^Desire^1
 178358^Silkfuser's Wand^1
 178359^Tormentor's Blade^1
 178360^Radiant Sledgehammer of Delirium^1
-178361^Fiery Two Handed Sword^1
-178362^knight primary 2hs- //GT2^1
+178361^Fiery Two-Handed Sword^1
+178362^Serrated Claymore^1
 178363^Snake Killer^1
 178364^Serenity^1
-178365^caster primary 2hb- //GT2^1
+178365^Anguished Magical Staff^1
 178366^Ganar's Golden Gaze^1
 178367^Shadowkiller^1
 178368^Dented Lucky Stein^1
 178369^Visage of Dishonor^1
 178370^Adornment of Love^1
-178371^all aug //GT2 AC^1
+178371^Gluttonous Gemstone of Might^1
 178372^Hollow Soulgem^1
-178373^primary all aug //GT2^1
+178373^Magnetic Stone Shards^1
 178374^Comrade's Chalice of the Crook^1
-178375^Grimey Honey Pot^1
+178375^Grimy Honey Pot^1
 178376^Mark of Undying Cruelty^1
 178377^Gem of Favor^1
-178378^all primary secondary range charm aug //GT2  hSta^1
+178378^Heart of an Adventurer^1
 178379^Infinite Perception^1
 178380^Thraxis' Eye^1
 178401^Legionnaire Bracer of Mirrored Coins^1
@@ -150364,21 +150451,21 @@
 178713^petclasses ear //RT1^1
 178714^all ear //RT1 strsta^1
 178715^all ear //RT1 intwis^1
-178716^all ear //RT1 agidex^1
+178716^Snakebitten^1
 178717^Mask of Ironclad Odds^1
 178718^Veil of the Brittle Truce^1
 178719^Silent Shadow Cowl^1
 178720^all neck //RT1 strsta^1
 178721^all neck //RT1 ACintwis^1
-178722^all neck //RT1 agidex^1
+178722^A Twist of Fate^1
 178723^all shoulders //RT1 ACstrsta^1
-178724^all shoulders //RT1 ACintwis^1
+178724^Shoulders of Fortune^1
 178725^all shoulders //RT1 ACagidex^1
 178726^Cloak of Divine Burden^1
 178727^Cloak of Scorn's Echo^1
 178728^Drape of Looming Shadow^1
 178729^all range //RT1 strsta^1
-178730^all range //RT1 intwis^1
+178730^Molten Cup of the Blacksmith^1
 178731^all range //RT1 agidex^1
 178732^Ring of Divine Burden^1
 178733^Band of Fortune^1
@@ -150391,30 +150478,30 @@
 178740^all charm //RT1 ACagidex^1
 178741^Tank Shield- //RT1^1
 178742^Meleehybrid Shield- !ber //RT1^1
-178743^Casterpriest Shield- //RT1^1
+178743^Fate's Temptation^1
 178744^primary secondary 1hs //RT1^1
 178745^primary secondary 1hs //RT1^1
 178746^primary secondary 1hb //RT1^1
 178747^primary secondary 1hb //RT1^1
 178748^primary secondary 1hp //RT1^1
-178749^primary secondary 1hp //RT1^1
+178749^Spear of the Rightful Heir^1
 178750^war primary secondary 1hs- //RT1^1
 178751^knight primary 1hb- //RT1^1
 178752^primary secondary hth //RT1^1
 178753^mnk bst primary secondary 1hb- //RT1^1
-178754^rog primary secondary 1hp- //RT1^1
+178754^Quiet Verdict^1
 178755^Sacred Affection^1
 178756^Mace of the Bleeding Heart^1
 178757^Dagger of the False Heartbeat^1
 178758^Heart's Gambit^1
 178759^primary 2hs //RT1^1
 178760^primary 2hb //RT1^1
-178761^primary 2hp //RT1^1
+178761^Fate-Bent Pike Spear^1
 178762^knight primary 2hs- //RT1^1
 178763^mnk bst primary 2hb- //RT1^1
-178764^priest primary 2hb- //RT1^1
+178764^Favor of the Bold^1
 178765^caster primary 2hb- //RT1^1
-178766^range rng bow- //RT1^1
+178766^Heavenly Humming Heartstring^1
 178767^range war pal shd rog bow- //RT1^1
 178799^Trunk of Treachery^1
 178800^Deceiver's Duffle^1
